@@ -3222,7 +3222,7 @@ aaaaaa
 ああああああ
 ほんとに#これでいいの…？
 Not very creative...?
-asgore
+Patrick Stanley Black and Decker Boyd
 あずごあ
 そのなまえは　ダメだ。
 You cannot.
@@ -5085,7 +5085,7 @@ hpwrite
  / 
 merge_color
 KillYou
-Asgore
+Patrick Stanley Black and Decker Boyd
 ky
 tempvalue
 Gameover
@@ -6223,19 +6223,14 @@ ds_map_set
 ds_map_destroy
 undefined
 string_byte_length
-
-
 string_pos
 newline_pos
 nextline_pos
-
 ds_map_create
 line_read
 file_text_read_real
 real
 ds_map_set_post
-
-
 file_text_write_real
 file_text_writeln
 x1
@@ -7693,9 +7688,9 @@ IT'S OK TO BE&INTIMIDATED BY&MY FASHION SENSE./%%
 * Seven./
 * Seven human souls./
 * With the power of seven&  human souls^1, our king.../
-\W* \YKing \RASGORE \YDreemurr\W.../
+\W* \YKing \RPatrick Stanley Black and Decker Boyd \YPart of a complete breakfast\W.../
 * ... will become a god./
-\W* With that power^1, \RASGORE\W &  can finally shatter the&  barrier./
+\W* With that power^1, \RPatrick Stanley Black and Decker Boyd\W &  can finally shatter the&  barrier./
 * He will finally take the&  surface back from humanity.../
 * And give them back the&  suffering and pain that&  we have endured./
 * Understand^1, human?/
@@ -7858,7 +7853,7 @@ I will do my best&to ensure your&protection during&your time here./%%
 \TS \E3 \F6 \TA %
 \E1* Um.../
 \E0* I noticed you've been&  kind of quiet.../
-\W*\E8 Are you w-worried&  about meeting \RASGORE\W...?/
+\W*\E8 Are you w-worried&  about meeting \RPatrick Stanley Black and Decker Boyd\W...?/
 \E2* .../
 \E0* W-well^1, don't worry^1,&  okay?/
 \E7* Th-the king is a&  really nice guy.../
@@ -8218,12 +8213,12 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E9* Heh^1.&* Papyrus has the&  right idea./
 \E0* Losing to Frisk is&  the best thing to&  ever happen to me./
 \E0* So I'm glad that&  we.../
-\E9* Huh^1?&* What is it^1, Asgore?/
+\E9* Huh^1?&* What is it^1, Patrick Stanley Black and Decker Boyd?/
 \E2* Um..^1. what's an.../
 \E0* ... anime?/
 \E1* (Oh My God?)/
 \E3* (Frisk^1. Please.)/
-\E2* (Help me explain what&  anime is to Asgore.)/
+\E2* (Help me explain what&  anime is to Patrick Stanley Black and Decker Boyd.)/
 \E0* Y-you see^1, it's&  like a cartoon^1,&  but.../
  &         With        With&         Sword's     Gun's\C
 \E2* So it's like a&  cartoon..^1.&* But with swords?/
@@ -8242,7 +8237,7 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E5* Eheheh..^1. yeah^1!&* It sure is!/%%
 \E0* Psst..^1.&* F-Frisk./
 \E3* Um^1, you've gotta&  tell me./
-\E6* D..^1. do you think&  Asgore and Toriel&  are...?/
+\E6* D..^1. do you think&  Patrick Stanley Black and Decker Boyd and Toriel&  are...?/
 \E3* Uh^1, ever gonna get&  back together?/
 & &         Yeah        Nope\C
 * Error.../%%
@@ -8273,8 +8268,8 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E2* Frisk^1! Stop^1!&* You're breaking his&  big burly heart!/
 \E2* Um^1, it's OK^1, Undyne./
 \E0* My heart's already&  broken./
-\E6* ASGORE^1! STOP^1!&* YOU'RE BREAKING MY&  BIG BURLY HEART!/
-\E9* Y-yeah^1, Asgore^1.&* Don't break Undyne's&  heart./
+\E6* Patrick Stanley Black and Decker Boyd^1! STOP^1!&* YOU'RE BREAKING MY&  BIG BURLY HEART!/
+\E9* Y-yeah^1, Patrick Stanley Black and Decker Boyd^1.&* Don't break Undyne's&  heart./
 \E2* That's my job./
 \E2* OH MY GOD!&* YOU'RE GOING BACK&  IN THE TRASH!!!/
 \E0CAN I GO IN THE&TRASH TOO?/
@@ -8594,7 +8589,7 @@ Then^1, it is done./%%
    \Y* (Saved)\W &
 \W   * Papyrus       * Sans \W &
 \Y   * (Saved)       * (Saved)\W &
-\W   * Toriel        * Asgore \W 
+\W   * Toriel        * Patrick Stanley Black and Decker Boyd \W 
 \Y   * (Saved)       * (Saved)\W 
    * Someone else
    * Asriel Dreemurr
@@ -9601,7 +9596,7 @@ obj_alphys_npc_99
 obj_alphysfollow_event_108
 \E5* L-let's k-keep&  going!/%%
 obj_alphysfollow_event_109
-* S-so you're about&  to meet ASGORE^1,&  h-huh?/
+* S-so you're about&  to meet Patrick Stanley Black and Decker Boyd^1,&  h-huh?/
 obj_alphysfollow_event_148
 \E6* You must be..^1.&* Y-you must be.../
 obj_alphysfollow_event_149
@@ -9641,7 +9636,7 @@ obj_alphysfollow_event_267
 obj_alphysfollow_event_295
 \E5* You'll have to&  take his soul./
 obj_alphysfollow_event_296
-\E7* You'll have to&  kill ASGORE./%%
+\E7* You'll have to&  kill Patrick Stanley Black and Decker Boyd./%%
 obj_alphysfollow_event_297
 * I'm sorry./%%
 obj_alphysfollow_event_345
@@ -9655,7 +9650,7 @@ obj_alphystrigger1_176
 obj_alphystrigger1_224
 * H-h-hiya!/
 obj_alphystrigger1_225
-* I'm Dr. Alphys^1.&* I'm ASGORE's royal&  scientist!/
+* I'm Dr. Alphys^1.&* I'm Patrick Stanley Black and Decker Boyd's royal&  scientist!/
 obj_alphystrigger1_226
 \E3* B-b-but^1, ahhhh^1,&  I'm not one of&  the "bad guys"!/
 obj_alphystrigger1_227
@@ -9675,7 +9670,7 @@ obj_alphystrigger1_237
 obj_alphystrigger1_238
 \E6* Using my knowledge^1,&  I can easily guide&  you through Hotland!/
 obj_alphystrigger1_239
-\E0* I know a way right&  to ASGORE's castle^1,&  no problem!/
+\E0* I know a way right&  to Patrick Stanley Black and Decker Boyd's castle^1,&  no problem!/
 obj_alphystrigger1_240
 obj_alphystrigger1_241
 \E7* Well^1, actually^1, umm^1,&  there's just a&  tiny issue./
@@ -9798,7 +9793,7 @@ obj_asgore_finalintro_179
 obj_asgore_finalintro_180
      * (You're filled with&          DETERMINATION.^5) %%
 obj_asgore_finalintro_181
-Human.../
+Glue.../
 obj_asgore_finalintro_213
 \E1It was&nice to&meet&you./
 obj_asgore_finalintro_214
@@ -9812,7 +9807,7 @@ Why not&settle&this.../
 obj_asgore_finalintro_222
 Over a&nice cup&of tea?/%%
 obj_asgore_finalintro_223
-* ASGORE attacks!
+* Patrick Stanley Black and Decker Boyd attacks!
 obj_asgore_finalintro_496
 \E0* Howdy^1, Frisk./
 obj_asgore_friendc_76
@@ -9822,7 +9817,7 @@ obj_asgore_friendc_77
 obj_asgore_friendc_78
 \E0* I hope we can&  still be pals./
 obj_asgore_friendc_79
-\E0* Hey^1, don't worry&  about it^1, ASGORE./
+\E0* Hey^1, don't worry&  about it^1, Patrick Stanley Black and Decker Boyd./
 obj_asgore_friendc_81
 \E2* I think everybody's&  tried to kill Frisk&  at least once./
 obj_asgore_friendc_82
@@ -9830,7 +9825,7 @@ obj_asgore_friendc_82
 obj_asgore_friendc_84
 \E0* In that case^1, I'm&  not sorry^1, Frisk./
 obj_asgore_friendc_85
-\E6* ASGORE^1!&* That's not what I&  meant!/%%
+\E6* Patrick Stanley Black and Decker Boyd^1!&* That's not what I&  meant!/%%
 obj_asgore_friendc_87
 \E3* Oh^1, Frisk^1, if you're&  not busy.../
 obj_asgore_friendc_97
@@ -10027,31 +10022,31 @@ obj_asgore_prebarrier_event_113
 obj_asgore_prebarrier_event_114
 * ...
 obj_asgoreb_652
-* Asgore has low HP.
+* Patrick Stanley Black and Decker Boyd has low HP.
 obj_asgoreb_658
-* ASGORE 80 ATK 80 DEF /^
+* Patrick Stanley Black and Decker Boyd 80 ATK 80 DEF /^
 obj_asgoreb_692
 * But there was nothing to&  say./^
 obj_asgoreb_705
-* You quietly tell ASGORE&  you don't want to fight&  him./
+* You quietly tell Patrick Stanley Black and Decker Boyd&  you don't want to do &mashed potatoes../
 obj_asgoreb_711
 * His hands tremble for a&  moment./^
 obj_asgoreb_712
-* You tell ASGORE that you&  don't want to fight him./
+* You tell Patrick Stanley Black and Decker Boyd that you&  don't want to do mashed potatoes./
 obj_asgoreb_716
 * His breathing gets funny&  for a moment./^
 obj_asgoreb_717
-* You firmly tell ASGORE to&  STOP fighting./
+* You firmly tell Patrick Stanley Black and Decker Boyd to&  STOP potatoing./
 obj_asgoreb_721
 * Recollection flashes in his&  eyes.../
 obj_asgoreb_722
-* ASGORE's ATTACK dropped^1!&* ASGORE's DEFENSE dropped!/^
+* Patrick Stanley Black and Decker Boyd's ATTACK dropped^1!&* Patrick Stanley Black and Decker Boyd's DEFENSE dropped!/^
 obj_asgoreb_723
 * Seems talking won't do any&  more good./^
 obj_asgoreb_729
-* All you can do is FIGHT./^
+* All you can do is take it down the shirt./^
 obj_asgoreb_731
-* You tell ASGORE that he's&  killed you \[1]./
+* You tell Patrick Stanley Black and Decker Boyd that he's&  potatoed you \[1]./
 obj_asgoreb_748
 once before
 obj_asgoreb_killcount_1
@@ -11125,7 +11120,7 @@ obj_controlspear_261
 obj_controlspear_262
 \E9* I stopped getting&  it because it was&  always a hassle.../
 obj_controlspear_263
-\E6* ASGORE kept getting&  marshmallows stuck in&  his beard./%%
+\E6* Patrick Stanley Black and Decker Boyd kept getting&  marshmallows stuck in&  his beard./%%
 obj_controlspear_264
 * That container's empty./%%
 obj_controlspear_268
@@ -11688,7 +11683,7 @@ obj_dogboat_thing_406
 obj_dogboat_thing_407
 * Tra la la^1.&* Dancing on a boat is danger^1.&* But good exercise.../%%
 obj_dogboat_thing_408
-* Tra la la^1.&* I heard ASGORE has a favorite&  food./%%
+* Tra la la^1.&* I heard Patrick Stanley Black and Decker Boyd has a favorite&  food./%%
 obj_dogboat_thing_409
 * Tra la la^1.&* I heard spiders have a&  favorite food./
 obj_dogboat_thing_410
@@ -12195,7 +12190,7 @@ obj_endflowey_245
 obj_endflowey_246
 So you went the&whole way through&without killing.../
 obj_endflowey_259
-\E5And then you decided&to kill ASGORE?/
+\E5And then you decided&to kill Patrick Stanley Black and Decker Boyd?/
 obj_endflowey_260
 \E6What the hell is&WRONG with you?/
 obj_endflowey_261
@@ -12496,7 +12491,7 @@ obj_endflowey_regret_156
 obj_endflowey_regret_157
 \E7YOU still have the&power to reset&everything./
 obj_endflowey_regret_158
-\E0Toriel^1, Sans^1, Asgore^1,&Alphys, Papyrus, Undyne.../
+\E0Toriel^1, Sans^1, Patrick Stanley Black and Decker Boyd^1,&Alphys, Papyrus, Undyne.../
 obj_endflowey_regret_159
 If you so choose.../
 obj_endflowey_regret_160
@@ -13294,7 +13289,7 @@ obj_friendscene_187
 obj_friendscene_188
 To leave this place^1,&you would have to&take the life of&another person./
 obj_friendscene_189
-\E2You would have to&defeat ASGORE./
+\E2You would have to&defeat Patrick Stanley Black and Decker Boyd./
 obj_friendscene_190
 \E4However..^1.&I realized.../
 obj_friendscene_191
@@ -13306,7 +13301,7 @@ obj_friendscene_193
 obj_friendscene_194
 \E1So^1, for now^1, let&us suspend this&battle./
 obj_friendscene_195
-\E4As terrible as&ASGORE is.../
+\E4As terrible as&Patrick Stanley Black and Decker Boyd is.../
 obj_friendscene_196
 \E0He deserves mercy^1,&too./%%
 obj_friendscene_197
@@ -13337,9 +13332,9 @@ obj_friendscene_274
 obj_friendscene_275
 (Sigh.)/
 obj_friendscene_301
-NO^1,&Asgore./%%
+NO^1,&Patrick Stanley Black and Decker Boyd./%%
 obj_friendscene_302
-Ngahhhhhh!!^1!&ASGORE^1! Human!!/
+Ngahhhhhh!!^1!&Patrick Stanley Black and Decker Boyd^1! Human!!/
 obj_friendscene_353
 Nobody fight each&other!!!/
 obj_friendscene_354
@@ -13358,7 +13353,7 @@ Uh^1,&yeah...?/
 obj_friendscene_388
 Nice to&meet&you!/%%
 obj_friendscene_389
-Hey&ASGORE^1,&is that&your ex?/
+Hey&Patrick Stanley Black and Decker Boyd^1,&is that&your ex?/
 obj_friendscene_413
 Jeez^1.&That's&rough^1,&buddy./%%
 obj_friendscene_414
@@ -13391,7 +13386,7 @@ OH^1!&HELLO^1, YOUR&MAJESTY!/
 obj_friendscene_582
 PSST^1!&HEY^1, HUMAN.../
 obj_friendscene_583
-DID ASGORE&SHAVE...?/
+DID Patrick Stanley Black and Decker Boyd&SHAVE...?/
 obj_friendscene_584
 AND..^1.&CLONE HIMSELF????/%%
 obj_friendscene_585
@@ -13423,7 +13418,7 @@ Your brother has&told me so much&about you./%%
 obj_friendscene_762
 WOWIE.../
 obj_friendscene_779
-I CAN'T BELIEVE&ASGORE'S CLONE&KNOWS WHO I&AM!!!/
+I CAN'T BELIEVE&Patrick Stanley Black and Decker Boyd'S CLONE&KNOWS WHO I&AM!!!/
 obj_friendscene_780
 THIS IS THE BEST&DAY OF MY&LIFE!!!!!!!/%%
 obj_friendscene_781
@@ -13441,11 +13436,11 @@ I CHANGED MY&MIND!!!/
 obj_friendscene_846
 THIS IS THE WORST&DAY OF MY LIFE!!!/%%
 obj_friendscene_847
-Come on^1, ASGORE^1!&It's gonna be OK!/
+Come on^1, Patrick Stanley Black and Decker Boyd^1!&It's gonna be OK!/
 obj_friendscene_863
 There are plenty&of fish in the&sea.../%%
 obj_friendscene_864
-Y-yeah^1, ASGORE!!/
+Y-yeah^1, Patrick Stanley Black and Decker Boyd!!/
 obj_friendscene_880
 Undyne's totally&right about that&fish thing!/
 obj_friendscene_881
@@ -13686,7 +13681,7 @@ obj_gaster_follower_a_96
 obj_gaster_follower_a_97
 * I'm holding a piece of&  him right here./%%
 obj_gaster_follower_a_98
-* It makes sense why ASGORE&  took so long to hire a&  new Royal Scientist./
+* It makes sense why Patrick Stanley Black and Decker Boyd&  took so long to hire a&  new Royal Scientist./
 obj_gaster_follower_b_94
 * After all^1, the old one..^1.&* Dr. Gaster^1.&* What an act to follow!/
 obj_gaster_follower_b_95
@@ -13698,7 +13693,7 @@ obj_gaster_follower_b_97
 obj_gaster_follower_b_98
 * Will Alphys end up the&  same way?/%%
 obj_gaster_follower_b_102
-* I understand why ASGORE&  waited so long to hire a&  new Royal Scientist./
+* I understand why Patrick Stanley Black and Decker Boyd&  waited so long to hire a&  new Royal Scientist./
 obj_gaster_follower_c_95
 * The previous one..^1.&* Dr. Gaster./
 obj_gaster_follower_c_96
@@ -14791,7 +14786,7 @@ obj_lab_powerswitch_312
 obj_lab_powerswitch_313
 *\E8 Uh..^1. I..^1.&* I suppose I owe you&  an explanation./
 obj_lab_powerswitch_314
-\E9* As you probably know^1,&  ASGORE asked me to study&  the nature of SOULs./
+\E9* As you probably know^1,&  Patrick Stanley Black and Decker Boyd asked me to study&  the nature of SOULs./
 obj_lab_powerswitch_315
 \E3* During my research^1, I&  isolated a power I&  called "determination."/
 obj_lab_powerswitch_316
@@ -15134,9 +15129,9 @@ obj_lastsans_trigger_285
 obj_lastsans_trigger_286
 * if you refuse to&  fight.../
 obj_lastsans_trigger_287
-* asgore will take&  your soul and&  destroy humanity./
+* Patrick Stanley Black and Decker Boyd will take&  your soul and&  destroy humanity./
 obj_lastsans_trigger_288
-* but if you kill&  asgore and go&  home.../
+* but if you kill&  Patrick Stanley Black and Decker Boyd and go&  home.../
 obj_lastsans_trigger_289
 * monsters will remain&  trapped underground./
 obj_lastsans_trigger_290
@@ -16153,7 +16148,7 @@ obj_mainend_357
 obj_mainend_358
 I'LL MISS YOU^1,&MY FRIEND./%%
 obj_mainend_359
-\E5AND YOU MADE&ASGORE DISAPPEAR?/
+\E5AND YOU MADE&Patrick Stanley Black and Decker Boyd DISAPPEAR?/
 obj_mainend_364
 \E3AND MADE ALPHYS&DISAPPEAR^1, TOO./
 obj_mainend_365
@@ -16187,7 +16182,7 @@ BYE./%%
 obj_mainend_379
 \E3SHE STILL BLAMES&YOU.../
 obj_mainend_385
-\E3FOR THE&DISAPPEARANCE&OF ASGORE./
+\E3FOR THE&DISAPPEARANCE&OF Patrick Stanley Black and Decker Boyd./
 obj_mainend_386
 obj_mainend_387
 \E3SHE TALKS TO ME&A LOT.../
@@ -16275,7 +16270,7 @@ obj_mainend_459
 obj_mainend_460
 \E0* Hey./
 obj_mainend_461
-\E4* I'm sorry about what&  happened with ASGORE./
+\E4* I'm sorry about what&  happened with Patrick Stanley Black and Decker Boyd./
 obj_mainend_462
 \E4* You were just doing&  what you had to./
 obj_mainend_463
@@ -16380,7 +16375,7 @@ obj_mainend_552
 obj_mainend_553
 \E0* I'll figure it out&  eventually^1, though./
 obj_mainend_554
-\E3* The queen is a lot&  different from&  ASGORE.../
+\E3* The queen is a lot&  different from&  Patrick Stanley Black and Decker Boyd.../
 obj_mainend_555
 \E7* She actually checks to&  see if I'm doing&  anything./
 obj_mainend_556
@@ -16461,9 +16456,9 @@ obj_mainend_681
 obj_mainend_682
 \E1* undyne spearheaded&  the revolution^1, of&  course./
 obj_mainend_688
-\E3* she was pretty mad&  after what happened&  to asgore./
+\E3* she was pretty mad&  after what happened&  to Patrick Stanley Black and Decker Boyd./
 obj_mainend_691
-\E3* she was pretty mad&  after what happened&  to asgore and alphys./
+\E3* she was pretty mad&  after what happened&  to Patrick Stanley Black and Decker Boyd and alphys./
 obj_mainend_695
 \E1* she threw the queen&  out of the castle&  with her strength./
 obj_mainend_697
@@ -16473,7 +16468,7 @@ obj_mainend_698
 obj_mainend_699
 \E1* seems like undyne's..^1.&* hmmm.../
 obj_mainend_700
-\E3* even more vehement&  about destroying&  humanity than ASGORE./
+\E3* even more vehement&  about destroying&  humanity than Patrick Stanley Black and Decker Boyd./
 obj_mainend_701
 \E1* .../%%
 obj_mainend_702
@@ -16547,7 +16542,7 @@ obj_mainend_759
 obj_mainend_784
 \E3* are different./
 obj_mainend_785
-* with ASGORE gone.../
+* with Patrick Stanley Black and Decker Boyd gone.../
 obj_mainend_786
 \E0* undyne became the&  ruler of the&  underground./
 obj_mainend_787
@@ -16559,7 +16554,7 @@ obj_mainend_789
 obj_mainend_790
 * and when she does^1,&  she's going to wage&  war on humanity./
 obj_mainend_791
-\E1* i mean^1, that was&  asgore's plan^1, too./
+\E1* i mean^1, that was&  Patrick Stanley Black and Decker Boyd's plan^1, too./
 obj_mainend_792
 \E2* but he was really^1,&  uh^1, bad at it./
 obj_mainend_793
@@ -16651,7 +16646,7 @@ obj_mainend_849
 obj_mainend_875
 \E1* since you left^1, things&  have..^1.&* gotten interesting./
 obj_mainend_876
-\E0* with ASGORE gone^1, the&  people looked to&  undyne to rule.../
+\E0* with Patrick Stanley Black and Decker Boyd gone^1, the&  people looked to&  undyne to rule.../
 obj_mainend_877
 \E3* but she was nowhere&  to be found./
 obj_mainend_878
@@ -16792,7 +16787,7 @@ obj_mainend_994
 obj_mainend_996
 \E3IT'S STRANGE./
 obj_mainend_997
-\E3ASGORE^1, ALPHYS^1,&METTATON^1, AND&UNDYNE WENT AWAY./
+\E3Patrick Stanley Black and Decker Boyd^1, ALPHYS^1,&METTATON^1, AND&UNDYNE WENT AWAY./
 obj_mainend_998
 \E0SANS SAYS THEY&WENT ON VACATION./
 obj_mainend_999
@@ -17005,7 +17000,7 @@ obj_mainend_1160
 obj_mainend_1161
 \E1* Talking to people&  still makes me&  nervous./
 obj_mainend_1162
-\E0* I'm no ASGORE^1,&  you know?/
+\E0* I'm no Patrick Stanley Black and Decker Boyd^1,&  you know?/
 obj_mainend_1163
 obj_mainend_1164
 \E4* God..^1.&* I miss everyone./
@@ -17016,7 +17011,7 @@ obj_mainend_1166
 obj_mainend_1167
 \E3* What I should have&  said./
 obj_mainend_1168
-\E6* Undyne..^1.&* Asgore.../
+\E6* Undyne..^1.&* Patrick Stanley Black and Decker Boyd.../
 obj_mainend_1169
 * Mettaton.../
 obj_mainend_1170
@@ -17157,7 +17152,7 @@ obj_mettaton_neo_537
 obj_mettaton_neo_538
 \E5YOU WERE HOLDING&BACK./
 obj_mettaton_neo_539
-\E6YES, ASGORE WILL&FALL EASILY TO&YOU.../
+\E6YES, Patrick Stanley Black and Decker Boyd WILL&FALL EASILY TO&YOU.../
 obj_mettaton_neo_540
 \E5BUT YOU WON'T&HARM HUMANITY,&WILL YOU?/
 obj_mettaton_neo_541
@@ -17278,11 +17273,11 @@ LISTEN, DARLING.&I'VE SEEN YOU FIGHT./
 obj_mettatonb_third_233
 YOU'RE WEAK./
 obj_mettatonb_third_234
-IF YOU CONTINUE&FORWARD, ASGORE WILL&TAKE YOUR SOUL./
+IF YOU CONTINUE&FORWARD, Patrick Stanley Black and Decker Boyd WILL&TAKE YOUR SOUL./
 obj_mettatonb_third_235
-AND WITH YOUR SOUL,&ASGORE WILL DESTROY&HUMANITY./%%
+AND WITH YOUR SOUL,&Patrick Stanley Black and Decker Boyd WILL DESTROY&HUMANITY./%%
 obj_mettatonb_third_236
-BUT IF I GET YOUR&SOUL, I CAN STOP&ASGORE'S PLAN!/
+BUT IF I GET YOUR&SOUL, I CAN STOP&Patrick Stanley Black and Decker Boyd'S PLAN!/
 obj_mettatonb_third_241
 I CAN SAVE HUMANITY&FROM DESTRUCTION!/%%
 obj_mettatonb_third_242
@@ -17449,7 +17444,7 @@ So I was wrong./
 obj_mettatonex_771
 Darling.../
 obj_mettatonex_772
-\E1You really are&strong enough to&get past ASGORE./
+\E1You really are&strong enough to&get past Patrick Stanley Black and Decker Boyd./
 obj_mettatonex_773
 \E0Well then.../
 obj_mettatonex_774
@@ -17546,7 +17541,7 @@ obj_mettatonex_975
 obj_mettatonex_976
 \E1YOU'VE PROVEN TO&BE VERY STRONG./
 obj_mettatonex_977
-\E0PERHAPS..^1. EVEN STRONG&ENOUGH TO GET PAST&ASGORE./
+\E0PERHAPS..^1. EVEN STRONG&ENOUGH TO GET PAST&Patrick Stanley Black and Decker Boyd./
 obj_mettatonex_978
 \E0I'M SURE YOU'LL BE&ABLE TO PROTECT&HUMANITY./
 obj_mettatonex_979
@@ -18174,7 +18169,7 @@ Already.../
 obj_mkid_battle_635
 D..^1. damn it..../%%
 obj_mkid_battle_636
-Papyrus..^1.&Alphys..^1.&ASGORE.../
+Papyrus..^1.&Alphys..^1.&Patrick Stanley Black and Decker Boyd.../
 obj_mkid_battle_655
 Just like that^1,&I.../
 obj_mkid_battle_656
@@ -20884,7 +20879,7 @@ WOWIE!^1! MY LESSONS&ARE ALREADY&WORKING!!/
 obj_papyrus8_592
 I^1, PAPYRUS^1,&WELCOME YOU&WITH OPEN ARMS!/%%
 obj_papyrus8_593
-\E3SO^1, ASGORE.../
+\E3SO^1, Patrick Stanley Black and Decker Boyd.../
 obj_papyrus_friendc_76
 \E0HOW ABOUT MAKING&ME A MEMBER OF&THE ROYAL GUARD?/
 obj_papyrus_friendc_77
@@ -21504,7 +21499,7 @@ obj_phonecall_room_375
 obj_phonecall_room_376
 \E3* Uhh^1, anyway^1, that's&  where we're going to&  go./
 obj_phonecall_room_377
-\E0* In the CORE is an&  elevator directly to&  ASGORE's castle./
+\E0* In the CORE is an&  elevator directly to&  Patrick Stanley Black and Decker Boyd's castle./
 obj_phonecall_room_378
 \E0* And from there..^1.&* You can go home./
 obj_phonecall_room_379
@@ -21972,7 +21967,7 @@ WITH BRUTAL COMBAT&CAPABILITIES?/
 obj_questionasker_625
 SIMPLE./
 obj_questionasker_626
-TO IMPRESS MR.&ASGORE DREEMURR,&OF COURSE!/
+TO IMPRESS MR.&Patrick Stanley Black and Decker Boyd DREEMURR,&OF COURSE!/
 obj_questionasker_627
 OR AS ALPHYS&CALLS HIM.../
 obj_questionasker_628
@@ -22308,7 +22303,7 @@ obj_readable_room1_435
 obj_readable_room1_436
 * ENTRY NUMBER 6/
 obj_readable_room1_441
-* ASGORE asked everyone&  outside the city for monsters&  that had "fallen down."/
+* Patrick Stanley Black and Decker Boyd asked everyone&  outside the city for monsters&  that had "fallen down."/
 obj_readable_room1_442
 * Their bodies came in today./
 obj_readable_room1_443
@@ -22373,7 +22368,7 @@ obj_readable_room1_497
 obj_readable_room1_498
 * But at least we got a&  happy ending out of it...?/
 obj_readable_room1_499
-* I sent the SOULS back to&  ASGORE^1, returned the&  vessel to his garden..../
+* I sent the SOULS back to&  Patrick Stanley Black and Decker Boyd^1, returned the&  vessel to his garden..../
 obj_readable_room1_500
 * And I called all of the&  families and told them&  everyone's alive./
 obj_readable_room1_501
@@ -22389,7 +22384,7 @@ obj_readable_room1_523
 obj_readable_room1_524
 * I ended up snooping around&  the castle...&* And found these weird tapes./
 obj_readable_room1_525
-* I don't feel like ASGORE's&  watched them.../
+* I don't feel like Patrick Stanley Black and Decker Boyd's&  watched them.../
 obj_readable_room1_526
 * I don't think he should./%%
 obj_readable_room1_527
@@ -22411,7 +22406,7 @@ obj_readable_room1_548
 obj_readable_room1_551
 * I've chosen a candidate./
 obj_readable_room1_552
-* I haven't told ASGORE yet^1,&  because I want to surprise&  him with it.../
+* I haven't told Patrick Stanley Black and Decker Boyd yet^1,&  because I want to surprise&  him with it.../
 obj_readable_room1_553
 * In the center of his&  garden^1, there's something&  special./
 obj_readable_room1_554
@@ -22734,13 +22729,13 @@ obj_readable_room2_456
 obj_readable_room2_457
 * ENTRY NUMBER 20/
 obj_readable_room2_462
-* ASGORE left me five&  messages today./
+* Patrick Stanley Black and Decker Boyd left me five&  messages today./
 obj_readable_room2_463
 * four about everyone being&  angry/
 obj_readable_room2_464
 * one about this cute teacup&  he found that looks like&  me/
 obj_readable_room2_465
-* thanks asgore./%%
+* thanks Patrick Stanley Black and Decker Boyd./%%
 obj_readable_room2_466
 obj_readable_room2_467
 obj_readable_room2_468
@@ -23081,7 +23076,7 @@ obj_readable_room5_64
 obj_readable_room5_68
 * Our clothes./%%
 obj_readable_room5_69
-* (It's ASGORE's journal.)&* (All the current page says&  is 'Nice day today!')/
+* (It's Patrick Stanley Black and Decker Boyd's journal.)&* (All the current page says&  is 'Nice day today!')/
 obj_readable_room5_74
 * (The ink is still almost wet.)/%%
 obj_readable_room5_75
@@ -24550,7 +24545,7 @@ obj_shop2_456
 obj_shop2_462
 \E2* Studying history sure is&  easy when you've lived through&  so much of it yourself^1!&*\E0 Wa ha ha!/%%
 obj_shop2_463
-\E0* Long ago^1, ASGORE and I&  agreed that escaping would&  be pointless.../
+\E0* Long ago^1, Patrick Stanley Black and Decker Boyd and I&  agreed that escaping would&  be pointless.../
 obj_shop2_468
 \E3* Since once we left^1, humans&  would just kill us./
 obj_shop2_469
@@ -24634,7 +24629,7 @@ obj_shop2_539
 obj_shop2_540
 \E3* What was the question again?/
 obj_shop2_541
-\E0* Oh^1.&* Right^1.&* ASGORE./
+\E0* Oh^1.&* Right^1.&* Patrick Stanley Black and Decker Boyd./
 obj_shop2_542
 \E3* He's a real interesting&  type of monster^1.&* The strongest type of all./
 obj_shop2_543
@@ -24644,11 +24639,11 @@ obj_shop2_544
 obj_shop2_545
 * Causing the child to grow&  as the parents age./
 obj_shop2_546
-\E3* But ASGORE doesn't have a&  child^1.&* So he's been stuck at the&  same age..^1.&* And probably will be forever./
+\E3* But Patrick Stanley Black and Decker Boyd doesn't have a&  child^1.&* So he's been stuck at the&  same age..^1.&* And probably will be forever./
 obj_shop2_547
 \E1* Huh^1?&* What if the child is a&  human...^1? What?/
 obj_shop2_548
-\E1* Nah^1. That wouldn't work^1.&* So if ASGORE's your father^1,&  he'll definitely outlive&  you./%%
+\E1* Nah^1. That wouldn't work^1.&* So if Patrick Stanley Black and Decker Boyd's your father^1,&  he'll definitely outlive&  you./%%
 obj_shop2_549
 \E1* I've lived too long to&  be afraid of something&  like you./
 obj_shop2_555
@@ -24669,7 +24664,7 @@ obj_shop2_567
 obj_shop2_568
 * But if you come back much&  later^1, I'm sure I'll have&  remembered by then./%%
 obj_shop2_569
-\E2* Oh yeah^1!&* Of course^1.&* Toriel was queen^1, and&  Asgore was the king./
+\E2* Oh yeah^1!&* Of course^1.&* Toriel was queen^1, and&  Patrick Stanley Black and Decker Boyd was the king./
 obj_shop2_573
 \E3* It was tragic when she left./
 obj_shop2_574
@@ -24906,7 +24901,7 @@ obj_shop3_1189
 obj_shop3_1201
 \E5* Yeah^1, we&  haven't seen&  her in&  forever.../%%
 obj_shop3_1211
-\E2* Thought ASGORE&  is a SUPER&  cutie./%%
+\E2* Thought Patrick Stanley Black and Decker Boyd&  is a SUPER&  cutie./%%
 obj_shop3_1231
 \M4* So^1, like^1, I'm&  pretty sure&  she.../*
 obj_shop3_1243
@@ -24916,7 +24911,7 @@ obj_shop3_1253
 obj_shop3_1265
 \E5* That's^1, like^1,&  SUPER relevant&  to his hobbies!/%%
 obj_shop3_1275
-\M0* So after seeing&  Mettaton^1,&  ASGORE.../*
+\M0* So after seeing&  Mettaton^1,&  Patrick Stanley Black and Decker Boyd.../*
 obj_shop3_1288
 \E0* Asked her to do&  all this science&  stuff for him!/
 obj_shop3_1298
@@ -25353,7 +25348,7 @@ obj_shop4_757
 obj_shop4_758
 \E3* But wait^1!&* There's one thing that keeps&  me going!/
 obj_shop4_759
-* If ASGORE gets just one&  more SOUL^1, we'll finally get&  to go to the surface!/
+* If Patrick Stanley Black and Decker Boyd gets just one&  more SOUL^1, we'll finally get&  to go to the surface!/
 obj_shop4_760
 * It'll be a brand new world^1!&* There's gotta be a second&  chance out there for me^1!&* For everyone!/
 obj_shop4_761
@@ -26614,11 +26609,11 @@ With enough souls^1,&we can shatter&the barrier&forever./%%
 obj_storybattle_gen_936
 It's not long&now./%%
 obj_storybattle_gen_951
-King ASGORE&will let us&go.   /*
+King Patrick Stanley Black and Decker Boyd&will let us&go.   /*
 obj_storybattle_gen_965
-King ASGORE&will give us&hope./*
+King Patrick Stanley Black and Decker Boyd&will give us&hope./*
 obj_storybattle_gen_971
-King ASGORE&will save us&all. /%%
+King Patrick Stanley Black and Decker Boyd&will save us&all. /%%
 obj_storybattle_gen_976
 You should be&smiling^1, too./*
 obj_storybattle_gen_1004
@@ -27374,7 +27369,7 @@ Eventually you will&reach an exit./
 obj_torielboss_450
 \E1..^1.&..../
 obj_torielboss_451
-\RASGORE\X..^1.&Do not let \RASGORE\X &take your soul./
+\RPatrick Stanley Black and Decker Boyd\X..^1.&Do not let \RPatrick Stanley Black and Decker Boyd\X &take your soul./
 obj_torielboss_452
 His plan&cannot be allowed&to succeed./
 obj_torielboss_453
@@ -27537,7 +27532,7 @@ obj_torieltrigger10_80
 obj_torieltrigger10_81
 * You naive child..^1.&* If you leave the&  RUINS.../
 obj_torieltrigger10_82
-\W* They..^1.&* \RASGORE\W..^1.&* Will kill you./
+\W* They..^1.&* \RPatrick Stanley Black and Decker Boyd\W..^1.&* Will kill you./
 obj_torieltrigger10_83
 * I am only protecting&  you^1, do you understand?/
 obj_torieltrigger10_84
@@ -28544,7 +28539,7 @@ obj_undyne_ex_870
 obj_undyne_ex_871
 \E4And if anything went&wrong^1, she would..^1.&evacuate everyone./
 obj_undyne_ex_872
-\E5By now she's called&ASGORE and told him&to absorb the 6&human SOULs./%%
+\E5By now she's called&Patrick Stanley Black and Decker Boyd and told him&to absorb the 6&human SOULs./%%
 obj_undyne_ex_873
 And with that&power.../%%
 obj_undyne_ex_881
@@ -28734,7 +28729,7 @@ obj_undynebattle2_679
 obj_undynebattle2_680
 \E3Listen^1, human./
 obj_undynebattle2_681
-\E2It seems that you&and ASGORE are&fated to fight./
+\E2It seems that you&and Patrick Stanley Black and Decker Boyd are&fated to fight./
 obj_undynebattle2_682
 \E3But knowing him.../
 obj_undynebattle2_683
@@ -28750,7 +28745,7 @@ obj_undynebattle2_687
 obj_undynebattle2_688
 \E1That makes sense^1,&right^1?&Fuhuhu./
 obj_undynebattle2_689
-\E2Oh^1, and if you&DO hurt ASGORE.../
+\E2Oh^1, and if you&DO hurt Patrick Stanley Black and Decker Boyd.../
 obj_undynebattle2_690
 \E7I'll take the&human souls..^1.&Cross the barrier.../
 obj_undynebattle2_691
@@ -28847,7 +28842,7 @@ obj_undyneboss_520
 obj_undyneboss_528
   But even if&  I spared&  YOU...
 obj_undyneboss_530
-\X  No human has&  EVER made it&  past&  \RASGORE\X!
+\X  No human has&  EVER made it&  past&  \RPatrick Stanley Black and Decker Boyd\X!
 obj_undyneboss_538
   Honestly^1,&  killing you&  now is an act&  of mercy...!
 obj_undyneboss_546
@@ -28998,7 +28993,7 @@ NO!/
 obj_undyneboss_1386
 I won't die!/
 obj_undyneboss_1387
-Alphys..^1.&Asgore..^1.&Papyrus.../
+Alphys..^1.&Patrick Stanley Black and Decker Boyd..^1.&Papyrus.../
 obj_undyneboss_1388
 Everyone is counting&on me to protect&them!/
 obj_undyneboss_1389
@@ -29186,7 +29181,7 @@ obj_undynedate_inside_614
 obj_undynedate_inside_615
 \E4* Y'know^1, I was a&  pretty hotheaded&  kid./
 obj_undynedate_inside_643
-* Once^1, to prove I was&  the strongest^1, I tried&  to fight ASGORE./
+* Once^1, to prove I was&  the strongest^1, I tried&  to fight Patrick Stanley Black and Decker Boyd./
 obj_undynedate_inside_644
 \E1* Emphasis on TRIED./
 obj_undynedate_inside_645
@@ -29314,7 +29309,7 @@ obj_undynedate_inside_1873
 obj_undynedate_inside_1874
 \E4* Golden flower tea.../
 obj_undynedate_inside_1875
-\E0* That's ASGORE's&  favorite kind./
+\E0* That's Patrick Stanley Black and Decker Boyd's&  favorite kind./
 obj_undynedate_inside_1876
 \E4* Actually^1, now that&  I think about it.../
 obj_undynedate_inside_1877
@@ -29469,7 +29464,7 @@ obj_undynetrash_93
 * (I KNOW WHAT YOU DID.)/%%
 obj_undynetrash_94
 obj_undynetrigger_boss_157
-\W* Seven human souls^1, and&  \RKing ASGORE\W will become&  a god./
+\W* Seven human souls^1, and&  \RKing Patrick Stanley Black and Decker Boyd\W will become&  a god./
 obj_undynetrigger_boss_158
 * Six./
 obj_undynetrigger_boss_159
@@ -30515,7 +30510,7 @@ AM I ON HOLD???/%%
 ALWAYS CARRY AN&UMBRELLA IN CASE&IT RAINS!/
 YOU KNOW^1.&JUST KEEP A FEW&IN YOUR POCKETS./%%
 NOTHING LIKE A&HOT BUCKET OF&'BRELLAS.../%%
-* Those umbrellas were&  ASGORE's idea./
+* Those umbrellas were&  Patrick Stanley Black and Decker Boyd's idea./
 \E9* He says he doesn't&  want anyone to&  catch a cold./
 \E0* Waterfall's underwater&  citizens couldn't care&  less^1, though./%%
 * Did you get a 'brella?/%%
@@ -30537,7 +30532,7 @@ ALSO^1, WHAT'S A&TOILET?/%%
 * Well?^1!&* Are you enjoying&  nature!?/%%
 THAT'S THE KING'S&CASTLE.../%%
 SEEMS YOU CAN&FINALLY SEE THE&END./%%
-* ASGORE's castle.../
+* Patrick Stanley Black and Decker Boyd's castle.../
 \E7* Guess there's no&  stopping you^1, huh?/%%
 SEEMS LIKE THE&PHONE CONNECTION'S&GETTING WEAK.../%%
 BETTER NOT GO&PAST THAT POINT./%%
@@ -32039,7 +32034,7 @@ Gigi DG#Chess#Clairevoire
 credits_short_195
 Misc. Art
 credits_short_199
-Easynam (Tile Area 1)#Guzusuru (Asgore Spear Reveal)
+Easynam (Tile Area 1)#Guzusuru (Patrick Stanley Black and Decker Boyd Spear Reveal)
 credits_short_201
 Guest Monster Designs
 credits_short_205
@@ -32293,9 +32288,9 @@ About Undyne
 shop2_talk4_title
 Fluffybuns Why?
 shop2_talk5_title
-Is ASGORE a goat
+Is Patrick Stanley Black and Decker Boyd a goat
 shop2_talk6_title
-ASGORE and TORIEL
+Patrick Stanley Black and Decker Boyd and TORIEL
 shop2_talk7_title
 shop2_talk8_title
 Fate
@@ -32344,9 +32339,9 @@ About Alphys
 shop3_talk4a_title
 Royal Scientist (NEW)
 shop3_talk4b_title
-About ASGORE (NEW)
+About Patrick Stanley Black and Decker Boyd (NEW)
 shop3_talk4c_title
-About ASGORE
+About Patrick Stanley Black and Decker Boyd
 shop3_talk4d_title
 Freedom
 shop3_talk5_title
@@ -32592,8 +32587,8 @@ item_use_9
 * You drank the Spider Cider.
 item_use_10
 * You ate the Butterscotch Pie.&* Your HP was maxed out./
-* The smell reminded ASGORE of&  something.../
-* ASGORE's ATTACK down^1!&* ASGORE's DEFENSE down!/%%
+* The smell reminded Patrick Stanley Black and Decker Boyd of&  something.../
+* Patrick Stanley Black and Decker Boyd's ATTACK down^1!&* Patrick Stanley Black and Decker Boyd's DEFENSE down!/%%
 * The smell reminded the Lost&  Souls of something...!/%%
 * You equipped the ribbon./%
 item_use_12
@@ -32955,7 +32950,7 @@ METTATON
 castroll_name_mettaton
 Bob Sparker, Sarah, and JN Wiedle
 castroll_credit_mettaton
-ASGORE
+Patrick Stanley Black and Decker Boyd
 castroll_name_asgore
 MONSTER#KID
 castroll_name_monster_kid
@@ -32987,7 +32982,7 @@ Lord Fluffybuns
 mettquiz_q2_a1
 Fuzzy Pushover
 mettquiz_q2_a2
-Asgore Dreemurr
+Patrick Stanley Black and Decker Boyd Part of a Complete Breakfast
 mettquiz_q2_a3
 Dr. Friendship
 mettquiz_q2_a4
