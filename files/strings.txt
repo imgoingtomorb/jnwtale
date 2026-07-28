@@ -6819,7 +6819,7 @@ item_desc_58_0
 item_desc_59_0
 * "Mystery Key" Unique&* It is too bent to fit on&  your keychain./%%
 item_desc_60_0
-* "Face Steak" Heals 60 HP&* Huge steak in the shape&  of Mettaton's face./
+* "Face Steak" Heals 60 HP&* Huge steak in the shape&  of Caleb Wilson's face./
 item_desc_61_0
 * (You don't feel like it's&  made of real meat...)/%%
 item_desc_61_1
@@ -6859,7 +6859,7 @@ Shyren
 Agent
 Mad Dummy
 Undyne
-Mettaton
+Caleb Wilson
 RG 01
 RG 02
 Tsunderplane
@@ -6879,7 +6879,7 @@ Present Bomb
 Game Bomb
 RG 03
 RG 04
-Mettaton EX
+Caleb ''Sleepy Program'' Wilson
 Lemon Bread
 ,
 Reaper Bird
@@ -6894,7 +6894,7 @@ Lost Soul
 Monster Kid
 Undyne the Undying
 Glad Dummy
-Mettaton NEO
+Big Program
 Sans
 Migospel
 Moldessa
@@ -7913,7 +7913,7 @@ I will do my best&to ensure your&protection during&your time here./%%
 \E9* A lot better about&  myself./
 \E0* So... thanks for&  letting me help&  you./
 \E4* Uhhh^1, anyway^1, we're&  almost to the CORE./
-\E0* It's just past&  MTT Resort./
+\E0* It's just past&  CALEBWILSON Resort./
 \E6* Come on^1!&* Let's finish this!/%%
 \E0EUREKA!!!/
 I'VE FIGURED OUT&THE PUZZLE!!!/
@@ -8046,7 +8046,7 @@ TAKE YOUR TIME!/%%
 \M3* I'M HONORED TO BE IN THE&  PRESENCE OF SUCH A HUGE&  LUKEWARM WATER FAN^1, FOLKS!/
 \M5* OH NO!!^1!&* THAT MOVIE SCRIPT!!^1!&* HOW'D??^1? THAT GET THERE???/
 \M4* IT'S A SUPER-JUICY SNEAK&  PREVIEW OF MY LATEST&  GUARANTEED-NOT-TO-BOMB FILM:/
-\M6* METTATON THE MOVIE XXVIII..^1.&  STARRING METTATON!/
+\M6* CALEB WILSON THE MOVIE XXVIII..^1.&  STARRING CALEB WILSON!/
 \M1* I'VE HEARD THAT LIKE THE&  OTHER FILMS.../
 \M1* IT CONSISTS MOSTLY OF A SINGLE&  FOUR-HOUR SHOT OF ROSE PETALS&  SHOWERING ON MY RECLINING BODY./
 \M5* OOH!!^1!&* BUT THAT'S!!^1!&* NOT CONFIRMED!!/
@@ -8057,7 +8057,7 @@ TAKE YOUR TIME!/%%
 \M6* THAT'S RIGHT^1, FOLKS^1!&* IT SEEMS NO ONE CAN RESIST&  THE ALLURE OF MY NEW FILM!/
 \M4* BASKETBALL'S A BLAST^1, ISN'T IT^1,&  DARLING?/
 \M1* TOO BAD YOU CAN'T PLAY WITH&  THESE BALLS./
-\M4* THEY'RE MTT-BRAND FASHION&  BASKETBALLS^1.&* FOR WEARING^1, NOT PLAYING./
+\M4* THEY'RE CALEBWILSON-BRAND FASHION&  BASKETBALLS^1.&* FOR WEARING^1, NOT PLAYING./
 \M6* YOU CAN'T GET RICH AND FAMOUS&  LIKE MOI WITHOUT BEAUTIFYING&  A FEW ORBS./
 * IT SEEMS OUR REPORTER IS DRAWN&  TO SPORTS LIKE MOTHS TO A&  FLAMING BASKETBALL HOOP./
 \M5* OH MY^1! IT'S A PRESENT^1!&* AND IT'S ADDRESSED TO YOU^1,&  DARLING!/
@@ -8069,7 +8069,7 @@ TAKE YOUR TIME!/%%
 \M4* THOUGH I DON'T MAKE AN&  APPEARANCE IN IT UNTIL&  THREE-FOURTHS IN./
 \M3* BUT I LIKE THAT./
 \M6* APPEARING FROM THE HEAVENS LIKE&  MANNA^1, SLAKING THE AUDIENCE'S&  HUNGER FOR GORGEOUS ROBOTS.../
-\M5* OOH^1!&* THAT'S METTATON!/
+\M5* OOH^1!&* THAT'S CALEB WILSON!/
 * AH^1, YOU UNDERSTAND./
 * THIS IS A GAME WHERE YOU&  SHOULD CHECK EVERYTHING&  TWICE./
 * Buy a Spider Cider for 9999G?& &         Yes         No \C
@@ -8363,9 +8363,9 @@ I CAN DO IT FOR&YOU!!!/
 * Well^1, thank you for&  your selection./
 \E1* Oh..^1. I see./
 \E0* Well^1, thank you^1.&* Goodbye for now./
-* (Seems like you could skip&  Mettaton's monologue by&  turning him around now.)/
+* (Seems like you could skip&  Caleb Wilson's monologue by&  turning him around now.)/
 * (What will you do?)& &         Skip        Hear again\C
-* (You told Mettaton there&  was something cool&  behind him.)/%%
+* (You told Caleb Wilson there&  was something cool&  behind him.)/%%
 * though.../
 * one thing about you&  always struck me&  as kinda odd./
 * now^1, i understand&  acting in self-defense./
@@ -9577,7 +9577,7 @@ obj_alphys_friendc_111
 obj_alphys_friendc_112
 \E1* TORIEL!?!?!/%%
 obj_alphys_friendc_114
-\E0* Hey Frisk^1, why&  don't you go look&  for Mettaton?/
+\E0* Hey Frisk^1, why&  don't you go look&  for Caleb Wilson?/
 obj_alphys_friendc_119
 \E8* He was here for&  a while^1, too.../
 obj_alphys_friendc_120
@@ -9675,7 +9675,7 @@ obj_alphystrigger1_240
 obj_alphystrigger1_241
 \E7* Well^1, actually^1, umm^1,&  there's just a&  tiny issue./
 obj_alphystrigger1_242
-\E0* A long time ago^1, I&  made a robot named&  Mettaton./
+\E0* A long time ago^1, I&  made a robot named&  Caleb Wilson./
 obj_alphystrigger1_243
 * Originally^1, I built&  him to be an&  entertainment robot./
 obj_alphystrigger1_244
@@ -10845,7 +10845,7 @@ obj_businessmanticore_75
 obj_businessmanticore_80
 * But now it's been so busy^1,&  we still haven't gotten the&  chance to ride it./%%
 obj_businessmanticore_81
-* Mettaton hasn't made a&  performance for more&  than five minutes.../
+* Caleb Wilson hasn't made a&  performance for more&  than five minutes.../
 obj_businessmanticore_86
 * What's happening...^1?&* Can you explain it?/%%
 obj_businessmanticore_87
@@ -11202,7 +11202,7 @@ obj_cookshowevent_313
 obj_cookshowevent_326
 * ACTUALLY, I HAPPEN TO&  HAVE AN OPTION RIGHT HERE!!!/
 obj_cookshowevent_327
-* MTT-BRAND ALWAYS-CONVENIENT&  HUMAN-SOUL-FLAVOR-SUBSTITUTE!/
+* CALEBWILSON-BRAND ALWAYS-CONVENIENT&  HUMAN-SOUL-FLAVOR-SUBSTITUTE!/
 obj_cookshowevent_328
 * A CAN OF WHICH...&* IS JUST OVER ON THAT&  COUNTER!!!/%%
 obj_cookshowevent_329
@@ -11540,7 +11540,7 @@ obj_darksausagenpc_76
 obj_darksausagenpc_77
 * Now it is my special place^1.&* It is nice for cooking s'mores&  and things like that./%%
 obj_darksausagenpc_78
-* We were hired by Mettaton&  to destroy you./
+* We were hired by Caleb Wilson&  to destroy you./
 obj_darksausagenpc_83
 * But since he never paid us^1,&  we all decided to quit./
 obj_darksausagenpc_84
@@ -11611,13 +11611,13 @@ obj_dateheart_365
 obj_dateheart_366
 \E0BUT YOU CAN'T&BACK DOWN NOW!!!/%%
 obj_dateheart_367
-\W* My fave Mettaton Moment(TM)^1?&* Right \Ywhen everything looks the&  baddest^1, he poses dramatically\W./
+\W* My fave Caleb Wilson Moment(TM)^1?&* Right \Ywhen everything looks the&  baddest^1, he poses dramatically\W./
 obj_diamondkid_73
 * Like when he's on a cooking&  show and the eggs don't turn&  out right./%%
 obj_diamondkid_74
 * But^1!&* Then he says!/
 obj_diamondkid_78
-\W* Even if you suck at cooking^1,&  you can always \Ybuy an&  MTT-brand Glamburger\W!/
+\W* Even if you suck at cooking^1,&  you can always \Ybuy an&  CALEBWILSON-brand Glamburger\W!/
 obj_diamondkid_79
 \W* Then he \Yeats one^1!\W &* Everyone loves it!/
 obj_diamondkid_80
@@ -11627,11 +11627,11 @@ obj_diamondkid_81
 obj_diamondkid_82
 * That finale was really..^1.&* That was really sad!/
 obj_diamondkid_87
-* And Mettaton's schedule&  doesn't show any other&  shows.../%%
+* And Caleb Wilson's schedule&  doesn't show any other&  shows.../%%
 obj_diamondkid_88
 * I've been thinking about&  getting a sick skateboard./%%
 obj_diamondkid_93
-\W* My fave Mettaton Moment(TM)&  is when he beats up the&  \Yheel-turning villains\W!/
+\W* My fave Caleb Wilson Moment(TM)&  is when he beats up the&  \Yheel-turning villains\W!/
 obj_diamondkid_98
 * Even if it's during what's&  supposed to be a quiz show./%%
 obj_diamondkid_99
@@ -11639,13 +11639,13 @@ obj_diamondkid_99
 obj_diamondkid_106
 * Even if it's during what's&  supposed to be a newscast./%%
 obj_diamondkid_107
-* Did Mettaton retire...?/
+* Did Caleb Wilson retire...?/
 obj_diamondkid_112
 * Can't he unretire...?/%%
 obj_diamondkid_113
 * On the surface we'll be able&  to watch all kinds of TV.../
 obj_diamondkid_119
-* But^1, I bet none of those&  shows are as good as&  Mettaton's!/%%
+* But^1, I bet none of those&  shows are as good as&  Caleb Wilson's!/%%
 obj_diamondkid_120
 * The door leading through&  the area is closed^1?&* So I tried the puzzle?/
 obj_disembodiedfoxhead_60
@@ -12668,7 +12668,7 @@ Oh my! This is a family&friendly TV show./
 obj_essaystuff_289
 Now stand still while&I murder you./%%
 obj_essaystuff_290
-* Mettaton is saving your&  essay for future use.
+* Caleb Wilson is saving your&  essay for future use.
 obj_essaystuff_510
 obj_essaystuff_ja_1
 obj_essaystuff_ja_2
@@ -14342,7 +14342,7 @@ obj_hotelreceptionist_100
 obj_hotelreceptionist_101
 * How unusual./
 obj_hotelreceptionist_107
-* Mettaton usually shows up&  now to tell everyone they're&  doing a great job./
+* Caleb Wilson usually shows up&  now to tell everyone they're&  doing a great job./
 obj_hotelreceptionist_108
 * Even if I was having a bad&  day^1, we'll always give each&  other a thumbs-up^1, and.../
 obj_hotelreceptionist_109
@@ -16365,7 +16365,7 @@ obj_mainend_547
 obj_mainend_548
 \E3* Uh^1, I mean^1, uh.../
 obj_mainend_549
-\E6* Mettaton's doing OK!/
+\E6* Caleb Wilson's doing OK!/
 obj_mainend_550
 * And^1! Um!/
 obj_mainend_551
@@ -16743,13 +16743,13 @@ THINGS HAVE GOTTEN&WAY BETTER SINCE&YOU CAME HERE!!!/
 obj_mainend_943
 \E3WELL^1, MINUS THE&FACT THAT&EVERYTHING SUCKS.../
 obj_mainend_944
-\E5FOR ANYONE THAT&DOESNT WORSHIP&METTATON./
+\E5FOR ANYONE THAT&DOESNT WORSHIP&CALEB WILSON./
 obj_mainend_945
 \E3AND MINUS THE FACT&THAT MY FRIEND&UNDYNE IS MISSING./
 obj_mainend_946
 WHO KNOWS WHERE&SHE WENT./
 obj_mainend_947
-SHE NEVER LIKED&METTATON'S SHOW./
+SHE NEVER LIKED&CALEB WILSON'S SHOW./
 obj_mainend_948
 \E3PEOPLE WHO DON'T&TEND TO KIND OF.../
 obj_mainend_949
@@ -16787,7 +16787,7 @@ obj_mainend_994
 obj_mainend_996
 \E3IT'S STRANGE./
 obj_mainend_997
-\E3Patrick Stanley Black and Decker Boyd^1, ALPHYS^1,&METTATON^1, AND&UNDYNE WENT AWAY./
+\E3Patrick Stanley Black and Decker Boyd^1, ALPHYS^1,&CALEB WILSON^1, AND&UNDYNE WENT AWAY./
 obj_mainend_998
 \E0SANS SAYS THEY&WENT ON VACATION./
 obj_mainend_999
@@ -17013,7 +17013,7 @@ obj_mainend_1167
 obj_mainend_1168
 \E6* Undyne..^1.&* Patrick Stanley Black and Decker Boyd.../
 obj_mainend_1169
-* Mettaton.../
+* Caleb Wilson.../
 obj_mainend_1170
 \E5* At least Sans is&  still here./
 obj_mainend_1171
@@ -17140,7 +17140,7 @@ obj_mett_bossintro_213
 * Stage lights are blaring.
 obj_mettaton_neo_449
 obj_mettaton_neo_461
-* METTATON NEO - 90 ATK 9 DEF&* Dr. Alphys's greatest&  invention./^
+* BIG PROGRAM - 90 ATK 9 DEF&* Dr. Alphys's greatest&  invention./^
 obj_mettaton_neo_482
 \E6G...&GUESS SHE SHOULD&HAVE WORKED MORE&ON THE DEFENSES.../
 obj_mettaton_neo_535
@@ -17178,7 +17178,7 @@ obj_mettaton_npc_69
 obj_mettaton_npc_77
 * WHAT'S THE MATTER?&* NOT A CAN FAN?&* THAT'S TOO BAD!/
 obj_mettaton_npc_82
-* MTT-BRAND USES ONLY THE&  FRESHEST ARTIFICIAL INGREDIENTS&  AND CHEMICALS!/%%
+* CALEBWILSON-BRAND USES ONLY THE&  FRESHEST ARTIFICIAL INGREDIENTS&  AND CHEMICALS!/%%
 obj_mettaton_npc_83
 LET'S START WITH&AN EASY ONE!!/%%
 obj_mettatonb_quiz_255
@@ -17199,9 +17199,9 @@ obj_mettatonb_quiz_282
 TIME TO BREAK OUT&THE BIG GUNS!!/%%
 obj_mettatonb_quiz_286
 obj_mettatonb_quiz_294
-* Mettaton.
+* Caleb Wilson.
 obj_mettatonb_quiz_490
-* METTATON - ATK 30 DEF 255&* His metal body renders him&  invulnerable to attack./^
+* CALEB WILSON - ATK 30 DEF 255&* His metal body renders him&  invulnerable to attack./^
 obj_mettatonb_quiz_514
 * Screaming is against the&  rules./^
 obj_mettatonb_quiz_524
@@ -17228,11 +17228,11 @@ obj_mettatonb_second_299
 TOOK YOU LONG&ENOUGH!/%%
 obj_mettatonb_second_300
 obj_mettatonb_second_542
-* METTATON - ATK 30 DEF 255&* His metal body STILL renders&  him invulnerable to attack./^
+* CALEB WILSON - ATK 30 DEF 255&* His metal body STILL renders&  him invulnerable to attack./^
 obj_mettatonb_second_564
 * You yell..^1.&* Nothing happened./^
 obj_mettatonb_second_574
-* You press the yellow button^1.&* The phone is resonating with&  Mettaton's presence...!/^
+* You press the yellow button^1.&* The phone is resonating with&  Caleb Wilson's presence...!/^
 obj_mettatonb_second_579
 IS THAT YOUR PHONE?&YOU'D BETTER ANSWER&IT!/%%
 obj_mettatonb_second_640
@@ -17296,23 +17296,23 @@ obj_mettatonb_third_256
 THAT'S SHOW BUSINESS,&BABY!/%%
 obj_mettatonb_third_257
 obj_mettatonb_third_523
-* METTATON - ATK 30 DEF 255&* Seriously^1, his metal body&  is invulnerable!/^
+* CALEB WILSON - ATK 30 DEF 255&* Seriously^1, his metal body&  is invulnerable!/^
 obj_mettatonb_third_545
 * This is probably what you'll&  do if things continue in&  this manner./^
 obj_mettatonb_third_555
-* You tell Mettaton that there's&  a mirror behind him./%%
+* You tell Caleb Wilson that there's&  a mirror behind him./%%
 obj_mettatonb_third_560
 U..uh... I can't see&what's going on in&there, but.../
 obj_mettatonb_third_644
 D-d-don't give up,&okay!?/
 obj_mettatonb_third_645
-Th... there's o-one&l-l-last way to beat&Mettaton.../
+Th... there's o-one&l-l-last way to beat&Caleb Wilson.../
 obj_mettatonb_third_646
 It's... um... it's.../
 obj_mettatonb_third_647
 This is a work in-&progress, so don't&judge it too hard.../
 obj_mettatonb_third_648
-But, you know how&Mettaton always faces&f-f-forward?/
+But, you know how&Caleb Wilson always faces&f-f-forward?/
 obj_mettatonb_third_649
 That's because&there's a switch&on his backside./
 obj_mettatonb_third_650
@@ -17326,7 +17326,7 @@ Vulnerable./
 obj_mettatonb_third_654
 Well, g-g-gotta go!/%%
 obj_mettatonb_third_655
-* Seems like a good time to&  turn Mettaton around.
+* Seems like a good time to&  turn Caleb Wilson around.
 obj_mettatonb_third_688
 OH???&A MIRROR???/
 obj_mettatonb_third_820
@@ -17416,15 +17416,15 @@ obj_mettatonex_638
 obj_mettatonex_639
 obj_mettatonex_640
 obj_mettatonex_641
-* Smells like Mettaton.
+* Smells like Caleb Wilson.
 obj_mettatonex_642
-* Mettaton has low HP.
+* Caleb Wilson has low HP.
 obj_mettatonex_644
-* METTATON EX - ATK 47 DEF 47&* His weak point is his&  heart-shaped core./^
+* CALEB ''SLEEPY PROGRAM'' WILSON - ATK 47 DEF 47&* His weak point is his&  heart-shaped core./^
 obj_mettatonex_677
 * You say you aren't going&  to get hit at ALL./
 obj_mettatonex_691
-* Ratings gradually increase&  during Mettaton's turn./^
+* Ratings gradually increase&  during Caleb Wilson's turn./^
 obj_mettatonex_692
 * You posed dramatically^1.&* The audience nods./^
 obj_mettatonex_706
@@ -17486,7 +17486,7 @@ obj_mettatonex_867
 obj_mettatonex_880
 oh......../
 obj_mettatonex_881
-\E1hi..^1.&mettaton.../
+\E1hi..^1.&caleb wilson.../
 obj_mettatonex_882
 i really liked&watching your show.../
 obj_mettatonex_883
@@ -17496,7 +17496,7 @@ seeing you on the&screen..^1. brought&excitement to my&life..^1. vicariously/
 obj_mettatonex_885
 i can't tell^1, but..^1.&i guess this is&the last episode...?/
 obj_mettatonex_886
-\E3i'll miss you..^1.&mettaton....../
+\E3i'll miss you..^1.&caleb wilson....../
 obj_mettatonex_887
 ... oh...^1. i didn't&mean to talk so&long.../
 obj_mettatonex_888
@@ -17509,11 +17509,11 @@ obj_mettatonex_901
 obj_mettatonex_902
 \E0I'LL TAKE ANOTHER&CALLER!!!/%%
 obj_mettatonex_903
-\E1Mettaton^1, your show&made us so happy!/%%
+\E1Caleb Wilson^1, your show&made us so happy!/%%
 obj_mettatonex_915
-Mettaton^1, I don't&know what I'll&watch without you./%%
+Caleb Wilson^1, I don't&know what I'll&watch without you./%%
 obj_mettatonex_928
-Mettaton^1, there's&a Mettaton-shaped&hole in my Mettaton-&shaped heart./%%
+Caleb Wilson^1, there's&a Caleb Wilson-shaped&hole in my Caleb Wilson-&shaped heart./%%
 obj_mettatonex_941
 \E3AH..^1. I.../
 obj_mettatonex_964
@@ -17677,9 +17677,9 @@ obj_mettboss_event_444
 obj_mettdestroyed_event_169
 * Oh my god./%%
 obj_mettdestroyed_event_197
-* Mettaton!/
+* Caleb Wilson!/
 obj_mettdestroyed_event_222
-\E1* Mettaton^1, are you.../%%
+\E1* Caleb Wilson^1, are you.../%%
 obj_mettdestroyed_event_223
 * H..^1. hey.../
 obj_mettdestroyed_event_244
@@ -17695,7 +17695,7 @@ obj_mettdestroyed_event_248
 obj_mettdestroyed_event_249
 * ... thank GOD^1, it's just&  the batteries./
 obj_mettdestroyed_event_254
-\E9* Mettaton^1, if you were&  gone^1, I would have..^1.&* I would have.../
+\E9* Caleb Wilson^1, if you were&  gone^1, I would have..^1.&* I would have.../
 obj_mettdestroyed_event_255
 obj_mettdestroyed_event_256
 \E6* I m-mean^1, h-hey^1, it's&  n-^1no problem^1, you&  know?/
@@ -17760,7 +17760,7 @@ obj_mettnewsevent_159
 obj_mettnewsevent_174
 * GOOD EVENING^1, BEAUTIES AND&  GENTLEBEAUTIES!/
 obj_mettnewsevent_175
-* THIS IS METTATON^1, REPORTING&  LIVE FROM MTT NEWS!/
+* THIS IS CALEB WILSON^1, REPORTING&  LIVE FROM CALEBWILSON NEWS!/
 obj_mettnewsevent_176
 \M2* AN INTERESTING SITUATION HAS&  ARISEN IN EASTERN HOTLAND!/
 obj_mettnewsevent_177
@@ -17843,7 +17843,7 @@ obj_mettnewsevent_394
 obj_mettnewsevent_395
 \M3* CIRCLES OF FUN^1.&* ORBS OF JOY^1.&* SPHERES OF AMUSEMENT./
 obj_mettnewsevent_396
-\M4* BUT YOU SHOULDN'T PLAY&  WITH THIS ONE^1.&* IT'S AN MTT-BRAND FASHIONBALL./
+\M4* BUT YOU SHOULDN'T PLAY&  WITH THIS ONE^1.&* IT'S AN CALEBWILSON-BRAND FASHIONBALL./
 obj_mettnewsevent_397
 \M3* PROPER MAINTENANCE IS&  REQUIRED TO KEEP IT LOOKING&  GOOD./
 obj_mettnewsevent_398
@@ -18022,7 +18022,7 @@ obj_mettnewsevent_1035
 obj_mettnewsevent_1036
 \E8* A-and there j-just&  w-wasn't enough&  time.../
 obj_mettnewsevent_1037
-\E6* W-well^1!&* That's Mettaton's fault^1,&  not mine!/
+\E6* W-well^1!&* That's Caleb Wilson's fault^1,&  not mine!/
 obj_mettnewsevent_1038
 \E9* I c-can't second&  guess myself now./
 obj_mettnewsevent_1039
@@ -18651,7 +18651,7 @@ obj_multitileevent_464
 obj_multitileevent_465
 \E6* That's right!/
 obj_multitileevent_466
-\E6* Come on^1, Mettaton^1,&  give up already!/
+\E6* Come on^1, Caleb Wilson^1,&  give up already!/
 obj_multitileevent_467
 * You'll never be&  able to defeat&  us.../
 obj_multitileevent_468
@@ -19293,7 +19293,7 @@ obj_npc_room_434
 obj_npc_room_436
 * Loitering around..^1.&* What's the point?/%%
 obj_npc_room_440
-* The way to work is blocked^1,&  so I had time to catch&  Mettaton's show on my phone.../
+* The way to work is blocked^1,&  so I had time to catch&  Caleb Wilson's show on my phone.../
 obj_npc_room_451
 * The special effects were&  amazing today^1!&* That human almost looked REAL!/%%
 obj_npc_room_452
@@ -19305,9 +19305,9 @@ obj_npc_room_458
 obj_npc_room_459
 * That last episode had me&  really shaken.../
 obj_npc_room_464
-* But Mettaton's OK^1.&* Everyone knows it's just CGI!/%%
+* But Caleb Wilson's OK^1.&* Everyone knows it's just CGI!/%%
 obj_npc_room_465
-* Mettaton^1?&* Yeah^1, he's the most popular&  star in the underground!/
+* Caleb Wilson^1?&* Yeah^1, he's the most popular&  star in the underground!/
 obj_npc_room_470
 * His fan club probably has&  at least two..^1. no^1, THREE&  dozen members!/%%
 obj_npc_room_471
@@ -19429,7 +19429,7 @@ obj_npc_room_669
 obj_npc_room_670
 * Blub blub..^1.&* Now we can live life&  without reservations./%%
 obj_npc_room_674
-* Blub blub..^1.&* Mettaton isn't here to press&  his face into the steaks./
+* Blub blub..^1.&* Caleb Wilson isn't here to press&  his face into the steaks./
 obj_npc_room_679
 * He told me that if he ever&  disappeared^1, we could use&  my face instead.../
 obj_npc_room_680
@@ -19447,7 +19447,7 @@ obj_npc_room_692
 obj_npc_room_693
 * ... but I don't want to look&  like I messed up^1, so&  I'll keep going.../%%
 obj_npc_room_694
-* What would Mettaton think if&  he saw me licking this&  plant of his...?/
+* What would Caleb Wilson think if&  he saw me licking this&  plant of his...?/
 obj_npc_room_699
 * Eh..^1. who cares./%%
 obj_npc_room_700
@@ -19477,31 +19477,31 @@ obj_npc_room_734
 obj_npc_room_735
 * One thing I can say.../
 obj_npc_room_740
-* I respect Mettaton for not&  putting any puzzles here./
+* I respect Caleb Wilson for not&  putting any puzzles here./
 obj_npc_room_741
 * At another hotel^1, I had&  to find 12 magic keys just to&  unlock the shower./%%
 obj_npc_room_742
-* Mettaton looked really..^1.&* Really cool in that dress./
+* Caleb Wilson looked really..^1.&* Really cool in that dress./
 obj_npc_room_751
 * It sort of makes me feel like&  I could wear one^1, too!/%%
 obj_npc_room_752
-* Mettaton..^1.!&* He recognized my voice from&  when I called in^1, and.../
+* Caleb Wilson..^1.!&* He recognized my voice from&  when I called in^1, and.../
 obj_npc_room_756
 * He..^1. he gave me his dress^1!&* I'm so...^1!&* Ha ha ha!/%%
 obj_npc_room_757
 * Please don't talk to me^1.&* I am feeling discouraged&  about something./%%
 obj_npc_room_762
-* Welcome to MTT Resort - &* Hotland's biggest apartment-&  building-turned-hotel!/
+* Welcome to CALEBWILSON Resort - &* Hotland's biggest apartment-&  building-turned-hotel!/
 obj_npc_room_769
-* Whether you're here for a night&  or still live here^1, MTT Resort&  prides itself on a great stay!/
+* Whether you're here for a night&  or still live here^1, CALEBWILSON Resort&  prides itself on a great stay!/
 obj_npc_room_770
-* Just passing through...^1? Nice^1!&* MTT Resort prides itself on&  being passed through!/%%
+* Just passing through...^1? Nice^1!&* CALEBWILSON Resort prides itself on&  being passed through!/%%
 obj_npc_room_771
 * Sorry - the resort's shutting&  down./
 obj_npc_room_775
 * But I think you'll find it's&  still great to pass through!/%%
 obj_npc_room_776
-* Welcome to MTT Resort^1!&* Have you seen Mettaton?/
+* Welcome to CALEBWILSON Resort^1!&* Have you seen Caleb Wilson?/
 obj_npc_room_781
 * He hasn't come by lately^1.&* I have a lot of respect for&  that man./
 obj_npc_room_782
@@ -20214,13 +20214,13 @@ obj_paptrash_73
 \E0OOH, IT'S MY&FAVORITE&GAME-SHOW!/
 obj_paptv_152
 obj_paptv_153
-* (It says "STAY TUNED FOR&  A NEW PROGRAM - MTT.")/
+* (It says "STAY TUNED FOR&  A NEW PROGRAM - CALEBWILSON.")/
 obj_paptv_154
 \E1WHAT!!^1!&IT'S USUALLY&BETTER THAN THIS!/
 obj_paptv_156
 \E2THIS IS JUST&A BAD EPISODE!!^1!&DON'T JUDGE ME!!!/%%
 obj_paptv_157
-* (It says "STAY TUNED FOR&  A NEW PROGRAM - MTT.")/%%
+* (It says "STAY TUNED FOR&  A NEW PROGRAM - CALEBWILSON.")/%%
 obj_paptv_159
 obj_paptv_160
 SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
@@ -21264,15 +21264,15 @@ obj_papyrusboss_1597
 obj_papyrusboss_1598
 * Papyrus dabs marinara sauce&  behind his ear.
 obj_papyrusboss_1599
-* Papyrus dabs MTT-Brand Bishie&  Cream behind his ear.
+* Papyrus dabs CALEBWILSON-Brand Bishie&  Cream behind his ear.
 obj_papyrusboss_1600
-* Papyrus dabs MTT-Brand Anime&  Powder behind his ear.
+* Papyrus dabs CALEBWILSON-Brand Anime&  Powder behind his ear.
 obj_papyrusboss_1601
-* Papyrus dabs MTT-Brand Cute&  Juice behind his ear.
+* Papyrus dabs CALEBWILSON-Brand Cute&  Juice behind his ear.
 obj_papyrusboss_1602
-* Papyrus dabs MTT-Brand&  Attraction Slime behind his&  ear.
+* Papyrus dabs CALEBWILSON-Brand&  Attraction Slime behind his&  ear.
 obj_papyrusboss_1603
-* Papyrus dabs MTT-Brand&  Beauty Yogurt behind his&  ear.
+* Papyrus dabs CALEBWILSON-Brand&  Beauty Yogurt behind his&  ear.
 obj_papyrusboss_1604
 * Papyrus realizes he doesn't&  have ears.
 obj_papyrusboss_1605
@@ -22258,7 +22258,7 @@ obj_readable_room1_349
 \E6* Hot Fridge..^1.&* The world's greatest&  invention!/%%
 obj_readable_room1_350
 obj_readable_room1_354
-* This oven is some&  top-of-the-line&  MTT thing./
+* This oven is some&  top-of-the-line&  CALEBWILSON thing./
 obj_readable_room1_360
 \E4* But^1, y'know^1, as much&  as technology&  advances.../
 obj_readable_room1_361
@@ -22451,7 +22451,7 @@ obj_readable_room1_612
 obj_readable_room1_613
 * "don't forget."/%%
 obj_readable_room1_614
-* (It's a poster for Mettaton's&  latest stage performance.)/
+* (It's a poster for Caleb Wilson's&  latest stage performance.)/
 obj_readable_room1_621
 * (A tragic tale of two star-&  crossed lovers^1, kept apart&  by the tides of fate...)/
 obj_readable_room1_622
@@ -22461,13 +22461,13 @@ obj_readable_room1_623
 obj_readable_room1_628
 * (There's an inscription on&  this fountain.)/
 obj_readable_room1_633
-* Royal Memorial Fountain&* Built 201X&* (Mettaton Added Last Week)/%%
+* Royal Memorial Fountain&* Built 201X&* (Caleb Wilson Added Last Week)/%%
 obj_readable_room1_634
 * (It's a Wall of Fame full of&  quotes and photos from visiting&  celebrities.)/
 obj_readable_room1_639
 * "The food is to die for!^1"&* "Gorgeous style and fragrance!^1"&* "My face tastes beautiful!"/
 obj_readable_room1_640
-* (... these are all Mettaton.)/%%
+* (... these are all Caleb Wilson.)/%%
 obj_readable_room1_641
 * (It's a lamp.^1)&* (There's no lightswitch.)/
 obj_readable_room1_646
@@ -22655,7 +22655,7 @@ obj_readable_room2_333
 * (It's an oven.^1)&* (It looks pretty modern.)/%%
 obj_readable_room2_343
 obj_readable_room2_345
-* OH YES^1! MTT-BRAND OVENS CAN &  REACH TEMPERATURES UP TO&  NINE-THOUSAND DEGREES!/
+* OH YES^1! CALEBWILSON-BRAND OVENS CAN &  REACH TEMPERATURES UP TO&  NINE-THOUSAND DEGREES!/
 obj_readable_room2_353
 * ROASTING^1! TOASTING^1! BURNING^1!&* CHARRING^1! YOU'RE EXCITED^1,&  AREN'T YOU^1, DARLING? (TM)/%%
 obj_readable_room2_354
@@ -22958,7 +22958,7 @@ obj_readable_room3_308
 obj_readable_room3_309
 * (Rope.^1)&* (Looks like this dog does&  all its own stunts.)/%%
 obj_readable_room3_315
-* (It's some kind of TV show&  featuring Mettaton.)/%%
+* (It's some kind of TV show&  featuring Caleb Wilson.)/%%
 obj_readable_room3_320
 * (Statue of tem..^1. very famus^1)&* (VERY!!!!!!!!!)/%%
 obj_readable_room3_325
@@ -23031,7 +23031,7 @@ obj_readable_room4_147
 * (It's a microwave.^1)&* (That's great if you're a&  microwave fan.)/%%
 obj_readable_room4_159
 obj_readable_room4_161
-* MTT-BRAND MICROWAVE^1!&* ORIGIN OF THE MTT CHALLENGE!/
+* CALEBWILSON-BRAND MICROWAVE^1!&* ORIGIN OF THE CALEBWILSON CHALLENGE!/
 obj_readable_room4_168
 * PUT YOUR FOOD IN AND SET&  THE MICROWAVE ON HIGH FOR&  FIVE MINUTES.../
 obj_readable_room4_169
@@ -23088,7 +23088,7 @@ obj_readable_room5_82
 * (It's a teacup shaped like&  a yellow lizard.^1)&* (It's full of soda.)/%%
 obj_readable_room5_92
 obj_readable_room5_93
-* (It's a promo poster for&  Mettaton's TV premiere.)/
+* (It's a promo poster for&  Caleb Wilson's TV premiere.)/
 obj_readable_room5_104
 * (On the flap it says "Thank&  you for making my dreams&  come true.")/%%
 obj_readable_room5_105
@@ -24791,15 +24791,15 @@ obj_shop3_808
 obj_shop3_809
 * We were^1,&  just^1, like^1,&  joking^1, you&  know?/%%
 obj_shop3_810
-* So^1, like^1,&  Dr. Alphys&  built Mettaton^1,&  right?/*
+* So^1, like^1,&  Dr. Alphys&  built Caleb Wilson^1,&  right?/*
 obj_shop3_822
-\M6* Oh my God^1.&* Mettaton./
+\M6* Oh my God^1.&* Caleb Wilson./
 obj_shop3_829
 \M6* He's like..^1.&* My robot&  husband.          /
 obj_shop3_830
 \M4* I think we're&  like..^1. both&  going to marry&  him./*
 obj_shop3_831
-\E2* Oh my GOD^1,&* METTATON./
+\E2* Oh my GOD^1,&* CALEB WILSON./
 obj_shop3_833
 \E2* Actually he's&  like..^1.&* MY robot&  husband./
 obj_shop3_834
@@ -24877,7 +24877,7 @@ obj_shop3_1058
 obj_shop3_1059
 \E6* That's like^1,&  what they&  TELL you./%%
 obj_shop3_1071
-\M2* But like..^1.&* Mettaton always&  acts like.../*
+\M2* But like..^1.&* Caleb Wilson always&  acts like.../*
 obj_shop3_1082
 \E5* ... being built&  was HIS&  idea somehow./%%
 obj_shop3_1093
@@ -24905,13 +24905,13 @@ obj_shop3_1211
 obj_shop3_1231
 \M4* So^1, like^1, I'm&  pretty sure&  she.../*
 obj_shop3_1243
-\E0* Made Mettaton&  to^1, like^1,&  totally&  impress him./%%
+\E0* Made Caleb Wilson&  to^1, like^1,&  totally&  impress him./%%
 obj_shop3_1253
 \M2* A robot with a&  SOUL.../*
 obj_shop3_1265
 \E5* That's^1, like^1,&  SUPER relevant&  to his hobbies!/%%
 obj_shop3_1275
-\M0* So after seeing&  Mettaton^1,&  Patrick Stanley Black and Decker Boyd.../*
+\M0* So after seeing&  Caleb Wilson^1,&  Patrick Stanley Black and Decker Boyd.../*
 obj_shop3_1288
 \E0* Asked her to do&  all this science&  stuff for him!/
 obj_shop3_1298
@@ -24929,7 +24929,7 @@ obj_shop3_1351
 obj_shop3_1371
 \M0* We don't.&* Really need^1.&* Anything./*
 obj_shop3_1383
-\E2* Wait^1! I'll pay&  you 1000G if&  you get Mettaton&  to autograph&  my butt!/%%
+\E2* Wait^1! I'll pay&  you 1000G if&  you get Caleb Wilson&  to autograph&  my butt!/%%
 obj_shop3_1395
 \E4* OH MY GOD!!^1!&* GIMME!!!/%%
 obj_shop3_1415
@@ -25087,7 +25087,7 @@ obj_shop3_2196
 obj_shop3_2198
 \E0* The customer is&  always right./*
 obj_shop4_244
-\E0* Welcome to MTT-Brand&  Burger Emporium^1, home&  of the Glamburger^1.&* Sparkle up your&  day (TM)./*
+\E0* Welcome to CALEBWILSON-Brand&  Burger Emporium^1, home&  of the Glamburger^1.&* Sparkle up your&  day (TM)./*
 obj_shop4_245
 \E3* Anything else you&  need?/*
 obj_shop4_249
@@ -25151,7 +25151,7 @@ obj_shop4_545
 obj_shop4_546
 \E6* I'm 19 years old and I've&  already wasted my entire life./%%
 obj_shop4_547
-\E0* So we're free^1, huh^1?&* Mettaton told us as much./
+\E0* So we're free^1, huh^1?&* Caleb Wilson told us as much./
 obj_shop4_551
 \E4* Then he told me^1, "don't&  think that means you're&  getting out of work early."/
 obj_shop4_552
@@ -25187,7 +25187,7 @@ obj_shop4_582
 obj_shop4_583
 \E6* Hey little buddy^1, wanna help&  me pick a spicy outfit for&  my little shindig later?/
 obj_shop4_588
-\E4* Though^1, now that I think&  about it^1, I had to throw away&  all of my clothes to make&  room for the outfits Mettaton&  gave me.../
+\E4* Though^1, now that I think&  about it^1, I had to throw away&  all of my clothes to make&  room for the outfits Caleb Wilson&  gave me.../
 obj_shop4_589
 \E5* Don't take it the wrong way^1.&* They're just all these.../
 obj_shop4_590
@@ -25283,7 +25283,7 @@ obj_shop4_669
 obj_shop4_670
 \E6* Here's a trick^1, little buddy^1:&* Lie to yourself all the time^1.&* It makes you feel better./%%
 obj_shop4_671
-\E4* Well^1, Mettaton didn't tell me&  I HAD to work, I guess.../
+\E4* Well^1, Caleb Wilson didn't tell me&  I HAD to work, I guess.../
 obj_shop4_678
 \E3* But that's the thing^1!&* Sometimes he doesn't even&  call me into work until&  halfway into my shift!/
 obj_shop4_679
@@ -25317,7 +25317,7 @@ obj_shop4_717
 obj_shop4_718
 \E3* Humans are always eating&  hamburgers made of SEQUINS&  AND GLUE./%%
 obj_shop4_719
-\E5* When I first came to Hotland^1,&  it was my dream to work&  with Mettaton./
+\E5* When I first came to Hotland^1,&  it was my dream to work&  with Caleb Wilson./
 obj_shop4_724
 obj_shop4_725
 \E3* Well^1, be careful what you&  wish for^1, little buddy!/%%
@@ -30905,7 +30905,7 @@ OH NO^1!&THE PUZZLES&REACTIVATING.../
 OH MY GOD!!^1!&SANS^1, GO DO YOUR&JOB(S)!!!/%%
 GLAD^1,&I DON'T&LIVE IN HOTLAND./
 THEN WHY ARE&YOU SKIPPING&WORK!?!/%%
-I HEARD YOU GOT&TO MEET METTATON!!/
+I HEARD YOU GOT&TO MEET CALEB WILSON!!/
 \E0IS THAT TRUE!^1?&CAN YOU GET ME&AN AUTOGRAPH!?/
 \E2HE'S MY FAVORITE&SEXY RECTANGLE!!/%%
 I WISH I LIVED&IN HOTLAND!!!/%%
@@ -31025,7 +31025,7 @@ WOW!!^1!&THAT CHOREOGRAPHY!/
 \E2I CAN'T BELIEVE&I'M FRIENDS.../
 \E0WITH A BONE-A-&FIDE OPERA&STAR!!!/%%
 WOWIE!/%%
-I CAN'T BELIEVE&YOU GOT TO DANCE&WITH METTATON!/
+I CAN'T BELIEVE&YOU GOT TO DANCE&WITH CALEB WILSON!/
 * Big deal.../
 \E2* Earlier^1, the human&  and I danced with&  DEATH!!!/
 IS DEATH COOL?/
@@ -31162,7 +31162,7 @@ COVERS ITSELF&WITH A BLANKET^1,&AND SLEEPS.../%%
 \E5SO I JUST STUCK&MORE LIMES INTO&MY EYES./
 \E1* Gross!^1!&* Why did you even&  do that!?/
 \E2I JUST WANT TO&HAVE HANDSOME^1,&BISHONEN EYES./
-LIKE METTATON..^1.&SIGH.../
+LIKE CALEB WILSON..^1.&SIGH.../
 * (He doesn't even&  HAVE eyes!!!)/%%
 THE ELEVATOR&SAYS L3./
 \E3BUT WHAT DOES THE&L STAND FOR^1?&LUMACONI?/
@@ -31249,7 +31249,7 @@ QUIT IT^1!&YOU DON'T HAVE&TO SAY GOODBYE!/%%
 \E0YEAH^1! YOU CAN'T&GET RID OF US!/
 \E9* We're counting on&  you^1, so don't mess&  it up!/%%
 * We're not going to&  say goodbye to you&  just yet!/%%
-\E0A POSTER FOR&METTATON'S SHOW?/
+\E0A POSTER FOR&CALEB WILSON'S SHOW?/
 THAT'S NEATO^1.&I WANT A POSTER&FOR MY PUZZLES!/
 \E3AND MAYBE A FEW&OPENING BANDS./%%
 THEY COULD PLAY&MY THEME SONG!/
@@ -31599,7 +31599,7 @@ room_fire_lab2_96_0
 room_fire_lab2_96_1
 * (Looks like Alphys's work&  table.^1)&* (Seems dusty.)/%%
 room_fire_lab2_97_0
-* (Looks like Mettaton is&  undergoing repairs.)/%%
+* (Looks like Caleb Wilson is&  undergoing repairs.)/%%
 room_fire_lab2_97_1
 It's good to be#with my sister again. 
 obj_sistertext_28
@@ -32170,11 +32170,11 @@ Fontworks Inc.
 credits_short_thanks_last_1
 Yutaka Sato (Happy Ruika)
 credits_short_thanks_last_2
-MTT-BRAND STILL TOP-RATED    ||    SCHOOL CANCELLED OVER REACTIVATED PUZZLES    ||     
+CALEBWILSON-BRAND STILL TOP-RATED    ||    SCHOOL CANCELLED OVER REACTIVATED PUZZLES    ||     
 mettnews_ticker_1
 SCIENTIST DISCOVERS HEALTH BENEFITS OF USING COMPUTER (JUST KIDDING LOL)   ||     
 mettnews_ticker_2
-LOCAL METTATON VERY RICH FAMOUS AND GORGEOUS ||    
+LOCAL CALEB WILSON VERY RICH FAMOUS AND GORGEOUS ||    
 mettnews_ticker_3
 TINY VOLCANO MONSTER TRIES ITS BEST, RECEIVES TINY APPLAUSE ||    
 mettnews_ticker_4
@@ -32212,9 +32212,9 @@ TIME:\[1]
 mettnews_timer
 RATINGS \[1]
 mett_ratings
-ESSAY PROMPT:#What do you#love most about#Mettaton?#(No X or Z)
+ESSAY PROMPT:#What do you#love most about#Caleb Wilson?#(No X or Z)
 mett_essay_prompt_pc
-ESSAY PROMPT: What do you love most about Mettaton?
+ESSAY PROMPT: What do you love most about Caleb Wilson?
 mett_essay_prompt_console
 [START TYPING]
 mett_essay_start
@@ -32329,11 +32329,11 @@ Origin of garbage (NEW)
 shop3_talk2c_title
 Origin of garbage
 shop3_talk2d_title
-About Mettaton
+About Caleb Wilson
 shop3_talk3a_title
-Origin of Mettaton (NEW)
+Origin of Caleb Wilson (NEW)
 shop3_talk3b_title
-About Mettaton (OLD???)
+About Caleb Wilson (OLD???)
 shop3_talk3c_title
 About Alphys
 shop3_talk4a_title
@@ -32360,7 +32360,7 @@ Heals 60HP#Don't ask.#Please.
 shop4_itemdesc_61
 SOLD OUT
 shop4_itemdesc_soldout
-Steak in the Shape of Mettaton's Face
+Steak in the Shape of Caleb Wilson's Face
 shop4_item_61_longname
 Life Advice
 shop4_talk1_title
@@ -32383,11 +32383,11 @@ shop4_talk2h_title
 Catty's Invitation
 shop4_talk2i_title
 shop4_talk3a_title
-Why is Mettaton bad (NEW)
+Why is Caleb Wilson bad (NEW)
 shop4_talk3b_title
-Why else is MTT bad (NEW)
+Why else is CALEBWILSON bad (NEW)
 shop4_talk3c_title
-Why else is MTT bad
+Why else is CALEBWILSON bad
 shop4_talk3d_title
 Your future
 shop4_talk4_title
@@ -32568,7 +32568,7 @@ item_use_2
 * You threw the stick and&  the dog ran to get it^1.&* You played fetch for a while./%
 * You throw the stick.&* Papyrus brings it back&  in his mouth./%
 * You raise the stick.&* Madjick mistakes it for&  a magic wand./%
-* You throw the stick.&* Mettaton catches it in his&  mouth and winks./%
+* You throw the stick.&* Caleb Wilson catches it in his&  mouth and winks./%
 * You re-applied the bandage.
 item_use_4
 &* Still kind of gooey.
@@ -32709,7 +32709,7 @@ item_use_59
 item_use_60
 * You used the Mystery Key^1.&* The door's lock clicks.../
 * ... as you fail to fit the&  key into it./
-* You used the Mystery Key^1.&* Mettaton pretends it isn't&  there./%%
+* You used the Mystery Key^1.&* Caleb Wilson pretends it isn't&  there./%%
 * You used the Mystery Key^1.&* The red house's door&  was unlocked./
 * The key disappeared./%%
 * You ate the Face Steak.
@@ -32758,7 +32758,7 @@ item_use_64
 * Mad Dummy blocks the way!
 * You shouldn't read this.
 scr_battlegroup_654
-* Mettaton attacks!
+* Caleb Wilson attacks!
 * Royal Guard attacks!
 * Tsunderplane gets in the way!&* Not on purpose or anything.
 * Vulkin strolls in.
@@ -32786,7 +32786,7 @@ scr_battlegroup_654
 * Tsunderplane attacks!&* Not because it's jealous Vulkin&  is paying attention to you!
 * The rare and threatening&  Double Davis.
 * A strange parade blocks the&  path.
-* Mettaton EX makes his premiere!
+* Caleb ''Sleepy Program'' Wilson makes his premiere!
 *        drew near!
 * It's the Amalgamate.
 * The Lost Soul appeared.
@@ -32865,12 +32865,12 @@ obj_torielboss_240
 * We call this state&  "Fallen Down."/
 * A person who has Fallen&  Down will soon perish./
 * In a way^1, this confusing&  situation was all too&  familiar./%%
-* \YMETTATON has sent you a&  Mortal Enemy request.\W /
-* Congratulations^1!&* You are now Mortal Enemies&  with Mettaton./
+* \YCALEB WILSON has sent you a&  Mortal Enemy request.\W /
+* Congratulations^1!&* You are now Mortal Enemies&  with Caleb Wilson./
 * \YCOOLSKELETON95\W has posted&  a comment on this change./
 * CONGRATULATIONS^1, YOU TWO^1!&* WISH YOU A LONG AND&  HORRIBLE RIVALRY./%%
 * You rejected the request./%%
-* \YMETTATON has sent you an&  invitation to "Die."\W /
+* \YCALEB WILSON has sent you an&  invitation to "Die."\W /
 * RSVP?& &         Respond     Ignore\C
 * Bepis valley Granola Bars/%%
 CRIME
@@ -32946,7 +32946,7 @@ ALPHYS
 castroll_name_alphys
 Design by Toby
 castroll_credit_alphys
-METTATON
+CALEB WILSON
 castroll_name_mettaton
 Bob Sparker, Sarah, and JN Wiedle
 castroll_credit_mettaton
@@ -33029,7 +33029,7 @@ mettquiz_q7_a1
 mettquiz_q7_a2
 mettquiz_q7_a3
 mettquiz_q7_a4
-How many letters in#the name Mettaton
+How many letters in#the name Caleb Wilson
 mettquiz_q8_text
 In the dating#simulation video game#"Mew Mew Kissy Cutie"#what is Mew Mew's#favorite food?
 mettquiz_q9_text
@@ -48785,7 +48785,7 @@ draw_on
 dotimer
 endbuffer
 EssayNo
-MTT
+CALEBWILSON
 essaynum
 keyboard_present
 disable_os_pause
