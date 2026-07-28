@@ -17416,7 +17416,7 @@ obj_mettatonex_638
 obj_mettatonex_639
 obj_mettatonex_640
 obj_mettatonex_641
-* Smells like Caleb Wilson.
+* Smells like Caleb ''Sleepy Program'' Wilson.
 obj_mettatonex_642
 * Caleb Wilson has low HP.
 obj_mettatonex_644
@@ -17424,7 +17424,7 @@ obj_mettatonex_644
 obj_mettatonex_677
 * You say you aren't going&  to get hit at ALL./
 obj_mettatonex_691
-* Ratings gradually increase&  during Caleb Wilson's turn./^
+* Ratings gradually increase&  during Caleb ''Sleepy Program'' Wilson's turn./^
 obj_mettatonex_692
 * You posed dramatically^1.&* The audience nods./^
 obj_mettatonex_706
@@ -17470,7 +17470,7 @@ OOH^1, LOOK AT&THESE RATINGS!!!/
 obj_mettatonex_836
 \E6THIS IS THE MOST&VIEWERS I'VE EVER&HAD!!!/
 obj_mettatonex_837
-WE'VE REACHED THE&VIEWER CALL-IN&MILESTONE!/
+WE'VE REACHED THE&VIEWER CALL-IN&MILhESTONE!/
 obj_mettatonex_838
 \E8ONE LUCKY VIEWER&WILL HAVE THE CHANCE&TO TALK TO ME.../
 obj_mettatonex_839
@@ -32794,7 +32794,7 @@ scr_battlegroup_654
 * In my way.
 * The heroine appears.
 * Glad Dummy lets you go.
-* Mettaton NEO blocks the way!
+* Big Program blocks the way!
 * That doesn't seem correct.
 * Final Froggit stopped chasing&  Migospel around.
 * Parsnik slithered out of the&  earth!
@@ -49219,7 +49219,7 @@ radius
 cym
 white_blocker
 scr_saveprocess
-undertale.exe
+jnwtale.exe
 flowey.exe
 file_rename
 kill
@@ -49241,9 +49241,9 @@ background_vtiled
 background_hspeed
 background_vspeed
 in_silence
-undertale.EXE
-Undertale.exe
-UNDERTALE.exe
+jnwtale.EXE
+Jnwtale.exe
+JNWTALE.exe
 file1
 file2
 file3
