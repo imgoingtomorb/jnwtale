@@ -8244,7 +8244,7 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E7* Y-yeah!!^1!&* Yeah^1, that's what&  I hope^1, too./
 \E7* Just think about how&  cute they must have&  been together./
 \E0* It's quickly becoming&  my number one ship&  of all time./
-\E7* Tori and Gorey.../
+\E7* Tori and Patty B.../
 \E5* My..^1.&* My old boss and&  his ex-wife./
 \E8* ... uh^1, that sounds&  a lot less cool&  all of a sudden./%%
 \E8* ... yeah^1, that's what&  I thought./
@@ -14872,7 +14872,7 @@ obj_labtv_event_95
 obj_labtv_event_96
 * (Choose a tape to watch.)/%%
 obj_labtv_event_98
-* Psssst^1.&* Gorey^1, wake up. \Ta/
+* Psssst^1.&* Patty B^1, wake up. \Ta/
 obj_labtv_event_287
 * Mmm^1?&* What is it^1, dear?/
 obj_labtv_event_288
@@ -14880,7 +14880,7 @@ obj_labtv_event_288
 obj_labtv_event_289
 * Shush^1!&* I want to get your&  reaction./
 obj_labtv_event_290
-* Gorey^1, dearest^1.&* What is my favorite&  vegetable?\Ta/
+* Patty B^1, dearest^1.&* What is my favorite&  vegetable?\Ta/
 obj_labtv_event_291
 * Hmmm..^1.&* Carrots^1, right?\TT/
 obj_labtv_event_292
