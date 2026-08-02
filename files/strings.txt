@@ -6389,7 +6389,7 @@ Manly Bandanna
 item_name_15
 Snowman Piece
 item_name_16
-Nice Cream
+Food Requisition Form
 item_name_17
 Puppydough Icecream
 item_name_18
@@ -6722,7 +6722,7 @@ item_desc_14_0
 item_desc_15_0
 * "Snowman Piece" - Heals 45 HP&* Please take this to the&  ends of the earth./%
 item_desc_16_0
-* "Nice Cream" - Heals 15 HP&* Instead of a joke,^1 the&  wrapper says something nice./%
+* "Food Requisition Form" - Go scoutmaster yourself!&* This was due^1 two&  weeks in advance!/%
 item_desc_17_0
 * "Puppydough Icecream"&* Heals 28 HP^1.&* Made by young pups./%
 item_desc_18_0
@@ -7136,29 +7136,29 @@ IT'S THE SAME&SOLUTION EVERY&TIME./
 BECAUSE EVERY TIME&I LOOK AT A&CROSSWORD.../
 ALL I CAN DO IS&SNORE!!!/
 NYEH HEH HEH!!!/%%
-* Hello^1!&* Would you like some&  Nice Cream?/
-* It's the frozen treat&  that warms your heart!/
-* Now just 15G!& &         Yes         No \C
+* Frick you^1!&* Would you like a&  Food Requisition Form?/
+* I hate you!&  Eat lead!/
+* Give me money! & &         Frick         You \C
  %
-* Nice Cream^1!&* It's the frozen treat&  that warms your heart!/
-* Here you go^1!&* Have a super-duper day^1!&* (You got the Nice Cream.)/%%
-* Huh^1?&* You don't have enough&  money.../
-* I wish I could make&  Nice Cream for free.../%%
-* It looks like you're&  holding too much stuff^1!&* Oh well!/%%
-* Well then..^1.&* Tell your friends.../
-* There's ice cream..^1.&* Out in the middle of&  the woods.../%%
-* Now just 25G!& &         Yes         No \C
-* Hey^1, you have an umbrella^1,&  just like my cart.../
-* Such solidarity^1!&* I have no choice but to&  give you a deal!/
-* Discount Ice Cream! 15G!& &         Yes         No \C
-* Umbrella solidarity!^1?&* I guess I have to give&  you a deal.../
-* Hey^1!&* You have 3 Punch Cards!/
-* How about redeeming them&  for some Nice Cream!?/
-* It's free!& &         Yes         No \C
-* Super^1! Here you go^1!&* Your Card's in the box!&* (You got the Nice Cream.)/%%
-* Huh^1? No money^1?&* Sorry^1, I can't give it to&  you for free./%%
-* Huh^1? You can't afford it&  even with the discount^1?&* I.../%%
-* Here^1! A free Nice Cream^1!&* (You lost 3 cards and got&  a Nice Cream.)/%%
+* Food Requisition Form^1!&* You should go&  scoutmaster yourself!/
+* Take it^1!&* LEAVE!!!^1!&* (You got the Food Requisition Form.)/%%
+* Frick you^1!&* You son of a scoutmaster!&  !!!!!/
+* FILL OUT the &  Food Requisition Form!!!!!/%%
+* Drop the crap!&  You have too much garbage!^1!&* Oh well!/%%
+* GO AWAY!!!^1.&* GO!!! GRRRRR!!!/
+* There's John Ayer..^1.&* Out in the middle of&  the woods.../%%
+* GO AWAY!& &         FRICK         YOU \C
+* Hey^1, you have to LEAVE^1!&  ARGGHHHH!!!!/
+* Such stupidity^1!&* Pot sink&  beam!/
+* I hate you! 15G!& &         Frick         You \C
+* Idiot child!^1?&* KEEP YOURSELF&  SAFE/
+* Die^1!&* You have 3 Food Requisition Forms!/
+* How about submitting them on time! &  The Food Requisition Forms!?/
+* FRICK!!!& &         KEEP YOUR         SELF SAFE\C
+* AHHRGGG^1! TAKE IT^1!&* Your ''vegetarian'' meal is in the box!&* (You got the Food Requisition Form.)/%%
+* I hate you^1! LEAVE!^1!&* You're^1 a loser.&  Go./%%
+* AAAAAA!!!!^1! Kill y-&  OHHH MY LUMBAGO!!!!^1!&* !!!!/%%
+* Take this!^1! A Food Requisition Form^1!&* (You lost 3 sanity and got&  a Food Requisition Form.)/%%
 * There's ice cream..^1.&* Hidden in the depths of a&  watery cavern.../%%
 * i've been thinking&  about selling treats&  too./
 * want some fried snow^1?&* it's just 5G.&  Buy         No\C
@@ -7316,12 +7316,12 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 * (You got the Heart-shaped&  Locket.)/%%
 * (You got The Locket.)/%%
 * (The box is empty.)/%%
-* Hello...&* Would you like some&  Nice Cream...?/
+* Hello...&* Would you like some&  Food Requisition Form...?/
 * It's the frozen treat...&* That warms your heart./
 * Now only 12G!& &         Yes         No \C
-* Nice Cream^1.&* It's the frozen treat^1.&* That warms your heart./
+* Food Requisition Form^1.&* It's the frozen treat^1.&* That warms your heart./
 * Now just 12G.& &         Yes         No \C
-* Here^1.&* (You got the Nice Cream.)/%%
+* Here^1.&* (You got the Food Requisition Form.)/%%
 * You don't have enough&  money.../%%
 * Drop something./%%
 * Life..^1. is suffering./%%
@@ -8118,7 +8118,7 @@ TAKE YOUR TIME!/%%
 * How are you feeling?/
  & &         Ready       Go Back\C
 * Do what you have to./%%
-* Tra la la^1.&* I am the riverman./
+* Tra la la^1.&* Lights must be off by midnight./
 * Or am I the riverwoman...^1?&* It doesn't really matter./
 * I love to ride in my boat^1.&* Would you care to join me?/
 * (Ride in the boat?)& &         Yes         No\C
@@ -11744,11 +11744,11 @@ obj_dogboat_thing_452
 obj_dogboat_thing_453
 * Tra la la^1.&* Humans^1, monsters^1...&* Flowers./%%
 obj_dogboat_thing_454
-* Tra la la^1.&* Beware of the man who&  speaks in hands./%%
+* Tra la la^1.&* Beware of the man who&  speaks in trains./%%
 obj_dogboat_thing_455
-* Tra la la^1.&* Beware of the man who came&  from the other world./%%
+* Tra la la^1.&* Beware of the man who&  speaks in mashed potatoes./%%
 obj_dogboat_thing_456
-* Come again some time^1.&* Tra la la./%%
+* Be back in camp before eleven!^1.&* Tra la la./%%
 obj_dogboat_thing_593
 * Did something move^1?&* Was it my imagination?/
 obj_dogetrigger1_108
@@ -19015,59 +19015,59 @@ obj_nastytree_55
 obj_nastytree_56
 * (It's natural for a tree to&  lose its leaves.)/%%
 obj_nastytree_59
-* I don't understand why&  these aren't selling.../
+* FRICK&  YOU!!!/
 obj_nicecreamguy_122
-* It's the perfect weather&  for something cold.../%%
+* FILL OUT&  YOUR FORMS!!!/%%
 obj_nicecreamguy_123
-* You must have something better to do than read this message./%%
+* Do not come./%%
 obj_nicecreamguy_135
-* I relocated my store^1, but&  there are still no&  customers.../%%
+* I HATE YOU!!!!^1 FRICK OFF!&  GO!!!&  DIE!!!/%%
 obj_nicecreamguy_152
 obj_nicecreamguy_164
-* I thought for sure if I&  went to Hotland^1, I'd sell&  some Nice Creams./
+* Human.. I remember you're&  Food Requisition Forms...^1 I DESTROY&  YOU!!!./
 obj_nicecreamguy_183
-* But nobody wants them^1.&* Everyone's just eating&  Starfaits and Glamburgers./
+* GO AND SCOUTMASTER YOURSELF!!!^1&* Ahhrgh!!!&  Glue!/
 obj_nicecreamguy_184
-* So!!!/%%
+* DIE!!!/%%
 obj_nicecreamguy_185
 obj_nicecreamguy_197
-* I'm so happy!^1!&* Nice Cream is really&  changing the world!!/%%
+* I'm so angry!^1!&* Your Food Requisition Form is really&  changing the world!!/%%
 obj_nicecreamguy_211
-* Hey^1!&* It's you again^1!/
+* Scoutmaster!^1!&* It's you again^1!/
 obj_nicecreamguy_215
-* Business is excellent here^1!&* These two fellas bought&  ALL my ice cream!/
+* I hate you and^1&* everybody out&  there!/
 obj_nicecreamguy_216
-* I've actually sold out of&  everything!!!/
+* I refuse to give you&  a form!!!/
 obj_nicecreamguy_217
-* ... sorry./
+* GO./
 obj_nicecreamguy_218
-* Wait^1!&* I've still got something&  for you!/
+* Pause^1!&* I've still got a Food&  Requisition form for you!/
 obj_nicecreamguy_219
-* ... a big smile^1!&* How about that!/%%
+* ... a big angry^1!&* GUUUHHHHH!/%%
 obj_nicecreamguy_220
-* I'm so excited to sell&  Nice Cream on the surface!/
+* I hate you. Give me a &  Food Requisition Form!/
 obj_nicecreamguy_227
-* If all humans are like you^1,&  then...!/
+* If all staff are like you^1,&  then they will be destroyed!/
 obj_nicecreamguy_230
 * ... then I'll still be&  able to sell to monsters^1,&  I hope./%%
 obj_nicecreamguy_231
-* If all humans are like you^1,&  I think it'll be a modest&  success!/%%
+* You ruined my^1,&  20,000 dollar&  floor!/%%
 obj_nicecreamguy_234
-* If all humans are like you^1,&  I think it'll be really&  popular!/%%
+* Do not walk^1 &  into MY&  kitchen!/%%
 obj_nicecreamguy_236
-* OH!!!^1!&* A CUSTOMER!!!/%%
+* I HATE ^1 &* CHILDREN!!!/%%
 obj_nicecreamguy_288
-* Fortunately^1, I've thought&  of a solution!!/
+* Eat my^1 slop!&  !!/
 obj_nicecreamguy_291
-* Punch cards!!/
+* Your face is dumb!!!/
 obj_nicecreamguy_292
-* Every time you buy a&  Nice Cream^1, you can take a&  punch card from the box./
+* LEAVE ME BE! &  Your Food Requisition Form^1 was due&  last year!!!!!/
 obj_nicecreamguy_293
-* If you have 3 cards^1, you&  can trade them for a&  free Nice Cream!/
+* You're STUPID!!!!^1 !!!!&  Die! &  I'm morbin!!!!/
 obj_nicecreamguy_294
-* They're sure to get the&  customers to come back!/%%
+* I HATE YOU &  AND EVERYBODY OUT THERE!!!/%%
 obj_nicecreamguy_295
-* Anyway.../%%
+* Well that just happened./%%
 obj_nicecreamguy_296
 * I'm having a going out of&  business sale./%%
 obj_nicecreamguy_302
@@ -25224,7 +25224,7 @@ obj_shop4_614
 obj_shop4_615
 \E5* Huh^1?&* Yeah^1, those two vendors in back^1.&* The girls./
 obj_shop4_620
-\E3* NOT the Nice Cream guy./
+\E3* NOT the Food Requisition Form guy./
 obj_shop4_621
 \E5* He keeps coming in here and&  asking me stuff like^1,&* "Hey Burgy, what do you think&  of this joke for my next&  ice cream wrapper?"/
 obj_shop4_622
@@ -25234,7 +25234,7 @@ obj_shop4_623
 obj_shop4_624
 \E3* You somehow understand comedy&  EVEN LESS than that guy who&  keeps going on stage and&  crying about his family./
 obj_shop4_625
-\E5* Anyway^1, I^1, uh^1, just tell him&  that they're good^1, because he&  gives me the nice cream for&  free afterward.../%%
+\E5* Anyway^1, I^1, uh^1, just tell him&  that they're good^1, because he&  gives me the Food Requisition Form for&  free afterward.../%%
 obj_shop4_626
 \E4* Everyone calls me burgerpants&  now./
 obj_shop4_631
