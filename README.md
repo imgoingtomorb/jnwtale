@@ -3,7 +3,7 @@ These are the characters that are modified by JNWTALE.
 
 ## Bosses
 
-**Asgore:**: Pat Boyd
+**Asgore**: Pat Boyd
 
 ## Enemies 
 
