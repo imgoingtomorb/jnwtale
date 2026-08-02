@@ -1,15 +1,20 @@
-#JNWTALE
+# JNWTALE
 These are the characters that are modified by JNWTALE.
 
-##Bosses
+## Bosses
 
 **Asgore:**: Pat Boyd
 
-##Enemies 
+## Enemies 
 
 
-##Shop Clerks
+## Shop Clerks
 
 **Nice Cream Guy**: John Ayer
 
-##Misc
+## Misc
+
+## In Progress
+
+**Mettaton EX**: Caleb Wilson
+**Jerry**: Andy Makepeace
