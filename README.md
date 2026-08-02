@@ -17,4 +17,5 @@ These are the characters that are modified by JNWTALE.
 ## In Progress
 
 **Mettaton EX**: Caleb Wilson
+
 **Jerry**: Andy Makepeace
