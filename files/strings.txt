@@ -6510,7 +6510,7 @@ Mandanna
 item_nameb_15
 SnowPiece
 item_nameb_16
-NiceCream
+Food Requisition Form
 item_nameb_17
 PDIceCram
 item_nameb_18
@@ -32600,15 +32600,15 @@ item_use_14
 item_use_15
 * You ate the Snowman Piece.
 item_use_16
-* You're just great!
-* You look nice today!
-* Are those claws natural?
-* You're super spiffy!
-* Have a wonderful day!
-* Is this as sweet as you?
-* (An illustration of a hug.)
-* Love yourself! I love you!
-* Mmm^1! Tastes like puppies.
+* DIE!
+* KEEP YOURSELF SAFE!
+* I HATE YOU!
+* YOU'RE SUPER STUPID!!!!!
+* EAT MORE SLOP!!!!
+* EAT LEAD!!!!
+* You shatter your teeth on a rock.
+* SCOUTMASTER YOURSELF!!!!
+* GUIGUIGUIGU!!!^1! Tastes like crap.
 item_use_18
 * You eat one half of&  the Bisicle.
 item_use_19
