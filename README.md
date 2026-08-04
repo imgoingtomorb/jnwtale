@@ -5,6 +5,8 @@ These are the characters that are modified by JNWTALE.
 
 **Asgore**: Pat Boyd
 
+**Mettaton EX**: Caleb ''Sleepy Program'' Wilson
+
 ## Enemies 
 
 
@@ -18,7 +20,6 @@ These are the characters that are modified by JNWTALE.
 
 ## In Progress
 
-**Mettaton EX**: Caleb Wilson
 
 **Jerry**: Andy Makepeace
 
