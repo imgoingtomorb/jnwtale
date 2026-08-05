@@ -14585,7 +14585,7 @@ obj_jerry_407
 obj_jerry_408
 * Andy Makepeace tells everyone he has to&  go to the bathroom.
 obj_jerry_409
-* Andy Makepeace lets out a yawn.
+* Andy Makepeace goes to walk Brie.
 obj_jerry_410
 * Smells like....... Andy Makepeace.
 obj_jerry_411
@@ -14597,7 +14597,7 @@ obj_jerry_414
 obj_jerry_415
 * Andy Makepeace - ATK 0 DEF 30&* Everyone knows Andy Makepeace.&* Makes attacks 2 seconds longer./^
 obj_jerry_442
-* You and the other&  monsters ditch Andy Makepeace&  when it looks away!/^
+* You and the other&  monsters ditch Andy Makepeace&  when he looks away!/^
 obj_jerry_450
 * MY MY./
 obj_jetpackchara_198
