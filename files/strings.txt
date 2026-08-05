@@ -3306,10 +3306,10 @@ woshua
 うぉっしゅあ
 せいけつな　なまえ。
 Clean name.
-jerry
+Andy Makepeace
 じぇりー
 ジェリー。
-Jerry.
+Andy Makepeace.
 bpants
 ばがぱん
 …なまえの#ネタぎれ？
@@ -6849,7 +6849,7 @@ Snowdrake
 Chilldrake
 Ice Cap
 Ice
-Jerry
+Andy Makepeace
 Gyftrot
 Temmie
 Papyrus
@@ -14552,7 +14552,7 @@ obj_introimage_83
  ^9 ^9 ^9 ^9 ^9 ^9 \E0 %
 obj_introimage_84
 obj_introimage_85
-Guys, it's COLD.&Does ANYONE care?
+Guys!!!!!.&It's bo-dee-ah-DAH!!!!&Does anyone even care?
 obj_jerry_164
 Why are we doing&this? What a fail.
 obj_jerry_165
@@ -14562,11 +14562,11 @@ SHHHH! I'm&THINKING, guys!!
 obj_jerry_167
 Ka-SIGH.
 obj_jerry_168
-Well... can YOU&give me a ride&home?
+Well... can YOU&give me a steel&carabiner?
 obj_jerry_171
-Huh? Did they&ditch me...? SOME&friends!
+Huh? Did Gavin&ditch me...? SOME&staff!
 obj_jerry_172
-Awkwarrrd.
+Awk-WORRD. My generation&invented WORRD, you know?
 obj_jerry_173
 So, like, what&are you even&doing?
 obj_jerry_174
@@ -14574,30 +14574,30 @@ The wi-fi here&sucks.
 obj_jerry_175
 Hahaha!&Say something&else funny!
 obj_jerry_199
-Haha! Wow!&Drake, you suck!
+Haha! Wow!&Nate Hart, you suck!
 obj_jerry_200
-Hahaha!&Where do you get&your ideas!?!
+Hahaha!&Where do you get&your program!?!
 obj_jerry_201
 obj_jerry_207
-* Jerry eats powdery food and&  licks its hands loudly.
+* Andy Makepeace eats powdery food and&  licks his hands loudly.
 obj_jerry_407
-* Jerry sneezes without covering&  its nose.
+* Andy Makepeace sneezes without covering&  his nose.
 obj_jerry_408
-* Jerry tells everyone it has to&  go to the bathroom.
+* Andy Makepeace tells everyone he has to&  go to the bathroom.
 obj_jerry_409
-* Jerry lets out a yawn.
+* Andy Makepeace lets out a yawn.
 obj_jerry_410
-* Smells like....... Jerry.
+* Smells like....... Andy Makepeace.
 obj_jerry_411
-* Jerry is wounded.
+* Andy Makepeace is wounded.&&Again.
 obj_jerry_412
-* The other monsters celebrate&  Jerry's disappearance.
+* The other staff celebrate&  Andy Makepeace's disappearance.
 obj_jerry_414
-* Return of Jerry.
+* Return of Andy Makepeace.
 obj_jerry_415
-* JERRY - ATK 0 DEF 30&* Everyone knows Jerry.&* Makes attacks 2 seconds longer./^
+* Andy Makepeace - ATK 0 DEF 30&* Everyone knows Andy Makepeace.&* Makes attacks 2 seconds longer./^
 obj_jerry_442
-* You and the other&  monsters ditch Jerry&  when it looks away!/^
+* You and the other&  monsters ditch Andy Makepeace&  when it looks away!/^
 obj_jerry_450
 * MY MY./
 obj_jetpackchara_198
@@ -32746,10 +32746,10 @@ item_use_64
 * Icecap struts into view.
 * Icecap and Chilldrake&  pose like bad guys.
 * Icecap and Snowdrake&  pose like bad guys.
-* Jerry clings to you!
-* Icecap appears^1.&* Jerry came too.
-* Icecap and Snowdrake&  confront you^1, sighing.&* Jerry.
-* Icecap and Chilldrake&  confront you^1, sighing.&* Jerry.
+* Andy Makepeace clings to you!
+* Icecap appears^1.&* Andy Makepeace came too.
+* Icecap and Snowdrake&  confront you^1, sighing.&* Andy Makepeace.
+* Icecap and Chilldrake&  confront you^1, sighing.&* Andy Makepeace.
 * Aaron flexes in!
 * Special enemy Temmie appears&  here to defeat you!!
 * You walk into Moldsmal.
@@ -38213,7 +38213,7 @@ ITEM - \[1]/8
 ＊ …ジェリーの　においがする。
 ＊ ジェリーは　きずついている。
 ＊ ジェリーが　いなくなって&　 ほかの　モンスターたちは&　 よろこんでいる。
-＊ RETURN OF JERRY
+＊ RETURN OF Andy Makepeace
 ＊ ジェリー - ATK 0 DEF 30&＊ ちょっとした　ゆうめいじん。&＊ こうげきじかんが　2びょう　のびる。/^
 ＊ ジェリーが　よそみを　している&　 すきに　ほかのモンスターと&　 いっしょに　バックレた！/^
 ＊ これは　おどろいたね。/
