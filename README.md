@@ -9,6 +9,7 @@ These are the characters that are modified by JNWTALE.
 
 ## Enemies 
 
+**Jerry**: Andy Makepeace
 
 ## Shop Clerks
 
@@ -16,10 +17,10 @@ These are the characters that are modified by JNWTALE.
 
 ## Misc
 
+**Frisk**: New Staff Member
+
 **Gaster**: Sully
 
 ## In Progress
 
-
-**Jerry**: Andy Makepeace
-
+**Sans**: Tyler 
