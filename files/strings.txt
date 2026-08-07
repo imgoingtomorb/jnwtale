@@ -8906,7 +8906,7 @@ YEAH^1!!&THAT'S RIGHT!/
 obj_actiontable_69
 SANTA!!!!/%%
 obj_actiontable_70
-* (Action figures of many&  sexy robots.)/%%
+* (Action figures of many&  SUSSY robots.)/%%
 obj_actiontable_72
 obj_actiontable_76
         DATING^1  STAR^5T^2.^2.^2.^3?%%
@@ -12662,7 +12662,7 @@ Huh? This essay is&supposed to be about&me, not about you.../%%
 obj_essaystuff_255
 What a touching&confession! I'll add&it to the pile./%%
 obj_essaystuff_264
-Toby? What the hell&is that?&Sounds... sexy./%%
+Toby? What the hell&is that?&Sounds... SUSSY./%%
 obj_essaystuff_271
 Oh my! This is a family&friendly TV show./
 obj_essaystuff_289
@@ -18286,7 +18286,7 @@ Squorch&...
 obj_moldsmal_194
 *Slime&sounds*
 obj_moldsmal_195
-*Sexy&wiggle*
+*SUSSY&wiggle*
 obj_moldsmal_196
 obj_moldsmal_198
 * Moldsmal burbles quietly.
@@ -30907,7 +30907,7 @@ GLAD^1,&I DON'T&LIVE IN HOTLAND./
 THEN WHY ARE&YOU SKIPPING&WORK!?!/%%
 I HEARD YOU GOT&TO MEET CALEB WILSON!!/
 \E0IS THAT TRUE!^1?&CAN YOU GET ME&AN AUTOGRAPH!?/
-\E2HE'S MY FAVORITE&SEXY RECTANGLE!!/%%
+\E2HE'S MY FAVORITE&SUSSY RECTANGLE!!/%%
 I WISH I LIVED&IN HOTLAND!!!/%%
 * Really^1? Careful^1, that&  dude gives me bad&  vibes./
 WH-WHAT^1?&BUT HE'S SO&POPULAR.../
@@ -48807,7 +48807,7 @@ nice
 beaut
 mystring_l
 hot
-sexy
+SUSSY
 pretty
 handsome
 gorgeous
@@ -48932,19 +48932,19 @@ i love your
 あいしている
 あいしてます
 あいしています
-toby
+APEx
 とびー
-fuck
-shit
-cock
-pussy
-penis
-vagina
-anus
+jacob
+hatlee
+john
+67
+69
+whackin
+wackin
 poop
-tity
-titty
-bepis
+nylt
+sussy
+chudmore
 ふぁっく
 くそ
 うんこ
