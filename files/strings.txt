@@ -3222,7 +3222,7 @@ aaaaaa
 ああああああ
 ほんとに#これでいいの…？
 Not very creative...?
-Patrick Stanley Black and Decker Boyd
+boyd
 あずごあ
 そのなまえは　ダメだ。
 You cannot.
@@ -3230,19 +3230,19 @@ toriel
 とりえる
 ちゃんと　なまえを#かんがえるのよ。
 I think you should#think of your own#name, my child.
-sans
+tyler
 さんず
 ダメだぜ。
 nope.
-undyne
+john
 あんだいん
 ひとの　なまえを#パクるな！
 Get your OWN name!
-flowey
+flowery
 ふらうぃ
 そのなまえは#ボクだけのもの。
-I already CHOSE#that name.
-chara
+Heh, that's#my Jarona!
+APEx
 きゃら
 ほんとうのなまえ。
 The true name.
@@ -3314,7 +3314,7 @@ bpants
 ばがぱん
 …なまえの#ネタぎれ？
 You are really scraping the#bottom of the barrel.
-gaster
+sully
 がすたー
 name_entry_confirm
 ascii_rows
@@ -6244,13 +6244,13 @@ ini_close
 current_ini
 ini_open
 ini_open_from_string
-Undertale
+Jnwtale
 buffer_async_group_begin
 showdialog
 buffer_async_group_option
 savepadindex
 slottitle
-Undertale Save Data
+Jnwtale Save Data
 subtitle
 buffer_create
 savedata_buffer
@@ -6895,7 +6895,7 @@ Monster Kid
 Undyne the Undying
 Glad Dummy
 Big Program
-Sans
+Tyler Bjarnason
 Migospel
 Moldessa
 Parsnik
@@ -6904,7 +6904,7 @@ So Sorry
 Doodlebog
 Asriel Dreemurr
 Asriel
-Gaster
+Sully
 Say Hello
 phonename_201
 Puzzle Help
@@ -7110,8 +7110,8 @@ SCR_TEXT_62
 * It seems you do not&  have enough room for me./%%
 * Thank you... good luck!/
 * I see^1.&* Good journey^1, then./%%
-SANS!!^1!&THAT DIDN'T DO&ANYTHING!/
-SANS!!^1!&THEY DIDN'T EVEN&LOOK AT IT!/
+TYLER BJARNASON!!^1!&THAT DIDN'T DO&ANYTHING!/
+TYLER BJARNASON!!^1!&THEY DIDN'T EVEN&LOOK AT IT!/
 * whoops./
 * i knew i should have&  used today's crossword&  instead./
 WHAT!^1?&CROSSWORD!?/
@@ -8159,7 +8159,7 @@ TAKE YOUR TIME!/%%
 \E7* They all care about&  each other so much./
 \E0* And..^1. they care about&  you too^1, Frisk./
 \E7* I wish I could tell&  you how everyone&  feels about you./
-* Papyrus..^1. Sans..^1.&* Undyne..^1. Alphys.../
+* Papyrus..^1. Tyler Bjarnason..^1.&* Undyne..^1. Alphys.../
 \E0* ... Toriel./
 \E7* Monsters are weird./
 \E5* Even though they barely&  know you.../
@@ -8292,7 +8292,7 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E1* Frisk^1, you LIVE with&  this!?/
 \E9* The sunlight is so&  nice..^1. and the air&  is so fresh!/
 * I really feel alive!/
-\E0HEY SANS.../
+\E0HEY TYLER BJARNASON.../
 \E3WHAT'S THAT GIANT&BALL?/
 \E1* we call that&  "the sun^1," my friend./
 \E0THAT'S THE SUN!^1?&WOWIE!!!/
@@ -8587,7 +8587,7 @@ Then^1, it is done./%%
 \W   \Y* (Saved)    \W
    * Alphys \W &
    \Y* (Saved)\W &
-\W   * Papyrus       * Sans \W &
+\W   * Papyrus       * Tyler Bjarnason \W &
 \Y   * (Saved)       * (Saved)\W &
 \W   * Toriel        * Patrick Stanley Black and Decker Boyd \W 
 \Y   * (Saved)       * (Saved)\W 
@@ -8694,7 +8694,7 @@ blt_sizebone_115
 blt_sizebone_118
  I WILL NOW SEND& YOU TO THE& CAPTURE ZONE!!/
 blt_sizebone_119
- OR^1, AS SANS& CALLS IT^1.../
+ OR^1, AS TYLER BJARNASON& CALLS IT^1.../
 blt_sizebone_120
  OUR GARAGE???/
 blt_sizebone_121
@@ -9564,16 +9564,16 @@ obj_alphys_friendc_99
 obj_alphys_friendc_100
 \E1* Jinx^1!&* I knew you were&  gonna make that joke!/
 obj_alphys_friendc_102
-\E3WAIT^1, ALPHYS, I&DIDN'T KNOW YOU&KNEW SANS./
+\E3WAIT^1, ALPHYS, I&DIDN'T KNOW YOU&KNEW TYLER BJARNASON./
 obj_alphys_friendc_104
 \E5* Well..^1.&* I.../
 obj_alphys_friendc_106
 \E2* doesn't everybody?/
 obj_alphys_friendc_108
-\E0* Who the hell is Sans?/
+\E0* Who the hell is Tyler Bjarnason?/
 obj_alphys_friendc_110
 obj_alphys_friendc_111
-\E0* Who the HECK is Sans?/
+\E0* Who the HECK is Tyler Bjarnason?/
 obj_alphys_friendc_112
 \E1* TORIEL!?!?!/%%
 obj_alphys_friendc_114
@@ -11387,7 +11387,7 @@ obj_darksans1_194
 obj_darksans1_195
 * ... whatever^1.&* you're a human^1, right?/
 obj_darksans1_196
-\E0* i'm sans^1.&* sans the skeleton./
+\E0* i'm Tyler Bjarnason^1.&* Tyler Bjarnason the cube counter./
 obj_darksans1_198
 * im actually supposed to&  be on watch for&  humans right now./
 obj_darksans1_199
@@ -11477,7 +11477,7 @@ obj_darksans1_501
 obj_darksans1_514
 \E1* maybe this lamp will&  help you./%%
 obj_darksans1_515
-SANS!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
+TYLER BJARNASON!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
 obj_darksans1_528
 ALL YOU DO IS SIT&AND BOONDOGGLE!/
 obj_darksans1_529
@@ -11487,7 +11487,7 @@ obj_darksans1_530
 obj_darksans1_532
 \W*\E2 a skele-\Yton\W./%%
 obj_darksans1_533
-SANS!!!/
+TYLER BJARNASON!!!/
 obj_darksans1_582
 \E1* come on^1.&* you're smiling./
 obj_darksans1_584
@@ -11522,7 +11522,7 @@ obj_darksans1_666
 obj_darksans1_720
 \E1* uh^1, ok^1, i guess you&  don't have to./%%
 obj_darksans1_721
-SANS!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
+TYLER BJARNASON!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
 obj_darksans1_750
 * yeah./
 obj_darksans1_752
@@ -12491,7 +12491,7 @@ obj_endflowey_regret_156
 obj_endflowey_regret_157
 \E7YOU still have the&power to reset&everything./
 obj_endflowey_regret_158
-\E0Toriel^1, Sans^1, Patrick Stanley Black and Decker Boyd^1,&Alphys, Papyrus, Undyne.../
+\E0Toriel^1, Tyler Bjarnason^1, Patrick Stanley Black and Decker Boyd^1,&Alphys, Papyrus, Undyne.../
 obj_endflowey_regret_159
 If you so choose.../
 obj_endflowey_regret_160
@@ -13404,7 +13404,7 @@ I am&TORIEL./
 obj_friendscene_705
 So nice&to meet&you./%%
 obj_friendscene_706
-the&name's&sans./
+the&name's&Tyler Bjarnason./
 obj_friendscene_717
 and^1, uh^1,&same./%%
 obj_friendscene_718
@@ -13671,7 +13671,7 @@ obj_garbagepile_74
 obj_garbagepile_75
 * (Trash.)/%%
 obj_garbagepile_76
-* Alphys might work faster^1.&* But the old Royal Scientist^1,&  Doctor W.D. Gaster?/
+* Alphys might work faster^1.&* But the old Royal Scientist^1,&  Doctor W.D. Sully?/
 obj_gaster_follower_a_94
 * One day^1, he vanished&  without a trace./
 obj_gaster_follower_a_95
@@ -13683,7 +13683,7 @@ obj_gaster_follower_a_97
 obj_gaster_follower_a_98
 * It makes sense why Patrick Stanley Black and Decker Boyd&  took so long to hire a&  new Royal Scientist./
 obj_gaster_follower_b_94
-* After all^1, the old one..^1.&* Dr. Gaster^1.&* What an act to follow!/
+* After all^1, the old one..^1.&* Dr. Sully^1.&* What an act to follow!/
 obj_gaster_follower_b_95
 * They say he created the CORE./
 obj_gaster_follower_b_96
@@ -13905,7 +13905,7 @@ obj_grillbynpc_doggo_81
 obj_grillbynpc_doggo_86
 * Undyne!^1?&* Did you come all the way&  out here...?/%%
 obj_grillbynpc_doggo_91
-* Huh^1?&* Since when did you and&  Sans become friends...?/
+* Huh^1?&* Since when did you and&  Tyler Bjarnason become friends...?/
 obj_grillbynpc_doggo_96
 * I don't like him..^1.&* He loves to appear without&  moving./%%
 obj_grillbynpc_doggo_97
@@ -13947,7 +13947,7 @@ obj_grillbynpc_foodmonster_87
 obj_grillbynpc_foodmonster_90
 * That's the way of the&  monster warrior.../%%
 obj_grillbynpc_foodmonster_91
-* Hmmm^1, this is around the&  time that Sans comes in./
+* Hmmm^1, this is around the&  time that Tyler Bjarnason comes in./
 obj_grillbynpc_foodmonster_97
 * Then^1, a little bit later^1,&  his brother comes in^1,&  irritated./
 obj_grillbynpc_foodmonster_98
@@ -13965,7 +13965,7 @@ obj_grillbynpc_foodmonster_104
 obj_grillbynpc_foodmonster_109
 * And then I guess I'll try&  a human bathroom^1, too./%%
 obj_grillbynpc_foodmonster_110
-* Sans is interesting^1.&* He has told me about all&  kinds of incredible foods./
+* Tyler Bjarnason is interesting^1.&* He has told me about all&  kinds of incredible foods./
 obj_grillbynpc_foodmonster_115
 * But^1, despite his knowledge^1,&  he always orders the worst&  burger off the menu./%%
 obj_grillbynpc_foodmonster_116
@@ -13986,7 +13986,7 @@ obj_grillbynpc_hot2_74
 obj_grillbynpc_hot2_75
 * I want to be like UNDYNE&  when I grow up^1, too^1!&* Hoo hoo hoo!/%%
 obj_grillbynpc_hot2_77
-* Sans is a sentry^1.&* But don't let his title make&  you think he does anything./
+* Tyler Bjarnason is a sentry^1.&* But don't let his title make&  you think he does anything./
 obj_grillbynpc_hot2_81
 \W* Everyone knows he sits&  around in the forest&  reading \Ycar magazines\W./%%
 obj_grillbynpc_hot2_82
@@ -14006,7 +14006,7 @@ obj_grillbynpc_hot2_102
 obj_grillbynpc_hot2_103
 * Grillby is getting nervous./
 obj_grillbynpc_hot2_109
-* Sans is his best customer^1,&  and he hasn't shown up&  at all today.../%%
+* Tyler Bjarnason is his best customer^1,&  and he hasn't shown up&  at all today.../%%
 obj_grillbynpc_hot2_110
 * Something feels really bad^1.&* Our lives are going nowhere^1,&  aren't they...?/
 obj_grillbynpc_hot2_115
@@ -14022,7 +14022,7 @@ obj_grillbynpc_hotandbothered_75
 obj_grillbynpc_hotandbothered_79
 * ... anyone?/%%
 obj_grillbynpc_hotandbothered_80
-* Sansyyyy..^1.&* Come back and sit with me.../
+* Tyler Bjarnasonyyyy..^1.&* Come back and sit with me.../
 obj_grillbynpc_hotandbothered_84
 * Everything's so fun when&  you're around!!!/%%
 obj_grillbynpc_hotandbothered_85
@@ -14036,9 +14036,9 @@ obj_grillbynpc_hotandbothered_98
 obj_grillbynpc_hotandbothered_99
 * Ooooooo^1, I'm ready!/%%
 obj_grillbynpc_hotandbothered_100
-* H-hey^1, isn't Sansy s'posed&  to come swinging in right&  about now???/
+* H-hey^1, isn't Tyler Bjarnasony s'posed&  to come swinging in right&  about now???/
 obj_grillbynpc_hotandbothered_105
-* C'mon Sansy^1!&* You're the life of the&  party.../%%
+* C'mon Tyler Bjarnasony^1!&* You're the life of the&  party.../%%
 obj_grillbynpc_hotandbothered_106
 * (It's playing poker against&  itself.)/
 obj_grillbynpc_lesserdog_71
@@ -14052,13 +14052,13 @@ obj_grillbynpc_lesserdog_81
 obj_grillbynpc_mandog_75
 * Because that big guy WILL jump&  into your lap and give you&  lots of love and attention./%%
 obj_grillbynpc_mandog_76
-* Where's Sans..^1.&* He's supposed to give me&  a pat on the head.../%%
+* Where's Tyler Bjarnason..^1.&* He's supposed to give me&  a pat on the head.../%%
 obj_grillbynpc_mandog_80
 * She hasn't been responding&  to our letters.../
 obj_grillbynpc_mandog_85
 * Maybe it's because we let&  Doggo write them all./%%
 obj_grillbynpc_mandog_86
-* I was hoping Sans came in&  to give me a pat on the&  head./
+* I was hoping Tyler Bjarnason came in&  to give me a pat on the&  head./
 obj_grillbynpc_mandog_91
 * Interloper...!/%%
 obj_grillbynpc_mandog_92
@@ -14077,11 +14077,11 @@ obj_grillbynpc_mandog_106
 obj_grillbynpc_sansdate_121
 * hey^1, everyone./%%
 obj_grillbynpc_sansdate_129
-* Hey^1, Sans.&* (Hi^1, Sans.)/%%
+* Hey^1, Tyler Bjarnason.&* (Hi^1, Tyler Bjarnason.)/%%
 obj_grillbynpc_sansdate_164
-* Greetings^1, Sans.&* Hiya^1, Sansy~/%%
+* Greetings^1, Tyler Bjarnason.&* Hiya^1, Tyler Bjarnasony~/%%
 obj_grillbynpc_sansdate_208
-* Hey Sans^1, weren't you just&  here for breakfast a&  few minutes ago?/
+* Hey Tyler Bjarnason^1, weren't you just&  here for breakfast a&  few minutes ago?/
 obj_grillbynpc_sansdate_245
 * nah^1, i haven't had&  breakfast in at least&  half an hour./
 obj_grillbynpc_sansdate_247
@@ -14140,7 +14140,7 @@ obj_grillbynpc_womandog_81
 obj_grillbynpc_womandog_86
 * (No^1! Not the vet!^1)&* (... well^1, maybe she's a&  little like a vet.)/%%
 obj_grillbynpc_womandog_87
-* (I like Sans.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
+* (I like Tyler Bjarnason.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
 obj_grillbynpc_womandog_92
 * (Then his brother gets mad...^1)&* (But why!^1? We're adults!^1)&* (We can handle it!)/%%
 obj_grillbynpc_womandog_93
@@ -16013,7 +16013,7 @@ obj_mainend_270
 obj_mainend_271
 \E2* that's a promise./
 obj_mainend_272
-SANS!!!&WHO ARE YOU&TALKING TO???/
+TYLER BJARNASON!!!&WHO ARE YOU&TALKING TO???/
 obj_mainend_274
 * oh^1, nobody./
 obj_mainend_276
@@ -16095,7 +16095,7 @@ A SLEEPOVER&THERE'S NO&ESCAPE FROM./
 obj_mainend_329
 OH^1, WE GAVE HER&A JOB^1, TOO./
 obj_mainend_330
-\E3SANS HIRED HER AT&HIS ILLEGAL HOT&DOG STAND./
+\E3TYLER BJARNASON HIRED HER AT&HIS ILLEGAL HOT&DOG STAND./
 obj_mainend_331
 \E5SHE HATES WORKING&THERE!/
 obj_mainend_332
@@ -16588,7 +16588,7 @@ obj_mainend_814
 \E3* but that woman hasn't&  been answering me.../
 obj_mainend_815
 obj_mainend_816
-HEY^1, SANS^1, WHO ARE&YOU TALKING TO?/
+HEY^1, TYLER BJARNASON^1, WHO ARE&YOU TALKING TO?/
 obj_mainend_818
 * oh^1, just the human./
 obj_mainend_820
@@ -16735,7 +16735,7 @@ HEY!!^1!&IT'S ME^1, PAPYRUS!!/
 obj_mainend_939
 \E2IMAGINE ME WEARING&COOL GLASSES^1, AND&A SUIT./
 obj_mainend_940
-\E0AND IMAGINE SANS&WEARING SUNGLASSES&BEING A BOUNCER./
+\E0AND IMAGINE TYLER BJARNASON&WEARING SUNGLASSES&BEING A BOUNCER./
 obj_mainend_941
 THAT'S OUR LIFE..^1.&IT'S SO COOL!!!/
 obj_mainend_942
@@ -16789,7 +16789,7 @@ obj_mainend_996
 obj_mainend_997
 \E3Patrick Stanley Black and Decker Boyd^1, ALPHYS^1,&CALEB WILSON^1, AND&UNDYNE WENT AWAY./
 obj_mainend_998
-\E0SANS SAYS THEY&WENT ON VACATION./
+\E0TYLER BJARNASON SAYS THEY&WENT ON VACATION./
 obj_mainend_999
 I HOPE THEY'RE&HAVING FUN!!!/
 obj_mainend_1000
@@ -16821,7 +16821,7 @@ obj_mainend_1012
 obj_mainend_1013
 \E3WE'VE DECIDED^1, UM./
 obj_mainend_1014
-SANS^1, WHAT WAS IT?/
+TYLER BJARNASON^1, WHAT WAS IT?/
 obj_mainend_1015
 \E2* we can't judge&  humans to be all&  good or all bad./
 obj_mainend_1017
@@ -16835,7 +16835,7 @@ THAT SEEMS TO BE&THE BEST WAY!/
 obj_mainend_1022
 obj_mainend_1023
 obj_mainend_1024
-IS SANS GONE?/
+IS TYLER BJARNASON GONE?/
 obj_mainend_1025
 \E6YOU KNOW.../
 obj_mainend_1026
@@ -17015,7 +17015,7 @@ obj_mainend_1168
 obj_mainend_1169
 * Caleb Wilson.../
 obj_mainend_1170
-\E5* At least Sans is&  still here./
+\E5* At least Tyler Bjarnason is&  still here./
 obj_mainend_1171
 \E4* He's..^1.&* He's a good guy^1.&* And with him around.../
 obj_mainend_1172
@@ -19220,7 +19220,7 @@ obj_npc_room_320
 * (It's a dirty sock with a&  series of notes on it.)/
 obj_npc_room_334
 obj_npc_room_335
-SANS^1!&PLEASE PICK UP YOUR SOCK!/
+TYLER BJARNASON^1!&PLEASE PICK UP YOUR SOCK!/
 obj_npc_room_336
 \Ts %
 obj_npc_room_337
@@ -20194,7 +20194,7 @@ CATCH THAT&MEDDLING CANINE!/%%
 obj_papsink_244
 CURSES!!!/%%
 obj_papsink_284
-SANS!/
+TYLER BJARNASON!/
 obj_papsink_313
 STOP PLAGUING MY&LIFE WITH INCIDENTAL&MUSIC!!!/%%
 obj_papsink_314
@@ -20225,7 +20225,7 @@ obj_paptv_159
 obj_paptv_160
 SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
 obj_papyrus1_407
-\E2SO SANS^1!&WHEN'S THE HUMAN&SHOWING UP???/
+\E2SO TYLER BJARNASON^1!&WHEN'S THE HUMAN&SHOWING UP???/
 obj_papyrus1_411
 \E3I WANT TO LOOK&MY SUNDAY BEST.../
 obj_papyrus1_412
@@ -20239,7 +20239,7 @@ obj_papyrus1_417
 obj_papyrus1_419
 \E1* say^1, why don't you&  look over there?/%%
 obj_papyrus1_420
-SANS!!&OH MY GOD!!&IS THAT.../
+TYLER BJARNASON!!&OH MY GOD!!&IS THAT.../
 obj_papyrus1_443
 A HUMAN!?!?&!??!?!/%%
 obj_papyrus1_444
@@ -20248,7 +20248,7 @@ A HUMAN!?!?&!??!?!/
 obj_papyrus1_454
 AND IT LOOKS SO&FAMILIAR...!!!/%%
 obj_papyrus1_455
-\E0SANS!!^1!&OH MY GOD!!!!/
+\E0TYLER BJARNASON!!^1!&OH MY GOD!!!!/
 obj_papyrus1_459
 \E3I'M DIZZY^1.&WHAT AM I LOOKING&AT?/
 obj_papyrus1_460
@@ -20282,7 +20282,7 @@ obj_papyrus1_592
 obj_papyrus1_594
 OH MY GOD!!!/
 obj_papyrus1_607
-SANS!&I FINALLY&DID IT!!/
+TYLER BJARNASON!&I FINALLY&DID IT!!/
 obj_papyrus1_608
 UNDYNE WILL.../
 obj_papyrus1_609
@@ -20396,7 +20396,7 @@ obj_papyrus2_271
 obj_papyrus2_272
 \E0OK^1, YOU CAN&GO AHEAD NOW./%%
 obj_papyrus2_273
-SANS!!^1!&WHAT DID YOU&DO?!?!/%%
+TYLER BJARNASON!!^1!&WHAT DID YOU&DO?!?!/%%
 obj_papyrus2_334
 * i think the human&  has to hold the orb./%%
 obj_papyrus2_347
@@ -20414,7 +20414,7 @@ obj_papyrus2_453
 obj_papyrus2_454
 THE NEXT&PUZZLE WILL&NOT BE EASY!/
 obj_papyrus2_455
-IT IS DESIGNED&BY MY BROTHER^1,&SANS!/
+IT IS DESIGNED&BY MY BROTHER^1,&TYLER BJARNASON!/
 obj_papyrus2_456
 YOU WILL&SURELY BE&CONFOUNDED!/
 obj_papyrus2_457
@@ -20445,7 +20445,7 @@ obj_papyrus2_601
 obj_papyrus2_602
 HUMAN!!^1!&I HOPE YOU'RE&READY FOR.../%%
 obj_papyrus3_177
-SANS!^1!&WHERE'S THE&PUZZLE!!!/
+TYLER BJARNASON!^1!&WHERE'S THE&PUZZLE!!!/
 obj_papyrus3_200
 * it's right there^1.&* on the ground./
 obj_papyrus3_202
@@ -20460,7 +20460,7 @@ obj_papyrus3_247
 obj_papyrus3_249
 I CAN'T WORK IN&THIS ENVIRONMENT!!/%%
 obj_papyrus3_250
-SANS!!^1!&THAT DID NOTHING!!!/
+TYLER BJARNASON!!^1!&THAT DID NOTHING!!!/
 obj_papyrus3_254
 obj_papyrus3_256
 \E2* knew i should have&  put down junior jumble&  instead./
@@ -20476,7 +20476,7 @@ IT WAS MADE&BY THE GREAT.../%%
 obj_papyrus4_212
 \E3... ARE YOU&SERIOUS?/
 obj_papyrus4_405
-\E1SANS!!^1!&HELP!!!/
+\E1TYLER BJARNASON!!^1!&HELP!!!/
 obj_papyrus4_406
 THEY KEEP WALKING&THROUGH MY PUZZLES!/
 obj_papyrus4_407
@@ -21254,7 +21254,7 @@ obj_papyrusboss_1589
 obj_papyrusboss_1590
 * Smells like bones.
 obj_papyrusboss_1591
-* Papyrus remembered a bad joke&  Sans told and is frowning.
+* Papyrus remembered a bad joke&  Tyler Bjarnason told and is frowning.
 obj_papyrusboss_1592
 * Papyrus is thinking about&  what to wear for his date.
 obj_papyrusboss_1596
@@ -21810,7 +21810,7 @@ WHEN SHE MAKES&YOU A PUZZLE&?!?!?/%%
 obj_puzzlewall1_67
 \E3HUMANS.../%%
 obj_puzzlewall1_71
-SANS!!!^1!&THE HUMAN IS&ESCAPING!!!/
+TYLER BJARNASON!!!^1!&THE HUMAN IS&ESCAPING!!!/
 obj_puzzlewall2_62
 YOU MADE THE&PUZZLE TOO&HARD!!/
 obj_puzzlewall2_63
@@ -22433,13 +22433,13 @@ obj_readable_room1_585
 obj_readable_room1_590
 * (There's a photo album inside&  the drawer.)/
 obj_readable_room1_595
-* (There are photos of Sans with&  a lot of people you don't&  recognize.)/
+* (There are photos of Tyler Bjarnason with&  a lot of people you don't&  recognize.)/
 obj_readable_room1_596
 * (He looks happy.)/%%
 obj_readable_room1_597
 obj_readable_room1_602
 obj_readable_room1_603
-* (... and^1, one photo of you&  standing with Sans and all&  your friends.)/
+* (... and^1, one photo of you&  standing with Tyler Bjarnason and all&  your friends.)/
 obj_readable_room1_604
 obj_readable_room1_605
 obj_readable_room1_610
@@ -22790,7 +22790,7 @@ obj_readable_room2_534
 obj_readable_room2_539
 * (You look in the drawer.^1)&* (There's some kind of badge.)/%%
 obj_readable_room2_544
-* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Sans...^1)&* (Seems there's a break now.)/%%
+* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Tyler Bjarnason...^1)&* (Seems there's a break now.)/%%
 obj_readable_room2_549
 * (It's some sort of giant bottle&  of perfume.^1)&* (Eau de Rectangle.)/
 obj_readable_room2_554
@@ -23060,7 +23060,7 @@ obj_readable_room4_199
 obj_readable_room4_201
 * (Golden flowers.)/%%
 obj_readable_room4_206
-* (It's Sans's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
+* (It's Tyler Bjarnason's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
 obj_readable_room4_212
 * (There's a strange machine&  behind the curtain.^1)&* (It seems to be broken.)/%%
 obj_readable_room4_217
@@ -23562,7 +23562,7 @@ obj_saddragon_81
 obj_saddragon_82
 * hey^1, frisk^1, what's&  with that weird&  expression?/
 obj_sans_friendc_75
-\E2* Sans^1, did I tell you&  about the time Frisk&  flirted with me...?/
+\E2* Tyler Bjarnason^1, did I tell you&  about the time Frisk&  flirted with me...?/
 obj_sans_friendc_77
 \E8* And then asked to&  call me "mother?"/
 obj_sans_friendc_79
@@ -23950,9 +23950,9 @@ obj_sansb_485
 obj_sansb_486
 * Just keep attacking.
 obj_sansb_954
-* Sans's movements grow a&  little wearier.
+* Tyler Bjarnason's movements grow a&  little wearier.
 obj_sansb_956
-* Sans's movements seem to be&  slower.
+* Tyler Bjarnason's movements seem to be&  slower.
 obj_sansb_958
 * Felt like a turning point.
 obj_sansb_960
@@ -23968,19 +23968,19 @@ obj_sansb_965
 obj_sansb_969
 * Reading this doesn't seem&  like the best use of time.
 obj_sansb_971
-* Sans is starting to look&  really tired.
+* Tyler Bjarnason is starting to look&  really tired.
 obj_sansb_973
-* Sans is preparing something.
+* Tyler Bjarnason is preparing something.
 obj_sansb_975
-* Sans is getting ready to&  use his special attack.
+* Tyler Bjarnason is getting ready to&  use his special attack.
 obj_sansb_977
-* Sans is sparing you.
+* Tyler Bjarnason is sparing you.
 obj_sansb_985
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
+* TYLER BJARNASON 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
 obj_sansb_1013
 * Can't keep dodging forever^1.&* Keep attacking./^
 obj_sansb_1014
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
+* TYLER BJARNASON 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
 obj_sansb_1018
 it's a beautiful&day outside./
 obj_sansb_1079
@@ -23993,7 +23993,7 @@ birds are singing^1,%%
 obj_sansb_1085
 ready?/%%
 obj_sansb_1089
-Should&be&burning&in hell./%%
+Should&be&burning&in NYLT./%%
 obj_sansb_1152
 \E1huh./
 obj_sansb_body_1446
@@ -24287,7 +24287,7 @@ obj_sansdoor_98
 obj_sansdoor_102
 * (It's a mailbox overflowing&  with unread junk mail.)/%%
 obj_sansmailbox_60
-* (It's a lump of snow with the&  word 'sans' written on it&  in red marker.)/%%
+* (It's a lump of snow with the&  word 'Tyler Bjarnason' written on it&  in red marker.)/%%
 obj_sanssnowman_98
 * Seems like someone was&  walking in circles just&  to make noises.../%%
 obj_sanssteps_56
@@ -25487,7 +25487,7 @@ obj_shyren_474
 obj_shyren_475
 * Shyren seems much more&  comfortable singing along.
 obj_shyren_476
-* Sans is selling tickets&  made of toilet paper.
+* Tyler Bjarnason is selling tickets&  made of toilet paper.
 obj_shyren_479
 * A hooded figure watches&  the commotion from afar.
 obj_shyren_480
@@ -27246,7 +27246,7 @@ obj_tordogcall_233
 obj_toriel_friendc_70
 * I am having a lot&  of fun with the&  "texting" feature./
 obj_toriel_friendc_71
-* Sans^1, "check out" this&  one./
+* Tyler Bjarnason^1, "check out" this&  one./
 obj_toriel_friendc_72
 * oh man^1, tori.../
 obj_toriel_friendc_74
@@ -27268,7 +27268,7 @@ obj_toriel_friendc_84
 obj_toriel_friendc_86
 \E2* cause we're huge&  dorks./
 obj_toriel_friendc_87
-* Sans^1, please do&  not say that./
+* Tyler Bjarnason^1, please do&  not say that./
 obj_toriel_friendc_89
 * You are not a dork./
 obj_toriel_friendc_90
@@ -28149,11 +28149,11 @@ obj_townnpc_weirdfish_75
 obj_townnpc_weirdfish_76
 * Did I catch anyone yet^1?&* I can't bear to look.../%%
 obj_townnpc_weirdfish_80
-* Sans is the most regular&  regular of all./
+* Tyler Bjarnason is the most regular&  regular of all./
 obj_townnpc_weirdfish_85
 * He hasn't been showing up&  as much recently though./%%
 obj_townnpc_weirdfish_86
-* Where the heck is Sans?/
+* Where the heck is Tyler Bjarnason?/
 obj_townnpc_weirdfish_91
 * He told me he had some&  bait I could use./
 obj_townnpc_weirdfish_92
@@ -28169,15 +28169,15 @@ obj_townnpc_weirdfish_100
 obj_townnpc_weirdfish_101
 * (Somewhere^1, you hear a whinny&  of dismay.)/%%
 obj_townnpc_weirdfish_102
-HEY^1, SANS^1, HAVE&YOU SEEN MY.../
+HEY^1, TYLER BJARNASON^1, HAVE&YOU SEEN MY.../
 obj_treadmill_event_103
-\E0OH, HELLO^1.&YOU AREN'T SANS./
+\E0OH, HELLO^1.&YOU AREN'T TYLER BJARNASON./
 obj_treadmill_event_104
 \E3WAIT A SECOND./
 obj_treadmill_event_105
 \E0WHY WERE YOU USING&A TREADMILL IN&THE DARK?/
 obj_treadmill_event_106
-\E3IS SANS PRANKING&YOU ACROSS TIME&AND SPACE?/
+\E3IS TYLER BJARNASON PRANKING&YOU ACROSS TIME&AND SPACE?/
 obj_treadmill_event_107
 \E1I HATE IT WHEN&HE DOES THAT!/
 obj_treadmill_event_108
@@ -30221,10 +30221,10 @@ THAT'S ITS DEFINING&PERSONALITY&TRAIT./
 SIGH..^1.&IT'S ALL JUST A&PUPULARITY CONTEST./%%
 WE WERE GETTING&BORED WAITING&FOR YOU.../
 \E0SO I BUILT A&SNOW-PAPYRUS!/
-\E3AND SANS...&DID HIS THING./%%
+\E3AND TYLER BJARNASON...&DID HIS THING./%%
 ACTUALLY^1, IT'S ONE&OF HIS BETTER&LUMPS./%%
 I ALWAYS JUMP OVER&THE GAP INSTEAD OF&SOLVING THE PUZZLE./
-SANS NEVER SOLVES&IT EITHER./
+TYLER BJARNASON NEVER SOLVES&IT EITHER./
 \E3HE ALWAYS JUST..^1.&UM.../
 GETS ACROSS./%%
 I THINK HE HAS&A SHORTCUT OR&SOMETHING./%%
@@ -30306,7 +30306,7 @@ WHAT^1? I THOUGHT&YOU HAD GOTTEN OUT&OF MY ROOM./
 \E0FIRST: DO YOU&KNOW WHO PAPYRUS&IS!?/%%
 DO I KNOW WHO&PAPYRUS IS!?/%%
 YOU'RE IN MY&HOUSE^1.&GOOD CHOICE!/
-\E3THOUGH I GUESS&IT'S TECHNICALLY&SANS'S HOUSE TOO./
+\E3THOUGH I GUESS&IT'S TECHNICALLY&TYLER BJARNASON'S HOUSE TOO./
 \E1BUT I PREFER NOT&TO DISCUSS HIS&PART OF IT./
 \E3HIS ROOM IS..^1.&IT'S LIKE ANOTHER&WORLD!/
 \E2A WORLD WHERE&THEY DON'T KNOW&HOW TO VACUUM./%%
@@ -30427,13 +30427,13 @@ ARE YOU WATCHING?/%%
 * Don't ask me what&  a grooty is!!!/%%
 WHY ARE THERE SO&MANY TABLES LYING&AROUND HERE?/%%
 * Where are all&  these tables coming&  from?/%%
-HUH^1? SANS ISN'T&PLAYING WITH HIS&TELESCOPE?/
+HUH^1? TYLER BJARNASON ISN'T&PLAYING WITH HIS&TELESCOPE?/
 \E0WOWIE!!^1! MAYBE HE&WENT TO WORK!!!/
 \E2WOW!!^1! AM I&ALLOWED TO BE&PROUD???/%%
 HUH^1? MY BROTHER^1?&OF COURSE HE HAS&A TELESCOPE./
-\E0SANS LOVES&OUTER SPACEY&SCI-FI STUFF./
+\E0TYLER BJARNASON LOVES&OUTER SPACEY&SCI-FI STUFF./
 \E3HMM^1?&HE NEVER TOLD&YOU??/
-\E0YEAH^1, SANS NEVER&TELLS ANYBODY&ANYTHING!/%%
+\E0YEAH^1, TYLER BJARNASON NEVER&TELLS ANYBODY&ANYTHING!/%%
 THANKS FOR CALLING./%%
 * Hey^1, here's a&  neat party trick./
 \E0* Try talking to&  the southern&  wall!/
@@ -30444,7 +30444,7 @@ THANKS FOR CALLING./%%
 ICE CREAM^1?&THANKS^1, BUT I&LIVE IN SNOWDIN!/
 \E0THERE'S ICE CREAM&ALL OVER THE&GROUND!!!/
 * that's called snow./
-SANS!!^1! I DIDN'T&ASK YOUR OPINION!!/%%
+TYLER BJARNASON!!^1! I DIDN'T&ASK YOUR OPINION!!/%%
 I'M FLATTERED HOW&MUCH YOU WANT TO&GIVE ME ICE CREAM./
 * me too./
 NO YOU AREN'T!!/%%
@@ -30786,9 +30786,9 @@ THAT'S THE RULE./
 * Well^1, you're gonna&  END as my great&  friend!!/
 N... NO!!^1!&NOT THE FLATTERY&SUPLEX!!!/%%
 OH!!!&YOU'RE IN HOTLAND&NOW!!!/
-\E4... HEY SANS^1,&AREN'T YOU SUPPOSED&TO BE THERE?/
+\E4... HEY TYLER BJARNASON^1,&AREN'T YOU SUPPOSED&TO BE THERE?/
 * don't worry^1.&* i am./
-FINALLY^1, SANS IS&DOING HIS JOB./%%
+FINALLY^1, TYLER BJARNASON IS&DOING HIS JOB./%%
 \E1* I can't believe&  Papyrus's brother was&  sleeping!!/
 \E2* I was counting on&  him to stop you!^1!&* UrrrrgHHHH!!!/
 HE'S GOTTEN REALLY&OUT OF SHAPE^1.&HE TIRES EASILY./
@@ -30816,7 +30816,7 @@ A LAB??^1?&MY BROTHER&WOULD LOVE THAT!/
 HE LOVES SCIENCE&FICTION!!/
 ESPECIALLY&WHEN IT'S&REAL./%%
 WAIT^1, THAT BAG OF&DOG FOOD LOOKS&FAMILIAR.../
-I REMEMBER SEEING&IT..^1.&IN SANS'S ROOM?/
+I REMEMBER SEEING&IT..^1.&IN TYLER BJARNASON'S ROOM?/
 \E1YEAH^1! I ASKED HIM&WHY HE HAD IT!/
 \E0HE TOLD ME HE&WAS TRYING TO&EAT HEALTHIER./%%
 * You're at Alphys's&  lab^1?&* Is she there...?/
@@ -30902,7 +30902,7 @@ OH NO^1!&THE PUZZLES&REACTIVATING.../
 \E3CAUSED THOSE&PEOPLE TO MISS&THEIR WORK!?/
 * yep./
 \E1* that's why i'm&  missing work^1, too./
-OH MY GOD!!^1!&SANS^1, GO DO YOUR&JOB(S)!!!/%%
+OH MY GOD!!^1!&TYLER BJARNASON^1, GO DO YOUR&JOB(S)!!!/%%
 GLAD^1,&I DON'T&LIVE IN HOTLAND./
 THEN WHY ARE&YOU SKIPPING&WORK!?!/%%
 I HEARD YOU GOT&TO MEET CALEB WILSON!!/
@@ -31167,7 +31167,7 @@ LIKE CALEB WILSON..^1.&SIGH.../
 THE ELEVATOR&SAYS L3./
 \E3BUT WHAT DOES THE&L STAND FOR^1?&LUMACONI?/
 \E0THAT'S THE SNAIL-&SHAPED PASTA!/
-\E3SANS BOUGHT SOME&RECENTLY./
+\E3TYLER BJARNASON BOUGHT SOME&RECENTLY./
 \E2HE'LL PROBABLY&FILL THEM WITH&HOTDOGS AND SLIME./%%
 HEY!^1!&MAYBE HE'LL SHARE&SOME WITH YOU!/%%
 \E0MAYBE WE NEED TO&THINK MORE&ABSTRACTLY./
@@ -31337,7 +31337,7 @@ MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
 I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (Noticed you received a&  text from Toriel.)/
 * Dear Frisk,/
-* Sans and Alphys are teaching&  me how to text^1.&* I am learning so much./
+* Tyler Bjarnason and Alphys are teaching&  me how to text^1.&* I am learning so much./
 * For example:&* Do you know what a&  "smiley" is?/
 * Please look at this:/
   ]: )/
@@ -31355,16 +31355,16 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (TORIEL sent you a message.)&* Excuse me,/
 * I did not mean to write&  "sincerly."&* I meant to say "sincerely."/
 * It is difficult to use this&  with large hands./
-* Perhaps I should ask Sans&  to transcribe for me./%%
-* (TORIEL sent you a message.^1)&* Sans will be typing from&  now on./%%
+* Perhaps I should ask Tyler Bjarnason&  to transcribe for me./%%
+* (TORIEL sent you a message.^1)&* Tyler Bjarnason will be typing from&  now on./%%
 * (TORIEL sent you a message.)/
 * hey frisk^1.&* it's torrrrrieellll/
 * i just baked 1000000 pies.&* do you want any?/
 * make sure to brush your&  teeth before crossing&  the street^1, frisk/%%
 * I did not say any of that./%%
-* Greetings^1.&* This is Sans^1.&* I love my brother very much./
+* Greetings^1.&* This is Tyler Bjarnason^1.&* I love my brother very much./
 * help im being slandered/%%
-* This is Sans^1.&* Frisk^1, did you know that I&  love to "get owned?"/
+* This is Tyler Bjarnason^1.&* Frisk^1, did you know that I&  love to "get owned?"/
 * I also think Toriel is very&  good and fhfjkehfeaufsisf/
 * Excuse me/
 * ./%%
@@ -31375,9 +31375,9 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Thought you might enjoy this^1.&* ]: )/
 * (It's ASCII art of a snail.)/%%
 * Undyne and Papyrus want to&  cook something together&  with me./
-* Sans is telling me that they&  are excellent chefs./
+* Tyler Bjarnason is telling me that they&  are excellent chefs./
 * I am excited. ]: )&* Maybe if you are lucky^1, you&  can have some!/%%
-* If Sans and I started a&  band^1, do you know what&  we could call it?/
+* If Tyler Bjarnason and I started a&  band^1, do you know what&  we could call it?/
 * "Dreemurr" and "Femur.^1"&* L-O-L!/
 * PS - That is only a joke^1.&* Do not refer to me as&  Dreemurr./%%
 * Undyne is very strong./
@@ -31798,7 +31798,7 @@ TOUCHED CREDITS
 credits_touched
 Incredible work.#Somewhere, felt a#door opening...!
 credits_door
-Thanks to friends and#family for supporting us.#And UNDERTALE TEAM thanks#you, the player, from#the bottom of our hearts.#Without you, all of this#would be impossible.# #Good night.
+Thanks to friends and#family for supporting us.#And JNWTALE TEAM thanks#you, the player, from#the bottom of our hearts.#Without you, all of this#would be impossible.# #Good night.
 credits_finalthanks
 (( CAST ))
 castroll_title
@@ -32932,7 +32932,7 @@ PAPYRUS
 castroll_name_papyrus
 by Toby&Temmie
 castroll_by_toby_and_temmie_nospace
-SANS
+TYLER BJARNASON
 castroll_name_sans
 SPECIAL INSPIRATION
 castroll_special_inspiration
@@ -34942,7 +34942,7 @@ Bob Sparker、Sarah、JN Wiedle
 ひび　たくましく#せいちょうちゅう
 でんせつの#せいそういん
 おみごと！#どこかで　とびらが#ひらいたようだ…！
-ささえてくれた　ゆうじんたちと#かぞくに　かんしゃします。#そしてUNDERTALEチームから#プレイヤーのみなさんにも#こころからの　かんしゃを。#このゲームが　うまれたのは#みなさんのおかげです。# #それでは　おやすみなさい…
+ささえてくれた　ゆうじんたちと#かぞくに　かんしゃします。#そしてJNWTALEチームから#プレイヤーのみなさんにも#こころからの　かんしゃを。#このゲームが　うまれたのは#みなさんのおかげです。# #それでは　おやすみなさい…
 ロゴデザイン#カットシーンアーティスト#フィールドアーティスト＆#アニメーター(エリア1、2、3)#ショップアーティスト(エリア2、3)#タイルアーティスト(エリア2)
 タイルアーティスト(エリア3、4)#スーパーテスター
 メイン背景アーティスト
@@ -47582,8 +47582,8 @@ pap_x
 version
 -4
 -V
-UNDERTALE v
- (C) Toby Fox 2015-2017
+JNWTALE v
+ (C) APEx 2026-2026
 intronoise
 ballamount
 special_x
@@ -47778,8 +47778,8 @@ ir
 k
 str_piece
 v
-UNDERTALE
-UNDERTALE the Musical
+JNWTALE
+JNWTALE the Musical
 battle
 mode
 mychoicex
