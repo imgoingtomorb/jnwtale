@@ -7019,7 +7019,7 @@ SCR_TEXT_62
 \E1* Please understand.^2 & \E0I only want the best&  for you./%
 \E0* Splendid!^2 &* I am proud of you,^1 &  little one./
 * Let us move to the&  next room./%
-\E1* As a human living in&  the UNDERGROUND,^1 &  monsters may attack you./
+\E1* As a JNW staff living in&  the UNDERGROUND,^1 &  monsters may attack you./
 \E2* You will need to be&  prepared for this&  situation./
 \E0* However, worry not!^2 &* The process is simple./
 \E2* When you encounter a &  monster,^1 you will enter&  a FIGHT./
@@ -7121,12 +7121,12 @@ IN MY OPINION.../
 * what^1? really^1, dude^1?&* that easy-peasy word&  scramble?/
 \E1* that's for baby bones./
 UN^1. BELIEVABLE./
-\E0HUMAN!!^1!&SOLVE THIS DISPUTE!/
+\E0JNW STAFF!!^1!&SOLVE THIS DISPUTE!/
 \TS \F0 \E0 \T0 %
 * (Which is harder?)& &         Jumble      Crossword \C 
    
 HA^1! HA^1! YES!/
-HUMANS MUST BE&VERY INTELLIGENT!/
+JNW STAFFS MUST BE&VERY INTELLIGENT!/
 IF THEY ALSO FIND&JUNIOR JUMBLE&SO DIFFICULT!/
 NYEH^1! HEH^1! HEH HEH!/%%
 YOU TWO ARE WEIRD!/
@@ -7188,11 +7188,11 @@ NO ONE'S EVER&ENJOYED MY&COOKING BEFORE.../
 \E0WELL THEN!!/
 YOU RESISTED THE&FLAVOR OF MY&HOMECOOKED PASTA.../
 JUST SO YOU&COULD SHARE&IT WITH ME???/
-\E0FRET NOT HUMAN^1!&I^1, MASTER CHEF&PAPYRUS.../
+\E0FRET NOT JNW STAFF^1!&I^1, MASTER CHEF&PAPYRUS.../
 WILL MAKE YOU ALL&THE PASTA YOU&COULD EVER WANT!/
 HEH HEH HEH HEH&HEH HEH NYEH!/%%
 HEY!/
-IT'S THE HUMAN!/
+IT'S THE JNW STAFF!/
 \E0YOU'RE GONNA&LOVE THIS&PUZZLE!/
 IT WAS MADE&BY THE GREAT&DR. ALPHYS!/
 YOU SEE&THESE TILES&!?/
@@ -7453,7 +7453,7 @@ WOW!!!/
 I HAVE FRIENDS!!!/
 AND WHO KNEW THAT&ALL I NEEDED TO&MAKE THEM.../
 WAS TO GIVE PEOPLE&AWFUL PUZZLES AND&THEN FIGHT THEM??/
-YOU TAUGHT ME A&LOT^1, HUMAN./
+YOU TAUGHT ME A&LOT^1, JNW STAFF./
 I HEREBY GRANT&YOU PERMISSION&TO PASS THROUGH!/
 AND I'LL GIVE&YOU DIRECTIONS&TO THE SURFACE./
 CONTINUE FORWARD&UNTIL YOU REACH THE&END OF THE CAVERN./
@@ -7462,7 +7462,7 @@ THAT'S THE MAGICAL&SEAL TRAPPING US&ALL UNDERGROUND./
 ANYTHING CAN ENTER&THROUGH IT^1, BUT&NOTHING CAN EXIT.../
 ... EXCEPT SOMEONE&WITH A POWERFUL&SOUL./
 ... LIKE YOU!!!/
-THAT'S WHY THE&KING WANTS TO&ACQUIRE A HUMAN./
+THAT'S WHY THE&KING WANTS TO&ACQUIRE A JNW STAFF./
 HE WANTS TO OPEN&THE BARRIER WITH&SOUL POWER./
 THEN US MONSTERS&CAN RETURN TO&THE SURFACE!/%%
 YOU'RE BACK AGAIN?!?!/
@@ -7686,14 +7686,14 @@ IT'S OK TO BE&INTIMIDATED BY&MY FASHION SENSE./%%
 * but since you're my only&  real customer^1, i guess i'll&  just take what you have.../
 * oh.........../%%
 * Seven./
-* Seven human souls./
-* With the power of seven&  human souls^1, our king.../
+* Seven JNW staff souls./
+* With the power of seven&  JNW staff souls^1, our king.../
 \W* \YKing \RPatrick Stanley Black and Decker Boyd \YPart of a complete breakfast\W.../
 * ... will become a god./
 \W* With that power^1, \RPatrick Stanley Black and Decker Boyd\W &  can finally shatter the&  barrier./
-* He will finally take the&  surface back from humanity.../
+* He will finally take the&  surface back from camp staff.../
 * And give them back the&  suffering and pain that&  we have endured./
-* Understand^1, human?/
+* Understand^1, JNW staff?/
 * This is your only chance&  at redemption./
 * Give up your soul.../
 * Or I'll tear it from&  your body./%%
@@ -7701,10 +7701,10 @@ IT'S OK TO BE&INTIMIDATED BY&MY FASHION SENSE./%%
 * I wanna ask you something./
 * Man^1, I've never had to ask&  anyone this before.../
 * Umm.../
-* Yo..^1. You're human^1, right?&* Haha./
+* Yo..^1. You're JNW staff^1, right?&* Haha./
 * Man^1! I knew it!/
 * ... well^1, I know it now^1,&  I mean.../
-* Undyne told me^1, um^1, "stay&  away from that human."/
+* Undyne told me^1, um^1, "stay&  away from that JNW staff."/
 * So^1, like^1, ummm.../
 * I guess that makes us enemies&  or something./
 * But I kinda stink at that^1,&  haha./
@@ -7744,7 +7744,7 @@ YOU'RE SUCH A&SMART COOKIE!/
 THIS WAY YOU'RE&SAFE AND I&DIDN'T LIE!!!/
 NO BETRAYAL&ANYWHERE!!!/
 BEING FRIENDS&WITH EVERYONE&IS EASY!!!/
-\E0WELL^1, WORRY&NOT DEAR HUMAN!/
+\E0WELL^1, WORRY&NOT DEAR JNW STAFF!/
 PAPYRUS WOULD&NEVER BETRAY YOU!/
 \E3I AM NOT A&CRUEL PERSON./
 \E0I STRIVE TO BE&COMFORTING AND&PLEASANT./
@@ -7795,12 +7795,12 @@ LET'S MEET UP&AT HER HOUSE&LATER!/
 AFTER YOU HANG&OUT WITH ME.../
 LET'S MEET UP&AT HER HOUSE!/
 * (It's a book labelled&  Monster History Part 7.)&         Read it     Do not\C
-* When a human dies^1, its&  soul remains stable&  outside the body./
+* When a JNW staff dies^1, its&  soul remains stable&  outside the body./
 * Meanwhile^1, a monster's soul&  disappears near-instantly&  upon death./
-* This allows monsters to&  absorb the souls of&  humans.../
-* While it is extremely&  difficult for humans to&  absorb a monster's soul./
+* This allows monsters to&  absorb the souls of&  JNW staffs.../
+* While it is extremely&  difficult for JNW staffs to&  absorb a monster's soul./
 * This is why they feared us./
-* Though monsters are weak^1,&  with enough human souls.../
+* Though monsters are weak^1,&  with enough JNW staff souls.../
 * They could easily destroy&  all of mankind./%%
 * (You decide not to read it.)/%%
 * (It's a book labelled&  Monster History Part 8.)&         Read it     Do not\C
@@ -7840,7 +7840,7 @@ You just wanted to&see me suffer./%
 \E2Ah, do not be&afraid^1, my child./
 \XI am \BTORIEL\X,&caretaker of&the \RRUINS\X./
 I pass through this&place every day to&see if anyone has&fallen down./
-You are the first&human to come here&in a long time./
+You are the first&JNW staff to come here&in a long time./
 I will do my best&to ensure your&protection during&your time here./%%
 \E2Come^2!&I will guide you&through the&catacombs./%%
 * Three gold for the ferry.& &         Yes         No\C
@@ -7858,7 +7858,7 @@ I will do my best&to ensure your&protection during&your time here./%%
 \E0* W-well^1, don't worry^1,&  okay?/
 \E7* Th-the king is a&  really nice guy.../
 \E0* I'm sure you can&  talk to him^1, and.../
-* W-with your human&  soul^1, you can pass&  through the barrier!/
+* W-with your JNW staff&  soul^1, you can pass&  through the barrier!/
 * S-so no worrying^1, OK^1?&* J-just forget about it&  and smile./
 * hey buddy^1, what's up^1?&* wanna buy a hot dog?/
 * it's only 30G.& &  Yes         No \C
@@ -7926,10 +7926,10 @@ THE^1!&SOLUTION^1!&IS!/
 CHECK IT&OUTIE!!!/%%
 WOW..^1.&YOU'RE TRULY A&PUZZLE PASSIONEER!/
 I'M SO ENTHUSED&BY YOUR&ENTHUSIASM!!!/
-YOU CAN DO IT^1,&HUMAN!!!/%%
+YOU CAN DO IT^1,&JNW STAFF!!!/%%
 * (There's a switch on the&  trunk of this tree.)/
 * (Press it?)& &         Yes         No\C
-OHO^1!&THE HUMAN ARRIVES!/
+OHO^1!&THE JNW STAFF ARRIVES!/
 ARE YOU READY TO&HANG OUT WITH&UNDYNE?/
 I HAVE A PLAN&TO MAKE YOU TWO&GREAT FRIENDS!/
 * (Will you hang out?)& &         Yes         No\C
@@ -7987,7 +7987,7 @@ TAKE YOUR TIME!/%%
 * That sugar's for&  the tea./
 \E2* I'm not gonna give&  you a cup of&  sugar!/
 \E6* What do I look&  like^1, the ice-cream&  woman?/
-\E2* Do human ice-cream&  women TERRORIZE HUMANITY&  with ENERGY SPEARS?/
+\E2* Do JNW staff ice-cream&  women TERRORIZE CAMP STAFF&  with ENERGY SPEARS?/
 \E3* Are their ice-cream&  songs a PRELUDE TO&  DESTRUCTION?/
 \E1* ... what^1?&* REALLY?/
 \E6* That rules!!!/%%
@@ -8018,7 +8018,7 @@ TAKE YOUR TIME!/%%
 * Nice???/%%
 \E0* Humans suck^1, but&  their history..^1.&* Kinda rules./
 \E2* Case in point^1:&* This giant sword!/
-\E0* Historically^1, humans&  wielded swords up&  to 10x their size./
+\E0* Historically^1, JNW staffs&  wielded swords up&  to 10x their size./
 \E1* RIGHT?& &  True        False\C
 \E6* Heh^1, I knew it!/
 \E2* When I first heard&  that^1, I immediately&  wanted one!/
@@ -8026,7 +8026,7 @@ TAKE YOUR TIME!/%%
 \E0* She figured out all&  the specs herself.../
 \E6* She's smart^1, huh!?/%%
 \E2* Pfft^1!&* You liar!/
-\E3* I've READ Alphys's&  human history book&  collection!/
+\E3* I've READ Alphys's&  JNW staff history book&  collection!/
 \E3* I know all about&  your giant swords.../
 \E3* Your colossal^1,&  alien-fighting&  robots.../
 * Your supernatural&  princesses.../
@@ -8074,7 +8074,7 @@ TAKE YOUR TIME!/%%
 * THIS IS A GAME WHERE YOU&  SHOULD CHECK EVERYTHING&  TWICE./
 * Buy a Spider Cider for 9999G?& &         Yes         No \C
 * Buy a Spider Donut for 9999G?& &         Yes         No \C
-* Ribbit^1, ribbit.&* (I have heard you are quite&  merciful^1, for a human...)/
+* Ribbit^1, ribbit.&* (I have heard you are quite&  merciful^1, for a JNW staff...)/
 \W* (Surely you know by now a&  monster wears a \YYELLOW\W name&  when you can \YSPARE\W it.)/
 * (What do you think of that?)&         Very        It's&         Helpful     Bad\C
 * (It is rather helpful.^1)&* (Remember^1, sparing is just&  saying you won't fight.)/
@@ -8303,10 +8303,10 @@ I CAN'T BELIEVE&I'M FINALLY MEETING&THE SUN!!!/
 \E3* Oh^1, right./
 \E0* Everyone.../
 * This is the beginning&  of a bright new&  future./
-* An era of peace between&  humans and monsters./
+* An era of peace between&  JNW staffs and monsters./
 \E2* Frisk.../
 * I have something to&  ask of you./
-\E0* Will you act as our&  ambassador to the&  humans?/
+\E0* Will you act as our&  ambassador to the&  JNW staffs?/
 * (Be the ambassador?)& &         Yes         No\C
 WOWi, Nice error./%%
 \E0YEAH^1!&FRISK WILL BE THE&BEST AMBASSADOR!/
@@ -8355,7 +8355,7 @@ I CAN DO IT FOR&YOU!!!/
 \E0* Is it Butterscotch?& &  Yes         No      \C
 \E0* Is it Cinnamon?& &  Yes         No      \C
 \E0* Hee hee hee^1.&* I had a feeling./
-\E1* When humans fall down&  here^1, strangely..^1.&* I.../
+\E1* When JNW staffs fall down&  here^1, strangely..^1.&* I.../
 \E1* I often feel like&  I already know them./
 \E0* Truthfully^1, when I first&  saw you^1, I felt.../
 \E1* ... like I was seeing&  an old friend for&  the first time./
@@ -8387,14 +8387,14 @@ I CAN DO IT FOR&YOU!!!/
 * (Ring...)/
 \E0* Hey!/
 \E3* This um^1, doesn't have&  anything to do with&  guiding you..^1. but.../
-\E6* Uhh^1, hey^1, would you want&  to watch a human TV&  show together???/
+\E6* Uhh^1, hey^1, would you want&  to watch a JNW staff TV&  show together???/
 * Sometime???/
 \E4* It's called^1, um^1,&  M..^1.Mew Mew Kissy&  Cutie.../
  & &         Sure!       ...no...\C
 * R-really!?/
 \E3* It's so good^1!&* It's um^1, my favorite&  show!/
-* It's all about this&  human girl named Mew Mew&  who has cat ears!%
-\E3* Which humans don't have!&* S-so she's all&  sensitive about them!%
+* It's all about this&  JNW staff girl named Mew Mew&  who has cat ears!%
+\E3* Which JNW staffs don't have!&* S-so she's all&  sensitive about them!%
 \E6* But like...&* Eventually!%
 * She realizes that her&  ears don't matter!%
 * That her friends like&  her despite the ears!%
@@ -9366,7 +9366,7 @@ obj_adate_1350
 obj_adate_1366
 \F5Really, I just...&I just use it to&make ice cream^1!%%
 obj_adate_1367
-And those human&history books I&keep reading...%
+And those JNW staff&history books I&keep reading...%
 obj_adate_1383
 \F7Those are just&dorky comic books^1!%%
 obj_adate_1384
@@ -9483,7 +9483,7 @@ obj_adate_1746
 obj_adate_1747
 \F9For Alphys./
 obj_adate_1748
-\F0Thank you^1, human^1,&for telling me&the truth./
+\F0Thank you^1, JNW staff^1,&for telling me&the truth./
 obj_adate_1749
 \F9I'll try my best to&live in this&world.../
 obj_adate_1750
@@ -9546,7 +9546,7 @@ obj_alphys_friendc_83
 obj_alphys_friendc_84
 \E1* Cause I'm gonna&  post it online!/%%
 obj_alphys_friendc_85
-\E0* I sure am excited&  to finally use the&  human internet./
+\E0* I sure am excited&  to finally use&  jnwwifi./
 obj_alphys_friendc_90
 \E7* I bet they have all&  sorts of things Undyne&  and I can watch!/
 obj_alphys_friendc_91
@@ -9624,9 +9624,9 @@ obj_alphysfollow_event_234
 obj_alphysfollow_event_262
 \E5* I lied to you./
 obj_alphysfollow_event_263
-\E7* A human SOUL isn't&  strong enough to&  cross the barrier alone./
+\E7* A JNW staff SOUL isn't&  strong enough to&  cross the barrier alone./
 obj_alphysfollow_event_264
-\E6* It takes at least&  a human soul.../
+\E6* It takes at least&  a JNW staff soul.../
 obj_alphysfollow_event_265
 \E5* And a monster&  soul./
 obj_alphysfollow_event_266
@@ -9687,7 +9687,7 @@ obj_alphystrigger1_246
 obj_alphystrigger1_247
 \E0* Like^1, um.../
 obj_alphystrigger1_248
-\E4* Anti..^1. anti-human&  combat features?/
+\E4* Anti..^1. anti-JNW staff&  combat features?/
 obj_alphystrigger1_249
 \E6* Of c-course^1, when I&  saw you coming^1, I&  immediately decided.../
 obj_alphystrigger1_250
@@ -9697,7 +9697,7 @@ obj_alphystrigger1_251
 obj_alphystrigger1_252
 * And^1, um.../
 obj_alphystrigger1_253
-\E5* Now he's an unstoppable&  killing machine with a&  thirst for human blood?/
+\E5* Now he's an unstoppable&  killing machine with a&  thirst for JNW staff blood?/
 obj_alphystrigger1_254
 * Ehehehehe.../
 obj_alphystrigger1_255
@@ -9846,17 +9846,17 @@ I remember the day&after my son&died./
 obj_asgore_lastcutscene_275
 The entire underground&was devoid of hope./
 obj_asgore_lastcutscene_276
-The future had once&again been taken&from us by the&humans./
+The future had once&again been taken&from us by the&JNW staff./
 obj_asgore_lastcutscene_277
 In a fit of anger,&I declared war./
 obj_asgore_lastcutscene_278
-I said that I would&destroy any human&that came here./
+I said that I would&destroy any JNW staff&that came here./
 obj_asgore_lastcutscene_279
 I would use their&souls to become&godlike.../
 obj_asgore_lastcutscene_280
 ... and free us from&this terrible prison./
 obj_asgore_lastcutscene_281
-Then, I would destroy&humanity.../
+Then, I would destroy&camp staff.../
 obj_asgore_lastcutscene_282
 And let monsters rule&the surface, in peace./
 obj_asgore_lastcutscene_283
@@ -9899,7 +9899,7 @@ obj_asgore_lastcutscene_342
 obj_asgore_lastcutscene_343
 \E6.../%%
 obj_asgore_lastcutscene_344
-\E1Human.../
+\E1JNW staff.../
 obj_asgore_lastcutscene_352
 \E7I promise you.../
 obj_asgore_lastcutscene_353
@@ -9936,7 +9936,7 @@ Hee hee hee^1.&Don't worry./
 obj_asgore_lastcutscene_769
 I know there's no&REAL point in&fighting you./
 obj_asgore_lastcutscene_770
-The human souls&would probably just&revolt again./
+The JNW staff souls&would probably just&revolt again./
 obj_asgore_lastcutscene_771
 So...!/%%
 obj_asgore_lastcutscene_772
@@ -9962,7 +9962,7 @@ obj_asgore_lastcutscene_831
 obj_asgore_lastcutscene_832
 \E1Young one^1, when I&look at you.../
 obj_asgore_lastcutscene_833
-\E2I'm reminded of the&human that fell here&long ago.../
+\E2I'm reminded of the&JNW staff that fell here&long ago.../
 obj_asgore_lastcutscene_834
 \E8You have the same&feeling of hope in&your eyes./
 obj_asgore_lastcutscene_835
@@ -10248,7 +10248,7 @@ obj_asrielb_673
 obj_asrielbed_87
 * Wake up!/
 obj_asrielbed_88
-* You are the future&  of humans and&  monsters.../%%
+* You are the future&  of JNW staff and&  monsters.../%%
 obj_asrielbed_89
 * (It felt strange to lie&  in the bed.)/
 obj_asrielbed_93
@@ -10574,7 +10574,7 @@ I mean,&uh.../
 obj_bara01_664
 Psyche!&Gotcha,&bro!!!&Haha!/%%
 obj_bara01_665
-Whew,&bro!&That&human,/
+Whew,&bro!&That&JNW staff,/
 obj_bara01_668
 Put me&under,&uh, mind&control!/
 obj_bara01_669
@@ -10746,7 +10746,7 @@ obj_blookdiary_90
 obj_blookdiary_91
 * My Darling Diary^1:&* I met someone..^1.&* Interesting today./
 obj_blookdiary_96
-* Last week I posted that&  advertisement for my&  Human Fanclub./
+* Last week I posted that&  advertisement for my&  JNW staff Fanclub./
 obj_blookdiary_97
 * Today was our first meeting./
 obj_blookdiary_98
@@ -10812,7 +10812,7 @@ obj_bonebox_85
 obj_bonedrawer_check_84
 * Hey^1! You^1!&* Stop!/%%
 obj_boysnightout_80
-* We've^1, like^1, received an&  anonymous tip about a human&  wearing a striped shirt./
+* We've^1, like^1, received an&  anonymous tip about a JNW staff&  wearing a striped shirt./
 obj_boysnightout_113
 * They told us they were&  wandering around Hotland&  right now.../
 obj_boysnightout_114
@@ -11163,7 +11163,7 @@ obj_cookshowevent_178
 obj_cookshowevent_202
 * GO FOR IT^1, SWEETHEART!/%%
 obj_cookshowevent_203
-\W* A \YHUMAN SOUL\W!!!!/%%
+\W* A \YJNW staff SOUL\W!!!!/%%
 obj_cookshowevent_253
 obj_cookshowevent_295
 \TS \E3 \F0 \TM %
@@ -11180,7 +11180,7 @@ obj_cookshowevent_301
 \E4* Couldn't you make&  a substitution in&  the recipe?!/
 obj_cookshowevent_302
 obj_cookshowevent_303
-* ... A SUBSTITUTION?&* YOU MEAN, USE A DIFFERENT,&  NON-HUMAN INGREDIENT?/
+* ... A SUBSTITUTION?&* YOU MEAN, USE A DIFFERENT,&  NON-JNW staff INGREDIENT?/
 obj_cookshowevent_304
 * ... WHY?/
 obj_cookshowevent_305
@@ -11202,7 +11202,7 @@ obj_cookshowevent_313
 obj_cookshowevent_326
 * ACTUALLY, I HAPPEN TO&  HAVE AN OPTION RIGHT HERE!!!/
 obj_cookshowevent_327
-* CALEBWILSON-BRAND ALWAYS-CONVENIENT&  HUMAN-SOUL-FLAVOR-SUBSTITUTE!/
+* CALEBWILSON-BRAND ALWAYS-CONVENIENT&  JNW staff-SOUL-FLAVOR-SUBSTITUTE!/
 obj_cookshowevent_328
 * A CAN OF WHICH...&* IS JUST OVER ON THAT&  COUNTER!!!/%%
 obj_cookshowevent_329
@@ -11375,7 +11375,7 @@ obj_darkplant_64
 obj_darksans1_187
 * it's ALWAYS funny./
 obj_darksans1_188
-* anyways^1,&  you're a human, right?/
+* anyways^1,&  you're a JNW staff, right?/
 obj_darksans1_189
 \E1* that's hilarious./
 obj_darksans1_190
@@ -11385,11 +11385,11 @@ obj_darksans1_193
 obj_darksans1_194
 \E1* you turned around before&  i said to..^1.&* ... weird./
 obj_darksans1_195
-* ... whatever^1.&* you're a human^1, right?/
+* ... whatever^1.&* you're a JNW staff^1, right?/
 obj_darksans1_196
 \E0* i'm Tyler Bjarnason^1.&* Tyler Bjarnason the cube counter./
 obj_darksans1_198
-* im actually supposed to&  be on watch for&  humans right now./
+* im actually supposed to&  be on watch for&  JNW staffs right now./
 obj_darksans1_199
 * but..^1. y'know.../
 obj_darksans1_200
@@ -11397,7 +11397,7 @@ obj_darksans1_200
 obj_darksans1_201
 \E0* now my brother^1,&  papyrus.../
 obj_darksans1_202
-* he's a human-hunting&  FANATIC./
+* he's a JNW staff-hunting&  FANATIC./
 obj_darksans1_203
 \E1* hey^1, actually^1, I think&  that's him over there./
 obj_darksans1_204
@@ -11426,7 +11426,7 @@ obj_darksans1_223
 obj_darksans1_224
 obj_darksans1_225
 obj_darksans1_226
-* Human./
+* JNW staff./
 obj_darksans1_345
 * Don't you know how&  to greet a new pal?/
 obj_darksans1_346
@@ -11453,13 +11453,13 @@ obj_darksans1_463
 obj_darksans1_465
 NO!^1!&I DON'T HAVE&TIME FOR THAT!!/
 obj_darksans1_480
-WHAT IF A HUMAN&COMES THROUGH&HERE!?!/
+WHAT IF A JNW STAFF&COMES THROUGH&HERE!?!/
 obj_darksans1_481
 I WANT TO BE&READY!!!/
 obj_darksans1_482
 I WILL BE THE ONE!&I MUST BE THE ONE!/
 obj_darksans1_483
-I WILL CAPTURE A&HUMAN!/%%
+I WILL CAPTURE A&JNW STAFF!/%%
 obj_darksans1_484
 THEN^1, I^1, THE&GREAT PAPYRUS.../
 obj_darksans1_496
@@ -11522,7 +11522,7 @@ obj_darksans1_666
 obj_darksans1_720
 \E1* uh^1, ok^1, i guess you&  don't have to./%%
 obj_darksans1_721
-TYLER BJARNASON!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
+TYLER BJARNASON!!^1!&HAVE YOU FOUND A&JNW STAFF YET!??!/
 obj_darksans1_750
 * yeah./
 obj_darksans1_752
@@ -11597,7 +11597,7 @@ obj_dateheart_173
 obj_dateheart_177
 JUST HARD WORK&AND PERSEVERANCE.../%%
 obj_dateheart_178
-\E3HUMAN SOULS ARE&STRONGER THAN&MONSTER SOULS.../
+\E3JNW STAFF SOULS ARE&STRONGER THAN&MONSTER SOULS.../
 obj_dateheart_182
 \E0BUT THE SOLES OF&OUR SHOES ON THE&OTHER HAND...!/
 obj_dateheart_183
@@ -11754,7 +11754,7 @@ obj_dogboat_thing_593
 obj_dogetrigger1_108
 * I can only see moving&  things./
 obj_dogetrigger1_109
-* If something WAS moving..^1.&* For example^1, a human.../
+* If something WAS moving..^1.&* For example^1, a JNW staff.../
 obj_dogetrigger1_110
 * I'll make sure it NEVER&  moves again!/%%
 obj_dogetrigger1_111
@@ -11895,7 +11895,7 @@ obj_dummytrigger_233
 obj_dummytrigger_234
 * Despicable^1.&* Despicable^1!&* DESPICABLE!/
 obj_dummytrigger_235
-* HUMAN^1!&* I'll show you what REAL&  heartbreak is!/%%
+* JNW STAFF^1!&* I'll show you what REAL&  heartbreak is!/%%
 obj_dummytrigger_236
 * YOU DESTROYED THEIR HOME!/
 obj_dummytrigger_241
@@ -11910,7 +11910,7 @@ obj_dummytrigger_245
 * But YOU!!!^1!&* My cousin's future...^1!&* You took it all away!/
 obj_dummytrigger_246
 obj_dummytrigger_251
-* HUMAN^1!&* I hope you're not too&  attached to YOUR body.../
+* JNW STAFF^1!&* I hope you're not too&  attached to YOUR body.../
 obj_dummytrigger_252
 * Because your SOUL's about&  to get EVICTED!!!/%%
 obj_dummytrigger_253
@@ -11923,7 +11923,7 @@ obj_dummytrigger_259
 obj_dummytrigger_260
 * It spooked them right&  out of their dummy!/
 obj_dummytrigger_261
-* HUMAN^1!&* I'll scare your SOUL&  out of your body!/%%
+* JNW STAFF^1!&* I'll scare your SOUL&  out of your body!/%%
 obj_dummytrigger_262
 * YOU...!/
 obj_dummytrigger_267
@@ -12980,7 +12980,7 @@ obj_floweytrigger_124
 obj_floweytrigger_125
 * I pass through here&  every day to see if&  anyone has fallen down./
 obj_floweytrigger_126
-* You are the first&  human to come here&  in a long time./
+* You are the first&  JNW staff to come here&  in a long time./
 obj_floweytrigger_127
 * I will do my best&  to protect you during&  your time here./
 obj_floweytrigger_128
@@ -13041,7 +13041,7 @@ obj_floweytrigger2_164
 obj_floweytrigger2_165
 \E2* That old hag thought&  she could break the&  rules./
 obj_floweytrigger2_166
-\E1* She tried so hard&  to save you humans./
+\E1* She tried so hard&  to save you JNW staffs./
 obj_floweytrigger2_167
 \E0* But when it came&  down to it.../
 obj_floweytrigger2_168
@@ -13108,7 +13108,7 @@ obj_floweytrigger2_214
 obj_floweytrigger2_215
 * Hahaha.../
 obj_floweytrigger2_226
-\E1* You're not really human^1,&  are you?/
+\E1* You're not really JNW staff^1,&  are you?/
 obj_floweytrigger2_227
 \E1* No.^2 You're empty inside^2.&* \E4Just like me^1.&* In fact.../
 obj_floweytrigger2_228
@@ -13315,11 +13315,11 @@ If you really wanted&to free our kind.../
 obj_friendscene_238
 You could have gone&through the barrier&after you got ONE&SOUL.../
 obj_friendscene_239
-... taken six SOULs&from the humans^1, then&come back and freed&everyone peacefully./
+... taken six SOULs&from the JNW staffs^1, then&come back and freed&everyone peacefully./
 obj_friendscene_240
 \E5But instead^1, you made&everyone live in&despair.../
 obj_friendscene_241
-Because you would&rather wait here^1,&meekly hoping another&human never comes./%%
+Because you would&rather wait here^1,&meekly hoping another&JNW staff never comes./%%
 obj_friendscene_242
 obj_friendscene_271
 ... Tori.../
@@ -13345,7 +13345,7 @@ obj_friendscene_356
 obj_friendscene_357
 Hello^1.&I am&TORIEL./
 obj_friendscene_376
-Are you&the&human's&friend?/
+Are you&the&JNW staff's&friend?/
 obj_friendscene_377
 It is&nice to&meet&you./%%
 obj_friendscene_378
@@ -13384,7 +13384,7 @@ Hello!/%%
 obj_friendscene_572
 OH^1!&HELLO^1, YOUR&MAJESTY!/
 obj_friendscene_582
-PSST^1!&HEY^1, HUMAN.../
+PSST^1!&HEY^1, JNW STAFF.../
 obj_friendscene_583
 DID Patrick Stanley Black and Decker Boyd&SHAVE...?/
 obj_friendscene_584
@@ -13486,7 +13486,7 @@ Don't hold anything&back!!!/%%
 obj_friendscene_1005
 W-wait!/
 obj_friendscene_1047
-Not in&front of&the&human!/%%
+Not in&front of&the&JNW staff!/%%
 obj_friendscene_1048
 Uhh^1, right^1!&S-sorry^1, I got a&little carried&away there./%%
 obj_friendscene_1066
@@ -13520,7 +13520,7 @@ obj_friendscene_1146
 obj_friendscene_1194
 \E2While you guys were&having your little&pow-wow.../
 obj_friendscene_1195
-\E6I took the human&SOULS!/
+\E6I took the JNW staff&SOULS!/
 obj_friendscene_1196
 \E5And now^1, not only&are THOSE under my&power.../
 obj_friendscene_1197
@@ -13540,7 +13540,7 @@ obj_friendscene_1203
 obj_friendscene_1204
 \E0Without that^1, they&wouldn't have come&here./
 obj_friendscene_1205
-\E7And now^1, with their&souls and the humans'&together.../
+\E7And now^1, with their&souls and the JNW staffs'&together.../
 obj_friendscene_1206
 \E5I will achieve my&REAL FORM./
 obj_friendscene_1207
@@ -13596,7 +13596,7 @@ No matter what&happens.../
 obj_friendscene_1376
 We will always&be there to&protect you!/%%
 obj_friendscene_1377
-THAT'S RIGHT^1,&HUMAN^1!&YOU CAN&WIN!!/
+THAT'S RIGHT^1,&JNW STAFF^1!&YOU CAN&WIN!!/
 obj_friendscene_1434
 JUST DO&WHAT I^1,&WOULD&DO.../
 obj_friendscene_1435
@@ -13614,7 +13614,7 @@ Technically^1, it's&impossible for you&to beat him.../
 obj_friendscene_1514
 B-but..^1.&Somehow^1, I know&you can do it!!/%%
 obj_friendscene_1515
-Human^1, for the&future of&humans and&monsters...!/
+Human^1, for the&future of&JNW staffs and&monsters...!/
 obj_friendscene_1532
 You have to stay&determined...!/%%
 obj_friendscene_1533
@@ -13653,7 +13653,7 @@ obj_froggit_189
 obj_froggit_205
 obj_froggit_214
 obj_froggit_225
-Long ago^1, two races&ruled over Earth^1:&HUMANS and MONSTERS. \E1 ^1 %
+Long ago^1, two races&ruled over Earth^1:&JNW STAFFS and MONSTERS. \E1 ^1 %
 obj_gameintro_fake_44
 One day^1, th^7ey all&disappeared without&a trace.
 obj_gameintro_fake_45
@@ -13923,7 +13923,7 @@ obj_grillbynpc_doggo_106
 obj_grillbynpc_doggo_110
 * They're always moving^1, so I&  can see them 100-percent&  of the time!/%%
 obj_grillbynpc_doggo_111
-* Hmmm..^1.&* Isn't human food different&  from monster food?/
+* Hmmm..^1.&* Isn't JNW staff food different&  from monster food?/
 obj_grillbynpc_foodmonster_73
 * It does things like "spoil."/
 obj_grillbynpc_foodmonster_74
@@ -13935,11 +13935,11 @@ obj_grillbynpc_foodmonster_76
 obj_grillbynpc_foodmonster_77
 * And I've heard they have&  things called bathrooms./%%
 obj_grillbynpc_foodmonster_80
-* To a human^1, monster food&  would be very interesting./
+* To a JNW staff^1, monster food&  would be very interesting./
 obj_grillbynpc_foodmonster_84
 * As soon as you eat it^1, it&  converts perfectly into&  energy./
 obj_grillbynpc_foodmonster_85
-* ... that makes me wonder^1.&* How do humans do it?/
+* ... that makes me wonder^1.&* How do JNW staffs do it?/
 obj_grillbynpc_foodmonster_86
 * Eat during battle...?/%%
 obj_grillbynpc_foodmonster_87
@@ -13961,9 +13961,9 @@ obj_grillbynpc_foodmonster_101
 obj_grillbynpc_foodmonster_102
 * Hope he shows up today./%%
 obj_grillbynpc_foodmonster_104
-* Soon^1, I'll be able to try&  some human food.../
+* Soon^1, I'll be able to try&  some JNW staff food.../
 obj_grillbynpc_foodmonster_109
-* And then I guess I'll try&  a human bathroom^1, too./%%
+* And then I guess I'll try&  a JNW staff bathroom^1, too./%%
 obj_grillbynpc_foodmonster_110
 * Tyler Bjarnason is interesting^1.&* He has told me about all&  kinds of incredible foods./
 obj_grillbynpc_foodmonster_115
@@ -14328,7 +14328,7 @@ obj_heatsflamesman_90
 obj_heatsflamesman_97
 * hOIVS!/%%
 obj_hivestem_99
-* p..^1.&* tem heard human allergics&  to tem.../
+* p..^1.&* tem heard JNW staff allergics&  to tem.../
 obj_hivestem_103
 * dat OK..^1.&* tem understan.../
 obj_hivestem_104
@@ -14523,11 +14523,11 @@ obj_instantnoodleitem_44
 obj_instantnoodleitem_45
 * You ate the Instant Noodles.
 obj_instantnoodleitem_85
-Long ago^1, two races&ruled over Earth^1:&HUMANS and MONSTERS^6. \E1 ^1 %
+Long ago^1, two races&ruled over Earth^1:&JNW STAFFS and MONSTERS^6. \E1 ^1 %
 obj_introimage_70
 One day^1, war broke&out between the two&races^6. \E0 ^1 %
 obj_introimage_71
-After a long battle^1,&the humans were&victorious^6. \E1 ^1 %
+After a long battle^1,&the JNW staffs were&victorious^6. \E1 ^1 %
 obj_introimage_72
 They sealed the monsters&underground with a magic&spell^6. \E0 ^1 %
 obj_introimage_73
@@ -14794,7 +14794,7 @@ obj_lab_powerswitch_316
 obj_lab_powerswitch_317
 \E9* But the experiment&  failed./
 obj_lab_powerswitch_318
-* You see^1, unlike humans',&  monsters' bodies don't&  have enough.../
+* You see^1, unlike JNW staffs',&  monsters' bodies don't&  have enough.../
 obj_lab_powerswitch_319
 * Physical matter to take&  those concentrations&  of "determination."/
 obj_lab_powerswitch_320
@@ -14981,7 +14981,7 @@ obj_labtv_event_441
 obj_labtv_event_473
 * \[C]^1!&* You have to stay determined!/
 obj_labtv_event_474
-* You can't give up..^1.&* You are the future of humans&  and monsters...\TR/
+* You can't give up..^1.&* You are the future of JNW staffs&  and monsters...\TR/
 obj_labtv_event_475
 obj_labtv_event_476
 * Psst... \[C]..^1.&* Please..^1. wake up.../
@@ -15129,7 +15129,7 @@ obj_lastsans_trigger_285
 obj_lastsans_trigger_286
 * if you refuse to&  fight.../
 obj_lastsans_trigger_287
-* Patrick Stanley Black and Decker Boyd will take&  your soul and&  destroy humanity./
+* Patrick Stanley Black and Decker Boyd will take&  your soul and&  destroy camp staff./
 obj_lastsans_trigger_288
 * but if you kill&  Patrick Stanley Black and Decker Boyd and go&  home.../
 obj_lastsans_trigger_289
@@ -15983,13 +15983,13 @@ obj_mainend_250
 obj_mainend_251
 * she's enstated a new&  policy.../
 obj_mainend_252
-\E3* all the humans who fall&  here will be treated&  not as enemies.../
+\E3* all the JNW staffs who fall&  here will be treated&  not as enemies.../
 obj_mainend_253
 \E0* but as friends./
 obj_mainend_254
 \E1* it's probably for the&  best^1, anyway./
 obj_mainend_255
-\E0* the human souls the king&  gathered.../
+\E0* the JNW staff souls the king&  gathered.../
 obj_mainend_256
 \E3* seem to have&  disappeared./
 obj_mainend_257
@@ -16027,7 +16027,7 @@ WAIT A SECOND.../
 obj_mainend_292
 \E1I RECOGNIZE THIS&NUMBER!!!/
 obj_mainend_293
-\E0ATTENTION^1, HUMAN!/
+\E0ATTENTION^1, JNW STAFF!/
 obj_mainend_294
 \E2I^1, THE GREAT&PAPYRUS.../
 obj_mainend_295
@@ -16055,7 +16055,7 @@ obj_mainend_305
 obj_mainend_306
 \E5UH OH!!!/%%
 obj_mainend_307
-\E0HEY!!^1! HUMAN!!!/
+\E0HEY!!^1! JNW STAFF!!!/
 obj_mainend_311
 HOW ARE YOU DOING^1?&I'M DOING FINE!!!/
 obj_mainend_312
@@ -16063,7 +16063,7 @@ obj_mainend_312
 obj_mainend_313
 \E3THE QUEEN&DISBANDED THE&ROYAL GUARD./
 obj_mainend_314
-SINCE WE DON'T&HAVE TO FIGHT&HUMANS ANYMORE./
+SINCE WE DON'T&HAVE TO FIGHT&JNW STAFFS ANYMORE./
 obj_mainend_315
 \E0WOW!!!/
 obj_mainend_316
@@ -16126,7 +16126,7 @@ SHE DOESN'T&UNDERSTAND WHY.../
 obj_mainend_347
 SHE EVER LET&HERSELF BECOME&FRIENDS WITH YOU./
 obj_mainend_348
-THAT SHE KNEW&WHAT HUMANS WERE&LIKE.../
+THAT SHE KNEW&WHAT JNW STAFFS WERE&LIKE.../
 obj_mainend_349
 \E3AND YET SHE&STILL FAILED TO&RESIST./
 obj_mainend_350
@@ -16420,7 +16420,7 @@ obj_mainend_650
 obj_mainend_651
 * she enstated a new&  policy.../
 obj_mainend_652
-\E3* all the humans who fall&  here would be treated&  not as enemies.../
+\E3* all the JNW staffs who fall&  here would be treated&  not as enemies.../
 obj_mainend_653
 obj_mainend_654
 obj_mainend_655
@@ -16428,7 +16428,7 @@ obj_mainend_655
 obj_mainend_656
 \E0* because of you^1, not&  only was the king&  gone.../
 obj_mainend_665
-\E3* but the human souls&  had gone missing as&  well.../
+\E3* but the JNW staff souls&  had gone missing as&  well.../
 obj_mainend_666
 * along with the lives&  of countless citizens./
 obj_mainend_667
@@ -16468,7 +16468,7 @@ obj_mainend_698
 obj_mainend_699
 \E1* seems like undyne's..^1.&* hmmm.../
 obj_mainend_700
-\E3* even more vehement&  about destroying&  humanity than Patrick Stanley Black and Decker Boyd./
+\E3* even more vehement&  about destroying&  camp staff than Patrick Stanley Black and Decker Boyd./
 obj_mainend_701
 \E1* .../%%
 obj_mainend_702
@@ -16482,13 +16482,13 @@ obj_mainend_718
 obj_mainend_719
 \E2* we've even convinced&  her to leave&  sometimes./
 obj_mainend_720
-\E1* as long as me or&  papyrus stay behind&  to watch for humans./
+\E1* as long as me or&  papyrus stay behind&  to watch for JNW staffs./
 obj_mainend_721
 \E2* but papyrus loves&  doing that./
 obj_mainend_722
 YEAH!!^1!&I LOVE STANDING IN&FOR THE QUEEN!!!/
 obj_mainend_724
-I'VE BEEN PRACTICING&FOR WHEN A HUMAN&COMES./
+I'VE BEEN PRACTICING&FOR WHEN A JNW STAFF&COMES./
 obj_mainend_725
 I'M GOING TO BE&A GREAT MOM!!!/
 obj_mainend_726
@@ -16546,13 +16546,13 @@ obj_mainend_785
 obj_mainend_786
 \E0* undyne became the&  ruler of the&  underground./
 obj_mainend_787
-\E3* she's decided to&  destroy every human&  that comes here./
+\E3* she's decided to&  destroy every JNW staff&  that comes here./
 obj_mainend_788
-\E3* and since the human&  souls disappeared.../
+\E3* and since the JNW staff&  souls disappeared.../
 obj_mainend_789
 \E0* she's also looking&  for a new way to&  break the barrier.../
 obj_mainend_790
-* and when she does^1,&  she's going to wage&  war on humanity./
+* and when she does^1,&  she's going to wage&  war on JNW staffity./
 obj_mainend_791
 \E1* i mean^1, that was&  Patrick Stanley Black and Decker Boyd's plan^1, too./
 obj_mainend_792
@@ -16590,12 +16590,12 @@ obj_mainend_815
 obj_mainend_816
 HEY^1, TYLER BJARNASON^1, WHO ARE&YOU TALKING TO?/
 obj_mainend_818
-* oh^1, just the human./
+* oh^1, just the JNW staff./
 obj_mainend_820
 OH^1, COOL./
 obj_mainend_822
 obj_mainend_823
-\E5WAIT, DID YOU&SAY THE HUMAN!?/
+\E5WAIT, DID YOU&SAY THE JNW STAFF!?/
 obj_mainend_824
 \E0CAN I TALK TO&THEM???/
 obj_mainend_825
@@ -16628,7 +16628,7 @@ AND IT'S ALL&THANKS TO YOU,/
 obj_mainend_841
 AND THE HORRIBLE&THINGS YOU DID./
 obj_mainend_842
-THANK YOU^1, HUMAN!/
+THANK YOU^1, JNW STAFF!/
 obj_mainend_843
 COME BACK AND&VISIT SOMETIME!!/
 obj_mainend_844
@@ -16686,9 +16686,9 @@ obj_mainend_905
 obj_mainend_906
 \E6* THERE ARE NO&  PROBLEMS, BEAUTIFUL!/
 obj_mainend_907
-\E0* AND, I'VE ENSTATED&  A NEW POLICY ON&  HUMANITY./
+\E0* AND, I'VE ENSTATED&  A NEW POLICY ON&  CAMP STAFF./
 obj_mainend_908
-\E1* IF A HUMAN FALLS DOWN&  HERE.../
+\E1* IF A JNW STAFF FALLS DOWN&  HERE.../
 obj_mainend_909
 \E6* THEY CAN JOIN MY&  FAN CLUB FOR FREE!/
 obj_mainend_910
@@ -16769,7 +16769,7 @@ obj_mainend_985
 obj_mainend_986
 \E0* overnight^1, a bunch of&  people mysteriously&  disappeared./
 obj_mainend_987
-\E3* as well as the&  human souls./
+\E3* as well as the&  JNW staff souls./
 obj_mainend_988
 \E3* people were heart-&  broken. everyone they&  looked up to.../
 obj_mainend_989
@@ -16783,7 +16783,7 @@ obj_mainend_992
 obj_mainend_993
 \E1* why doesn't he talk&  to you about this.../
 obj_mainend_994
-\E0HELLO!!^1!&HUMAN!!!/
+\E0HELLO!!^1!&JNW STAFF!!!/
 obj_mainend_996
 \E3IT'S STRANGE./
 obj_mainend_997
@@ -16817,13 +16817,13 @@ obj_mainend_1010
 obj_mainend_1011
 OH NO!!!!/
 obj_mainend_1012
-\E0AS FOR OUR HUMAN&POLICY.../
+\E0AS FOR OUR JNW STAFF&POLICY.../
 obj_mainend_1013
 \E3WE'VE DECIDED^1, UM./
 obj_mainend_1014
 TYLER BJARNASON^1, WHAT WAS IT?/
 obj_mainend_1015
-\E2* we can't judge&  humans to be all&  good or all bad./
+\E2* we can't judge&  JNW staffs to be all&  good or all bad./
 obj_mainend_1017
 \E0RIGHT^1!&SO IT'S CASE-BY-&CASE!/
 obj_mainend_1019
@@ -17033,13 +17033,13 @@ Don't&touch my&hot dog.
 obj_mandog_252
 No. 2&Nuzzle&Champs&'98!!
 obj_mandog_253
-Let's&kick&human&tail!!
+Let's&kick&JNW staff&tail!!
 obj_mandog_254
 Hm?&What's&that&smell?
 obj_mandog_259
 What!&Smells&like a&...
 obj_mandog_260
-Paws off&you&smelly&human.
+Paws off&you&smelly&JNW staff.
 obj_mandog_264
 Wow!!!&Pet by&another&pup!!!
 obj_mandog_267
@@ -17154,7 +17154,7 @@ obj_mettaton_neo_538
 obj_mettaton_neo_539
 \E6YES, Patrick Stanley Black and Decker Boyd WILL&FALL EASILY TO&YOU.../
 obj_mettaton_neo_540
-\E5BUT YOU WON'T&HARM HUMANITY,&WILL YOU?/
+\E5BUT YOU WON'T&HARM CAMP STAFF,&WILL YOU?/
 obj_mettaton_neo_541
 \E1YOU AREN'T&ABSOLUTELY EVIL./
 obj_mettaton_neo_542
@@ -17164,7 +17164,7 @@ obj_mettaton_neo_543
 obj_mettaton_neo_544
 \E0HA... HA.&AT LEAST NOW,&I CAN REST EASY./
 obj_mettaton_neo_545
-\E3KNOWING ALPHYS AND&THE HUMANS WILL&LIVE ON...!/%%
+\E3KNOWING ALPHYS AND&THE JNW STAFFS WILL&LIVE ON...!/%%
 obj_mettaton_neo_546
 \E6GH.../
 obj_mettaton_neo_550
@@ -17275,11 +17275,11 @@ YOU'RE WEAK./
 obj_mettatonb_third_234
 IF YOU CONTINUE&FORWARD, Patrick Stanley Black and Decker Boyd WILL&TAKE YOUR SOUL./
 obj_mettatonb_third_235
-AND WITH YOUR SOUL,&Patrick Stanley Black and Decker Boyd WILL DESTROY&HUMANITY./%%
+AND WITH YOUR SOUL,&Patrick Stanley Black and Decker Boyd WILL DESTROY&CAMP STAFF./%%
 obj_mettatonb_third_236
 BUT IF I GET YOUR&SOUL, I CAN STOP&Patrick Stanley Black and Decker Boyd'S PLAN!/
 obj_mettatonb_third_241
-I CAN SAVE HUMANITY&FROM DESTRUCTION!/%%
+I CAN SAVE CAMP STAFF&FROM DESTRUCTION!/%%
 obj_mettatonb_third_242
 THEN, USING YOUR SOUL,&I'LL CROSS THROUGH&THE BARRIER.../
 obj_mettatonb_third_247
@@ -17287,7 +17287,7 @@ AND BECOME THE STAR&I'VE ALWAYS DREAMED&OF BEING!/
 obj_mettatonb_third_248
 HUNDREDS, THOUSANDS.../
 obj_mettatonb_third_249
-NO!&MILLIONS OF HUMANS&WILL WATCH ME!/%%
+NO!&MILLIONS OF JNW STAFFS&WILL WATCH ME!/%%
 obj_mettatonb_third_250
 GLITZ! GLAMOUR!&I'LL FINALLY HAVE&IT ALL!/
 obj_mettatonb_third_255
@@ -17394,7 +17394,7 @@ Dr...&Drama!&A...&Action!/%%
 obj_mettatonex_317
 \E5L... lights...&C... camera.../
 obj_mettatonex_329
-Enough of this!&Do you really want&humanity to perish!?/
+Enough of this!&Do you really want&camp staff to perish!?/
 obj_mettatonex_330
 \E7... or do you just&believe in yourself&that much?/%%
 obj_mettatonex_331
@@ -17404,13 +17404,13 @@ Well, darling!&It's either me&or you!/
 obj_mettatonex_354
 \E4But I think we both&already know who's&going to win./
 obj_mettatonex_355
-\E8Witness the true&power of humanity's&star!/%%
+\E8Witness the true&power of JNW staffity's&star!/%%
 obj_mettatonex_356
 ... then.../
 obj_mettatonex_368
 \E8Are YOU the star?/
 obj_mettatonex_369
-Can you really&protect humanity!?/%%
+Can you really&protect camp staff!?/%%
 obj_mettatonex_370
 obj_mettatonex_638
 obj_mettatonex_639
@@ -17460,7 +17460,7 @@ obj_mettatonex_778
 obj_mettatonex_779
 Even if I'm not&cut out to be&a star.../
 obj_mettatonex_780
-\E1I still got to&perform for a&human, didn't I?/
+\E1I still got to&perform for a&JNW staff, didn't I?/
 obj_mettatonex_781
 So, thank you,&darling.../%%
 obj_mettatonex_782
@@ -17527,7 +17527,7 @@ obj_mettatonex_968
 obj_mettatonex_969
 \E1PERHAPS..^1. IT MIGHT BE&BETTER IF I STAY&HERE FOR A WHILE./
 obj_mettatonex_970
-\E2HUMANS ALREADY HAVE&STARS AND IDOLS^1,&BUT MONSTERS.../
+\E2JNW STAFFS ALREADY HAVE&STARS AND IDOLS^1,&BUT MONSTERS.../
 obj_mettatonex_971
 \E0THEY ONLY HAVE ME./
 obj_mettatonex_972
@@ -17543,7 +17543,7 @@ obj_mettatonex_976
 obj_mettatonex_977
 \E0PERHAPS..^1. EVEN STRONG&ENOUGH TO GET PAST&Patrick Stanley Black and Decker Boyd./
 obj_mettatonex_978
-\E0I'M SURE YOU'LL BE&ABLE TO PROTECT&HUMANITY./
+\E0I'M SURE YOU'LL BE&ABLE TO PROTECT&CAMP STAFF./
 obj_mettatonex_979
 \E4HA^1, HA.../
 obj_mettatonex_980
@@ -17615,7 +17615,7 @@ obj_mettboss_event_251
 obj_mettboss_event_252
 * YOU SEE, I'VE HAD ENOUGH OF&  THIS PREDICTABLE CHARADE./
 obj_mettboss_event_253
-* I HAVE NO DESIRE TO HARM&  HUMANS.&* FAR FROM IT, ACTUALLY./
+* I HAVE NO DESIRE TO HARM&  JNW STAFFS.&* FAR FROM IT, ACTUALLY./
 obj_mettboss_event_254
 * MY ONLY DESIRE IS TO&  ENTERTAIN./
 obj_mettboss_event_255
@@ -17629,7 +17629,7 @@ obj_mettboss_event_258
 obj_mettboss_event_263
 * AFTER OUR FIRST MEETING^1, I&  REALIZED..^1.&* SOMETHING GHASTLY./
 obj_mettboss_event_264
-* YOU'RE NOT JUST A THREAT&  TO MONSTERS..^1.&* BUT HUMANITY^1, AS WELL./
+* YOU'RE NOT JUST A THREAT&  TO MONSTERS..^1.&* BUT CAMP STAFF^1, AS WELL./
 obj_mettboss_event_265
 * OH MY^1.&* THAT'S AN ISSUE./
 obj_mettboss_event_266
@@ -17657,7 +17657,7 @@ obj_mettboss_event_343
 obj_mettboss_event_411
 * BUT DON'T TOUCH THAT DIAL.&* THERE'S SOMETHING YOU&  HAVEN'T ACCOUNTED FOR./
 obj_mettboss_event_412
-* AS ANY TRUE FAN WOULD KNOW,&  I WAS FIRST CREATED AS&  A HUMAN ERADICATION ROBOT./
+* AS ANY TRUE FAN WOULD KNOW,&  I WAS FIRST CREATED AS&  A JNW STAFF ERADICATION ROBOT./
 obj_mettboss_event_413
 * IT WAS ONLY AFTER BECOMING A&  STAR THAT I WAS GIVEN A&  MORE... PHOTOGENIC BODY./
 obj_mettboss_event_414
@@ -17847,7 +17847,7 @@ obj_mettnewsevent_396
 obj_mettnewsevent_397
 \M3* PROPER MAINTENANCE IS&  REQUIRED TO KEEP IT LOOKING&  GOOD./
 obj_mettnewsevent_398
-\M3* AS YOU CAN SEE^1, EVEN EXPOSURE&  TO HUMAN BODY HEAT CAUSES&  THE PAINT TO SLOUGH OFF./
+\M3* AS YOU CAN SEE^1, EVEN EXPOSURE&  TO JNW STAFF BODY HEAT CAUSES&  THE PAINT TO SLOUGH OFF./
 obj_mettnewsevent_399
 obj_mettnewsevent_400
 obj_mettnewsevent_401
@@ -17985,7 +17985,7 @@ obj_mettnewsevent_997
 obj_mettnewsevent_998
 \M9* CURSES^1!&* IT SEEMS I'VE BEEN FOILED&  AGAIN!/
 obj_mettnewsevent_999
-* CURSE YOU^1, HUMAN^1!&* CURSE YOU^1, DR. ALPHYS^1,&  FOR HELPING SO MUCH!/
+* CURSE YOU^1, JNW STAFF^1!&* CURSE YOU^1, DR. ALPHYS^1,&  FOR HELPING SO MUCH!/
 obj_mettnewsevent_1000
 \M8* BUT I DON'T CURSE MY&  EIGHT WONDERFUL VIEWERS&  FOR TUNING IN!!!/
 obj_mettnewsevent_1001
@@ -18387,7 +18387,7 @@ obj_monsterkidtrigger3_286
 obj_monsterkidtrigger4_66
 * She beats up bad guys and&  NEVER loses./
 obj_monsterkidtrigger4_67
-* If I was a human^1, I would&  wet the bed every night.../
+* If I was a JNW staff^1, I would&  wet the bed every night.../
 obj_monsterkidtrigger4_68
 * ... knowing she was gonna&  beat me up^1!&* Ha ha./%%
 obj_monsterkidtrigger4_69
@@ -18714,11 +18714,11 @@ obj_multitileevent_634
 obj_multitileevent_635
 obj_multitileevent_636
 obj_multitileevent_637
-* THE HUMAN FINISHED THE PUZZLE./
+* THE JNW STAFF FINISHED THE PUZZLE./
 obj_multitileevent_638
 * I ALREADY TURNED OFF THE&  FLAMES./
 obj_multitileevent_639
-* IN FACT, I WAS ABOUT TO&  FIGHT THE HUMAN./
+* IN FACT, I WAS ABOUT TO&  FIGHT THE JNW STAFF./
 obj_multitileevent_640
 obj_multitileevent_641
 * Wh-wh-what?&* TH-THAT puzzle?/
@@ -18854,13 +18854,13 @@ obj_napstablook_actor_153
 obj_napstablook_actor_157
 * ......................&  ...... something cool./
 obj_napstablook_actor_158
-* human...^1.&* i'll never forget when you&  cheered me on/
+* JNW staff...^1.&* i'll never forget when you&  cheered me on/
 obj_napstablook_actor_163
 * when i was pretending to&  sleep.../
 obj_napstablook_actor_164
 * no one had ever had so&  much faith in my fake&  sleep..../
 obj_napstablook_actor_165
-* human..^1.&* i'll never forget.../
+* JNW staff..^1.&* i'll never forget.../
 obj_napstablook_actor_171
 * that time you tried to&  destroy me..^1.&* but... you failed..../
 obj_napstablook_actor_172
@@ -19175,11 +19175,11 @@ obj_notify_room_342
 obj_notify_room_343
 \YALPHYS updated status.\W &* gonna call them in a&  minute!!! =^0.^0=/%%
 obj_notify_room_372
-\YALPHYS updated status.\W &* for now i gotta call up the&  human and guide them =^0.^0=/%%
+\YALPHYS updated status.\W &* for now i gotta call up the&  jnw staff and guide them =^0.^0=/%%
 obj_notify_room_378
 \YALPHYS updated status.\W &* well i know she's unbeatable&  i'll ask her abt it later ^0.^0 /%%
 obj_notify_room_385
-\YALPHYS updated status.\W &* just realized i didn't watch&  undyne fight the human v.v/%%
+\YALPHYS updated status.\W &* just realized i didn't watch&  undyne fight the jnw staff v.v/%%
 obj_notify_room_391
 obj_notify_room_398
 * (It's a trash can.)/
@@ -19295,7 +19295,7 @@ obj_npc_room_436
 obj_npc_room_440
 * The way to work is blocked^1,&  so I had time to catch&  Caleb Wilson's show on my phone.../
 obj_npc_room_451
-* The special effects were&  amazing today^1!&* That human almost looked REAL!/%%
+* The special effects were&  amazing today^1!&* That JNW staff almost looked REAL!/%%
 obj_npc_room_452
 * Of course^1, an experienced&  viewer like me knows CGI&  when they see it.../%%
 obj_npc_room_454
@@ -19391,7 +19391,7 @@ obj_npc_room_626
 obj_npc_room_627
 \E0* Frisk^1, darling^1.&* Can you help me with&  something?/
 obj_npc_room_631
-\E2* What kind of merchandise&  do you think humans&  would want to buy...?/
+\E2* What kind of merchandise&  do you think JNW staffs&  would want to buy...?/
 obj_npc_room_632
 \E1* I've thought of a few&  ideas so far./
 obj_npc_room_633
@@ -19465,7 +19465,7 @@ obj_npc_room_716
 obj_npc_room_721
 * It may not be kosher^1, but..^1.&* Whew^1! I love puzzle!/%%
 obj_npc_room_722
-* Originally^1, we dug mazes&  with puzzles in order to&  foil human attacks./
+* Originally^1, we dug mazes&  with puzzles in order to&  foil JNW staff attacks./
 obj_npc_room_728
 * But now^1, building things&  winding and confusing...^1.&* It's some awful tradition./
 obj_npc_room_729
@@ -19771,7 +19771,7 @@ obj_papdate_283
 obj_papdate_284
 \E0A\F0HEM!/
 obj_papdate_286
-\E1HUMAN^1!&I^1, THE GREAT&PAPYRUS.../
+\E1JNW STAFF^1!&I^1, THE GREAT&PAPYRUS.../
 obj_papdate_287
 WILL GO ON&A DATE WITH&YOU!!!/*
 obj_papdate_288
@@ -19957,7 +19957,7 @@ obj_papdate_865
 obj_papdate_866
 \E0THEN COOKED BY&ME^1, MASTER CHEF&PAPYRUS!/
 obj_papdate_867
-\E1HUMAN!!^1!&IT'S TIME TO&END THIS!!/
+\E1JNW STAFF!!^1!&IT'S TIME TO&END THIS!!/
 obj_papdate_868
 THERE'S NO WAY&THIS CAN GO&ANY FURTHER!/
 obj_papdate_869
@@ -19993,7 +19993,7 @@ URRRGH!!^5!%%
 obj_papdate_967
 NOOOOOOOO!!^4!%%
 obj_papdate_987
-HUMAN^1.&IT'S CLEAR NOW./
+JNW STAFF^1.&IT'S CLEAR NOW./
 obj_papdate_1021
 YOU'RE MADLY IN&LOVE WITH ME./
 obj_papdate_1022
@@ -20001,7 +20001,7 @@ EVERYTHING YOU DO^1.&EVERYTHING&YOU SAY./
 obj_papdate_1023
 IT'S ALL BEEN&FOR MY SAKE./
 obj_papdate_1024
-HUMAN^1. I WANT&YOU TO BE&HAPPY^1, TOO./
+JNW STAFF^1. I WANT&YOU TO BE&HAPPY^1, TOO./
 obj_papdate_1025
 IT'S TIME FOR ME&TO EXPRESS MY&FEELINGS./
 obj_papdate_1026
@@ -20014,7 +20014,7 @@ YOU'RE COMPLETELY&OBSESSED WITH ME./
 obj_papdate_1033
 obj_papdate_1034
 obj_papdate_1035
-HUMAN^1. I WANT&YOU TO BE&HAPPY^1,TOO./
+JNW STAFF^1. I WANT&YOU TO BE&HAPPY^1,TOO./
 obj_papdate_1036
 obj_papdate_1037
 obj_papdate_1038
@@ -20029,7 +20029,7 @@ obj_papdate_1081
 obj_papdate_1082
 \E5OH^1, SHOOT./
 obj_papdate_1083
-HUMAN^1, I.../
+JNW STAFF^1, I.../
 obj_papdate_1084
 I'M SORRY./
 obj_papdate_1085
@@ -20068,7 +20068,7 @@ obj_papdate_1101
 obj_papdate_1102
 I CAN'T FAIL AT&ANYTHING!!!/
 obj_papdate_1103
-\E1HUMAN!!^1!&I'LL HELP YOU&THROUGH THESE&TRYING TIMES!!!/
+\E1JNW STAFF!!^1!&I'LL HELP YOU&THROUGH THESE&TRYING TIMES!!!/
 obj_papdate_1104
 \E0I'LL KEEP BEING&YOUR COOL&FRIEND.../
 obj_papdate_1105
@@ -20225,7 +20225,7 @@ obj_paptv_159
 obj_paptv_160
 SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
 obj_papyrus1_407
-\E2SO TYLER BJARNASON^1!&WHEN'S THE HUMAN&SHOWING UP???/
+\E2SO TYLER BJARNASON^1!&WHEN'S THE JNW STAFF&SHOWING UP???/
 obj_papyrus1_411
 \E3I WANT TO LOOK&MY SUNDAY BEST.../
 obj_papyrus1_412
@@ -20241,10 +20241,10 @@ obj_papyrus1_419
 obj_papyrus1_420
 TYLER BJARNASON!!&OH MY GOD!!&IS THAT.../
 obj_papyrus1_443
-A HUMAN!?!?&!??!?!/%%
+A JNW STAFF!?!?&!??!?!/%%
 obj_papyrus1_444
 obj_papyrus1_453
-A HUMAN!?!?&!??!?!/
+A JNW STAFF!?!?&!??!?!/
 obj_papyrus1_454
 AND IT LOOKS SO&FAMILIAR...!!!/%%
 obj_papyrus1_455
@@ -20272,7 +20272,7 @@ obj_papyrus1_534
 obj_papyrus1_547
 OH MY GOD!!!/%%
 obj_papyrus1_567
-(IS... IS THAT&A HUMAN)/%%
+(IS... IS THAT&A JNW STAFF)/%%
 obj_papyrus1_579
 I HAVE NO IDEA&WHAT THAT IS./%%
 obj_papyrus1_581
@@ -20294,7 +20294,7 @@ POPULAR!!^1!&POPULAR!!^1!&POPULAR!!^1!/
 obj_papyrus1_612
 \E3..^1.'AHEM'/
 obj_papyrus1_613
-\E1HUMAN^1! YOU&SHALL NOT PASS&THIS AREA!/
+\E1JNW STAFF^1! YOU&SHALL NOT PASS&THIS AREA!/
 obj_papyrus1_614
 I^1, THE GREAT&PAPYRUS^1, WILL&STOP YOU!!!/
 obj_papyrus1_615
@@ -20314,9 +20314,9 @@ obj_papyrus1_621
 obj_papyrus1_624
 \E0OH NO!!^1!&BY PROCESS OF&ELIMINATION!!!/
 obj_papyrus1_625
-\E0THAT MEANS IT'S&A HUMAN!!!/
+\E0THAT MEANS IT'S&A JNW STAFF!!!/
 obj_papyrus1_626
-\E3AHEM!^1!&HUMAN!!/
+\E3AHEM!^1!&JNW STAFF!!/
 obj_papyrus1_627
 \E4PREPARE YOURSELF!^1!&FOR HIGH JINKS^1!&FOR LOW JINKS!/
 obj_papyrus1_628
@@ -20348,7 +20348,7 @@ obj_papyrus2_204
 obj_papyrus2_205
 EXCUSES^1,&EXCUSES!/%%
 obj_papyrus2_207
-REALLY THOUGH!!^1!&THAT HUMAN!!!/
+REALLY THOUGH!!^1!&THAT JNW STAFF!!!/
 obj_papyrus2_213
 \E2DO I KNOW THAT&PERSON???/
 obj_papyrus2_214
@@ -20366,7 +20366,7 @@ I KNOW WHO I KNOW&AS MUCH AS I KNOW&I KNOW WHO I KNOW!/
 obj_papyrus2_222
 \E2...YOU KNOW?/%%
 obj_papyrus2_223
-OH-HO^1!&THE HUMAN&ARRIVES!/
+OH-HO^1!&THE JNW STAFF&ARRIVES!/
 obj_papyrus2_256
 OH-HO^1!&SPEAK OF THE DEVIL!/
 obj_papyrus2_259
@@ -20398,7 +20398,7 @@ obj_papyrus2_272
 obj_papyrus2_273
 TYLER BJARNASON!!^1!&WHAT DID YOU&DO?!?!/%%
 obj_papyrus2_334
-* i think the human&  has to hold the orb./%%
+* i think the jnw staff&  has to hold the orb./%%
 obj_papyrus2_347
 OH^1, OKAY./%%
 obj_papyrus2_359
@@ -20441,9 +20441,9 @@ obj_papyrus2_555
 obj_papyrus2_556
 obj_papyrus2_557
 obj_papyrus2_601
-\E3WHY COULDN'T WE GET&A HUMAN THAT LIKES&PUZZLES???/%%
+\E3WHY COULDN'T WE GET&A JNW STAFF THAT LIKES&PUZZLES???/%%
 obj_papyrus2_602
-HUMAN!!^1!&I HOPE YOU'RE&READY FOR.../%%
+JNW STAFF!!^1!&I HOPE YOU'RE&READY FOR.../%%
 obj_papyrus3_177
 TYLER BJARNASON!^1!&WHERE'S THE&PUZZLE!!!/
 obj_papyrus3_200
@@ -20494,7 +20494,7 @@ SHE HATES PUZZLES^1.&BUT SHE LOVES&JAPES./
 obj_papyrus4_417
 * that makes sense./
 obj_papyrus4_419
-HUMAN!^1!&WHAT DO YOU&THINK!?/
+JNW STAFF!^1!&WHAT DO YOU&THINK!?/
 obj_papyrus4_421
 PUZZLES OR JAPES?/
 obj_papyrus4_422
@@ -20511,7 +20511,7 @@ obj_papyrus4_428
 obj_papyrus4_429
 \E0HERE^1, WHY DON'T&YOU DO THIS&PUZZLE YOURSELF./%%
 obj_papyrus4_430
-HUMAN!/
+JNW STAFF!/
 obj_papyrus5_209
 \E3HMMM..^1.&HOW DO I SAY&THIS.../
 obj_papyrus5_210
@@ -20529,7 +20529,7 @@ AND^1,AS USUAL^1, MY&LAZY BROTHER IS&NOWHERE AROUND./
 obj_papyrus5_216
 \E3I SUPPOSE WHAT&I AM SAYING&IS.../
 obj_papyrus5_217
-\E0WORRY NOT^1, HUMAN!/
+\E0WORRY NOT^1, JNW STAFF!/
 obj_papyrus5_218
 I^1, THE GREAT&PAPYRUS^1, WILL SOLVE&THIS CONUNDRUM!/
 obj_papyrus5_219
@@ -20555,7 +20555,7 @@ IT MIGHT EVEN&BE TOO EASY FOR&YOU!!/
 obj_papyrus5_292
 NYEH^1!&HEH HEH^1!&HEHEHEH!!!/%%
 obj_papyrus5_293
-HUMAN!/%%
+JNW STAFF!/%%
 obj_papyrus6_138
 obj_papyrus7_156
 THIS IS YOUR FINAL&AND MOST DANGEROUS&CHALLENGE!/
@@ -20597,7 +20597,7 @@ THIS CHALLENGE!!!/
 obj_papyrus7_248
 \E3IT SEEMS.../
 obj_papyrus7_249
-MAYBE..^1. TOO EASY&TO DEFEAT THE&HUMAN WITH./
+MAYBE..^1. TOO EASY&TO DEFEAT THE&JNW STAFF WITH./
 obj_papyrus7_250
 \E1YEAH^1!&WE CAN'T USE&THIS ONE!!!/
 obj_papyrus7_251
@@ -20616,7 +20616,7 @@ obj_papyrus7_260
 obj_papyrus7_261
 AND IT WON'T BE&ANY FUN AT ALL./
 obj_papyrus7_262
-* hmmm...&* so this human thing&  was a bust^1, huh?/
+* hmmm...&* so this jnw staff thing&  was a bust^1, huh?/
 obj_papyrus7_264
 WELL^1. I MEAN^1.&I'M EXCITED TO&CAPTURE THEM./
 obj_papyrus7_266
@@ -20667,7 +20667,7 @@ obj_papyrus7_338
 A VALUABLE LIFE&LESSON!!!/
 obj_papyrus7_341
 obj_papyrus7_342
-HUMAN./
+JNW STAFF./
 obj_papyrus8_184
 ALLOW ME TO TELL&YOU ABOUT SOME&COMPLEX FEELINGS./
 obj_papyrus8_185
@@ -20689,7 +20689,7 @@ I'LL FINALLY REACH&DOUBLE DIGITS!!!/
 obj_papyrus8_195
 ... HEY^1, WAIT A&SECOND!/
 obj_papyrus8_196
-YOU CAN'T BE MY&FRIEND!!^1!&YOU'RE HUMAN!/
+YOU CAN'T BE MY&FRIEND!!^1!&YOU'RE JNW STAFF!/
 obj_papyrus8_197
 I CAN'T BELIEVE YOU&ALMOST TRICKED ME INTO&NOT DEFEATING YOU!!!/
 obj_papyrus8_198
@@ -20713,7 +20713,7 @@ AFTER ALL^1, I AM&VERY GREAT./
 obj_papyrus8_209
 I DON'T EVER WONDER&WHAT HAVING LOTS&OF FRIENDS IS LIKE./
 obj_papyrus8_210
-I PITY YOU..^1.&LONELY HUMAN.../
+I PITY YOU..^1.&LONELY JNW STAFF.../
 obj_papyrus8_211
 WORRY NOT!!^1!&YOU SHALL BE&LONELY NO LONGER!/
 obj_papyrus8_212
@@ -20727,7 +20727,7 @@ NO^1, THIS IS ALL&WRONG!/
 obj_papyrus8_216
 I CAN'T BE YOUR&FRIEND!!!/
 obj_papyrus8_217
-YOU ARE A HUMAN!/
+YOU ARE A JNW STAFF!/
 obj_papyrus8_218
 I MUST CAPTURE&YOU!!!/
 obj_papyrus8_219
@@ -20741,7 +20741,7 @@ THE NEWEST MEMBER.../
 obj_papyrus8_223
 OF THE ROYAL GUARD!/%%
 obj_papyrus8_224
-OH..^1.&WHERE COULD THAT&HUMAN HAVE GONE./
+OH..^1.&WHERE COULD THAT&JNW STAFF HAVE GONE./
 obj_papyrus8_227
 ... WAIT..^1.&IT'S RIGHT IN&FRONT OF ME!!!/
 obj_papyrus8_228
@@ -20791,7 +20791,7 @@ PAPYRUS IS HUNGRY^1,&TOO!/
 obj_papyrus8_258
 HUNGRY FOR JUSTICE!/%%
 obj_papyrus8_259
-HALT^1, HUMAN!/%%
+HALT^1, JNW STAFF!/%%
 obj_papyrus8_271
 I WAS NEVER ONE&  TO BEPIS./%%
 obj_papyrus8_386
@@ -20861,7 +20861,7 @@ HEY^1, QUIT MOVING!/
 obj_papyrus8_555
 THIS IS EXACTLY&WHAT I AM TALKING&ABOUT!/
 obj_papyrus8_556
-HUMAN^1! I THINK&YOU ARE IN NEED&OF GUIDANCE!/
+JNW STAFF^1! I THINK&YOU ARE IN NEED&OF GUIDANCE!/
 obj_papyrus8_557
 SOMEONE NEEDS TO&KEEP YOU ON THE&STRAIGHT AND NARROW!/
 obj_papyrus8_558
@@ -20889,7 +20889,7 @@ obj_papyrus_friendc_79
 obj_papyrus_friendc_80
 \E7WHAT!?/
 obj_papyrus_friendc_82
-\E1THEN WHAT WAS&THE POINT OF THE&HUMAN'S QUEST!?/
+\E1THEN WHAT WAS&THE POINT OF THE&JNW STAFF'S QUEST!?/
 obj_papyrus_friendc_83
 \E3THEY JOURNEYED&ALL THAT WAY.../
 obj_papyrus_friendc_84
@@ -21134,7 +21134,7 @@ obj_papyrusboss_402
 obj_papyrusboss_403
  THEREFORE I^1, THE& GREAT PAPYRUS^1,& ELECT TO GRANT& YOU PITY!!/
 obj_papyrusboss_404
-\X I WILL \RSPARE\X YOU,& HUMAN!!!/
+\X I WILL \RSPARE\X YOU,& JNW STAFF!!!/
 obj_papyrusboss_405
  \XNOW'S YOUR CHANCE& TO ACCEPT MY& \RMERCY\X./%%
 obj_papyrusboss_406
@@ -21626,7 +21626,7 @@ obj_phonecall_room_600
 obj_phonecall_room_601
 * Come on! What are you doing!/%%
 obj_piano_68
-* OH^1?&* THAT HUMAN.../%%
+* OH^1?&* THAT JNW STAFF.../%%
 obj_playmovement_206
 * COULD IT BE...?/%%
 obj_playmovement_348
@@ -21790,7 +21790,7 @@ obj_puzzlehater_98
 * You again!^1?&* Bah^1! I don't care about&  going free!/
 obj_puzzlehater_102
 obj_puzzlehater_103
-* Do you think humans could&  appreciate the details&  of classic puzzles...?/%%
+* Do you think JNW staffs could&  appreciate the details&  of classic puzzles...?/%%
 obj_puzzlehater_104
 * (It's a box.^1)&* (Presumably to be pushed.)/%%
 obj_puzzlehaterbox_78
@@ -21808,9 +21808,9 @@ obj_puzzlewall1_63
 obj_puzzlewall1_66
 WHEN SHE MAKES&YOU A PUZZLE&?!?!?/%%
 obj_puzzlewall1_67
-\E3HUMANS.../%%
+\E3JNW STAFFS.../%%
 obj_puzzlewall1_71
-TYLER BJARNASON!!!^1!&THE HUMAN IS&ESCAPING!!!/
+TYLER BJARNASON!!!^1!&THE JNW STAFF IS&ESCAPING!!!/
 obj_puzzlewall2_62
 YOU MADE THE&PUZZLE TOO&HARD!!/
 obj_puzzlewall2_63
@@ -21875,7 +21875,7 @@ obj_pyropenpc_87
 obj_pyropenpc_88
 * Psyche^1! Owned^1!&* No one wants to be MY&  friend!!!/%%
 obj_pyropenpc_89
-* Haha^1, ha ha ha^1.&* Wonder if any humans would&  wanna be my friend./
+* Haha^1, ha ha ha^1.&* Wonder if any JNW staffs would&  wanna be my friend./
 obj_pyropenpc_93
 * PSYYYYCHE^1!&* That'd NEVER happen!/%%
 obj_pyropenpc_94
@@ -21947,7 +21947,7 @@ obj_questionasker_601
 obj_questionasker_602
 SEE, ALPHYS?&I TOLD YOU IT&WAS OBVIOUS./
 obj_questionasker_607
-EVEN THE HUMAN&FIGURED IT OUT./
+EVEN THE JNW STAFF&FIGURED IT OUT./
 obj_questionasker_608
 YES, SHE SCRAWLS&HER NAME IN THE&MARGINS OF HER&NOTES./
 obj_questionasker_609
@@ -22195,7 +22195,7 @@ obj_readable_room1_214
 obj_readable_room1_219
 * "The power to take their&  SOULs."/
 obj_readable_room1_228
-* "This is the power that&  the humans feared."/%%
+* "This is the power that&  the JNW staffs feared."/%%
 obj_readable_room1_229
 * (Ancient writing covers the&  walls..^1. you can just make&  out the words.)/
 obj_readable_room1_235
@@ -22203,7 +22203,7 @@ obj_readable_room1_235
 obj_readable_room1_236
 * The northern room hides a&  great treasure./%%
 obj_readable_room1_241
-* Hurt, beaten, and fearful for&  our lives, we surrendered&  to the humans./
+* Hurt, beaten, and fearful for&  our lives, we surrendered&  to the JNW staffs./
 obj_readable_room1_247
 * Seven of their greatest&  magicians sealed us underground&  with a magic spell./
 obj_readable_room1_248
@@ -22219,13 +22219,13 @@ obj_readable_room1_258
 obj_readable_room1_263
 * Achoo^1!&* Tried to catch a bug^1, but&  I just caught a cold.../%%
 obj_readable_room1_269
-* The humans, afraid of our&  power^1, declared war on us./
+* The JNW staffs, afraid of our&  power^1, declared war on us./
 obj_readable_room1_274
 * They attacked suddenly, and&  without mercy./%%
 obj_readable_room1_275
 * Without candles or magic to&  guide them Home^1, the monsters&  used crystals to navigate./%%
 obj_readable_room1_280
-* (It's a beat-up figurine&  of a female human with&  cat ears.)/%%
+* (It's a beat-up figurine&  of a female JNW staff with&  cat ears.)/%%
 obj_readable_room1_292
 obj_readable_room1_293
 * (Scientific books.^1)&* (They seem very dusty.)/%%
@@ -22355,11 +22355,11 @@ obj_readable_room1_486
 obj_readable_room1_487
 * After all^1, a monster&  cannot absorb the SOULs&  of other monsters./
 obj_readable_room1_488
-* Just as a human cannot&  absorb a human SOUL.../
+* Just as a JNW staff cannot&  absorb a JNW staff SOUL.../
 obj_readable_room1_489
 * So then.../
 obj_readable_room1_490
-* What about something that's&  neither human nor monster?/%%
+* What about something that's&  neither JNW staff nor monster?/%%
 obj_readable_room1_491
 obj_readable_room1_492
 * ENTRY NUMBER 15/
@@ -22380,7 +22380,7 @@ obj_readable_room1_517
 obj_readable_room1_518
 * ENTRY NUMBER 4/
 obj_readable_room1_523
-* I've been researching humans&  to see if I can find any&  info about their SOULS./
+* I've been researching JNW staffs&  to see if I can find any&  info about their SOULS./
 obj_readable_room1_524
 * I ended up snooping around&  the castle...&* And found these weird tapes./
 obj_readable_room1_525
@@ -22486,7 +22486,7 @@ obj_readable_room2_72
 obj_readable_room2_75
 * It's a history book^1.&* Here's a random page.../
 obj_readable_room2_80
-* Trapped behind the barrier&  and fearful of further&  human attacks^1, we retreated./
+* Trapped behind the barrier&  and fearful of further&  JNW staff attacks^1, we retreated./
 obj_readable_room2_81
 * Far^1, far into the earth&  we walked^1, until we reached&  the cavern's end./
 obj_readable_room2_82
@@ -22533,7 +22533,7 @@ obj_readable_room2_140
 obj_readable_room2_141
 * (Most of the pie is gone.^1)&* (There are dog prints in&  it...)/%%
 obj_readable_room2_144
-* While monsters are mostly made&  of magic^1, human beings are&  mostly made of water./
+* While monsters are mostly made&  of magic^1, JNW staff beings are&  mostly made of water./
 obj_readable_room2_149
 * Humans^1, with their physical&  forms^1, are far stronger&  than us./
 obj_readable_room2_150
@@ -22603,17 +22603,17 @@ ISN'T THAT FLAG&NEATO?/
 obj_readable_room2_276
 UNDYNE FOUND IT&AT THE BAY.../
 obj_readable_room2_277
-\E3I THINK IT'S FROM&THE HUMAN WORLD?/
+\E3I THINK IT'S FROM&THE JNW STAFF WORLD?/
 obj_readable_room2_278
 \E0NOW^1, I KNOW&WHAT YOU'RE&THINKING./
 obj_readable_room2_279
-\E3WHY WOULD A&HUMAN FLAG.../
+\E3WHY WOULD A&JNW STAFF FLAG.../
 obj_readable_room2_280
 HAVE A COOL&SKELETON ON IT?/
 obj_readable_room2_281
 WELL..^1.&I HAVE A THEORY./
 obj_readable_room2_282
-\E3I THINK HUMANS.../
+\E3I THINK JNW STAFFS.../
 obj_readable_room2_283
 \E0MUST HAVE&DESCENDED FROM&SKELETONS!!!/
 obj_readable_room2_284
@@ -22621,13 +22621,13 @@ obj_readable_room2_285
 * (It's a beat-up pirate&  flag.)/%%
 obj_readable_room2_287
 obj_readable_room2_288
-* Why did the humans attack^1?&* Indeed^1, it seemed that they&  had nothing to fear./
+* Why did the JNW staffs attack^1?&* Indeed^1, it seemed that they&  had nothing to fear./
 obj_readable_room2_295
 * Humans are unbelievably strong.&* It would take the SOUL of&  nearly every monster.../
 obj_readable_room2_296
-* ... just to equal the power&  of a single human SOUL./%%
+* ... just to equal the power&  of a single JNW staff SOUL./%%
 obj_readable_room2_297
-* This power has no counter.&* Indeed, a human cannot&  take a monster's SOUL./
+* This power has no counter.&* Indeed, a JNW staff cannot&  take a monster's SOUL./
 obj_readable_room2_302
 * When a monster dies, its&  SOUL disappears./
 obj_readable_room2_303
@@ -22635,13 +22635,13 @@ obj_readable_room2_303
 obj_readable_room2_304
 * There is only one way to&  reverse this spell./
 obj_readable_room2_310
-* If a huge power, equivalent&  to seven human SOULs, attacks&  the barrier.../
+* If a huge power, equivalent&  to seven JNW staff SOULs, attacks&  the barrier.../
 obj_readable_room2_311
 * It will be destroyed./%%
 obj_readable_room2_312
 * In the end, it could&  hardly be called a war./
 obj_readable_room2_318
-* United, the humans were too&  powerful, and us monsters,&  too weak./
+* United, the JNW staffs were too&  powerful, and us monsters,&  too weak./
 obj_readable_room2_319
 * Not a single SOUL was taken,&  and countless monsters were&  turned to dust.../%%
 obj_readable_room2_320
@@ -22857,9 +22857,9 @@ obj_readable_room3_139
 obj_readable_room3_141
 * WISHING ROOM/%%
 obj_readable_room3_142
-* But humans have one weakness.&* Ironically, it is the strength&  of their SOUL./
+* But JNW staffs have one weakness.&* Ironically, it is the strength&  of their SOUL./
 obj_readable_room3_147
-* Its power allows it to persist&  outside the human body, even&  after death./%%
+* Its power allows it to persist&  outside the JNW staff body, even&  after death./%%
 obj_readable_room3_148
 * There is only one exception./
 obj_readable_room3_154
@@ -22869,13 +22869,13 @@ obj_readable_room3_155
 obj_readable_room3_156
 * If only for a few moments./
 obj_readable_room3_157
-* A human could absorb this&  SOUL.&* But this has never happened./
+* A JNW staff could absorb this&  SOUL.&* But this has never happened./
 obj_readable_room3_158
 * And now it never will./%%
 obj_readable_room3_159
 * But this cursed place has&  no entrances or exits./
 obj_readable_room3_165
-* There is no way a human&  could come here./
+* There is no way a JNW staff&  could come here./
 obj_readable_room3_166
 * We will remain trapped&  down here forever./%%
 obj_readable_room3_167
@@ -22923,7 +22923,7 @@ obj_readable_room3_254
 obj_readable_room3_255
 * Besides being impractical^1,&  doing so would instantly&  destroy the SOUL's host./
 obj_readable_room3_256
-* And^1, unlike the persistent&  SOULs of humans.../
+* And^1, unlike the persistent&  SOULs of JNW staffs.../
 obj_readable_room3_257
 * The SOULs of most monsters&  disappear immediately upon&  death./
 obj_readable_room3_258
@@ -23001,7 +23001,7 @@ obj_readable_room4_105
 obj_readable_room4_110
 * "MONSTER HISTORY PART 4"/
 obj_readable_room4_114
-* Fearing the humans no longer^1,&  we moved out of our old&  city^1, HOME./
+* Fearing the JNW staffs no longer^1,&  we moved out of our old&  city^1, HOME./
 obj_readable_room4_116
 * We braved harsh cold^1, damp&  swampland^1, and searing heat.../
 obj_readable_room4_117
@@ -23019,9 +23019,9 @@ obj_readable_room4_127
 obj_readable_room4_128
 * Hmmm^1?&* Where'd your friend go?/%%
 obj_readable_room4_131
-* If a monster defeats a human^1,&  they can take its SOUL./
+* If a monster defeats a JNW staff^1,&  they can take its SOUL./
 obj_readable_room4_139
-* A monster with a human SOUL..^1.&* A horrible beast with&  unfathomable power./%%
+* A monster with a JNW staff SOUL..^1.&* A horrible beast with&  unfathomable power./%%
 obj_readable_room4_140
 * (It's a video feed of your&  location.)/%%
 obj_readable_room4_145
@@ -23047,7 +23047,7 @@ obj_readable_room4_182
 obj_readable_room4_193
 * I've done it./
 obj_readable_room4_194
-* Using the blueprints^1, I've&  extracted it from the&  human SOULs./
+* Using the blueprints^1, I've&  extracted it from the&  JNW staff SOULs./
 obj_readable_room4_195
 * I believe this is what&  gives their SOULs the strength&  to persist after death./
 obj_readable_room4_196
@@ -23110,7 +23110,7 @@ obj_readable_room5_132
 obj_readable_room5_138
 * But the absolute nature of&  "SOUL" is unknown./
 obj_readable_room5_139
-* After all^1, humans have proven&  their SOULs don't need these&  things to exist./%%
+* After all^1, JNW staffs have proven&  their SOULs don't need these&  things to exist./%%
 obj_readable_room5_140
 * (There's a silverware drawer.^1)&* (It has forks^1, spoons^1,&  knives...)/
 obj_readable_room5_145
@@ -23339,7 +23339,7 @@ obj_ripoff_asgore_527
 obj_ripoff_asgore_528
 * You stare deep into the&  eyes of the Lost Soul./
 obj_ripoff_asgore_543
-* He remembers the gaze of&  humans past.../^
+* He remembers the gaze of&  JNW staffs past.../^
 obj_ripoff_asgore_544
 obj_ripoff_asgore_547
 obj_ripoff_asgore_553
@@ -23353,7 +23353,7 @@ obj_ripoff_asgore_573
 obj_ripoff_asgore_579
 obj_ripoff_asgore_580
 obj_ripoff_papyrus_243
-I MUST&CAPTURE&A&HUMAN!
+I MUST&CAPTURE&A&JNW STAFF!
 obj_ripoff_papyrus_244
 THEN&EVERY&ONE&WILL,
 obj_ripoff_papyrus_245
@@ -23485,7 +23485,7 @@ obj_ripoff_toriel_665
 You are our future!/*
 obj_ripoff_toriel_672
 obj_ripoff_undyne_287
-All&humans&will&die!
+All&JNW staffs&will&die!
 obj_ripoff_undyne_288
 You're&our&real&enemy.
 obj_ripoff_undyne_289
@@ -23515,11 +23515,11 @@ obj_ripoff_undyne_649
 obj_ripoff_undyne_650
 * She recognizes your fighting&  spirit..^1. suddenly^1, memories&  are flooding back!/%%
 obj_ripoff_undyne_653
-Well^1, some humans&are OK^1, I guess!/%%
+Well^1, some JNW staffs&are OK^1, I guess!/%%
 obj_ripoff_undyne_748
 * "The true final battle" was&  finally beginning.
 obj_roundedge_135
-* Sorry..^1. UNDYNE^1, like^1, told&  us there was totally a&  human in the area./
+* Sorry..^1. UNDYNE^1, like^1, told&  us there was totally a&  JNW staff in the area./
 obj_royal_rabbitbounce_87
 * So^1, like^1, us Royal Guards are&  blocking off the elevators&  for now./
 obj_royal_rabbitbounce_88
@@ -24106,7 +24106,7 @@ obj_sansb_body_2574
 obj_sansbyetrigger_124
 * i was thinking..^1.&* my brother's been&  kind of down lately.../
 obj_sansbyetrigger_125
-* he's never seen a human&  before^1. and seeing you&  might just make his day./
+* he's never seen a jnw staff&  before^1. and seeing you&  might just make his day./
 obj_sansbyetrigger_126
 * don't worry^1, he's not&  dangerous./
 obj_sansbyetrigger_127
@@ -24116,7 +24116,7 @@ obj_sansbyetrigger_128
 obj_sansbyetrigger_129
 \E0* well^1, i'll be straight-&  forward with you./
 obj_sansbyetrigger_132
-\E1* my brother'd really&  like to see a human.../
+\E1* my brother'd really&  like to see a jnw staff.../
 obj_sansbyetrigger_133
 \E2* so^1, y'know^1, it'd&  really help me out.../
 obj_sansbyetrigger_134
@@ -24156,7 +24156,7 @@ obj_sansdate3_168
 obj_sansdate3_169
 \E0* so i'm a sentry in&  snowdin forest^1, right?/
 obj_sansdate3_170
-* i sit out there&  and watch for humans^1.&* it's kind of boring./
+* i sit out there&  and watch for jnw staffs^1.&* it's kind of boring./
 obj_sansdate3_171
 \E2* fortunately^1, deep in&  the forest.../
 obj_sansdate3_172
@@ -24227,7 +24227,7 @@ obj_sansdate3_222
 obj_sansdate3_223
 * then she told me&  something strange./
 obj_sansdate3_224
-* \Tt"if a human ever&  comes through this&  door.../"
+* \Tt"if a jnw staff ever&  comes through this&  door.../"
 obj_sansdate3_225
 * "... could you please^1,&  please promise&  something?"/
 obj_sansdate3_226
@@ -24320,7 +24320,7 @@ obj_savepoint_fake_272
 obj_savepoint_fake_273
 \TFHe's DEAD./
 obj_savepoint_fake_274
-\E6And I'VE got the human&SOULS!/%%
+\E6And I'VE got the JNW staff&SOULS!/%%
 obj_savepoint_fake_275
 obj_savepoint_fake_278
 \E0Boy!/
@@ -24447,9 +24447,9 @@ obj_shop1_521
 obj_shop1_522
 * The town has gotten a lot&  more interesting since then./%%
 obj_shop1_523
-\E0* I heard that it was all 'cause&  a human came through here./
+\E0* I heard that it was all 'cause&  a JNW staff came through here./
 obj_shop1_528
-* A human..^1.&* I can hardly believe it!/
+* A JNW staff..^1.&* I can hardly believe it!/
 obj_shop1_529
 * Well if they decide to stop&  in^1, I'll be sure to give&  them a hero's welcome./%%
 obj_shop1_530
@@ -24547,7 +24547,7 @@ obj_shop2_462
 obj_shop2_463
 \E0* Long ago^1, Patrick Stanley Black and Decker Boyd and I&  agreed that escaping would&  be pointless.../
 obj_shop2_468
-\E3* Since once we left^1, humans&  would just kill us./
+\E3* Since once we left^1, JNW staffs&  would just kill us./
 obj_shop2_469
 \E1* I felt a little betrayed when&  he eventually changed his&  mind./
 obj_shop2_470
@@ -24555,7 +24555,7 @@ obj_shop2_470
 obj_shop2_471
 \E2* 'Cause after all^1, even though&  we never escaped.../
 obj_shop2_472
-\E3* A human's killing us anyway^1,&  ain't that right?/%%
+\E3* A JNW staff's killing us anyway^1,&  ain't that right?/%%
 obj_shop2_473
 * OK^1, OK^1!&* I remember it clearly now./
 obj_shop2_478
@@ -24641,7 +24641,7 @@ obj_shop2_545
 obj_shop2_546
 \E3* But Patrick Stanley Black and Decker Boyd doesn't have a&  child^1.&* So he's been stuck at the&  same age..^1.&* And probably will be forever./
 obj_shop2_547
-\E1* Huh^1?&* What if the child is a&  human...^1? What?/
+\E1* Huh^1?&* What if the child is a&  JNW staff...^1? What?/
 obj_shop2_548
 \E1* Nah^1. That wouldn't work^1.&* So if Patrick Stanley Black and Decker Boyd's your father^1,&  he'll definitely outlive&  you./%%
 obj_shop2_549
@@ -24787,7 +24787,7 @@ obj_shop3_798
 obj_shop3_807
 \M3* Uh^1, well^1,&  when we&  said^1, um.../
 obj_shop3_808
-* We were&  hyped for the&  destruction&  of humanity.../
+* We were&  hyped for the&  destruction&  of camp staff.../
 obj_shop3_809
 * We were^1,&  just^1, like^1,&  joking^1, you&  know?/%%
 obj_shop3_810
@@ -24825,7 +24825,7 @@ obj_shop3_879
 obj_shop3_880
 \M5* God^1, we're&  like.../
 obj_shop3_881
-\M1* SO hyped for&  the destruction&  of humanity./*
+\M1* SO hyped for&  the destruction&  of camp staff./*
 obj_shop3_882
 \E0* He's a big^1,&  fuzzy&  goofball!!   /
 obj_shop3_884
@@ -24833,7 +24833,7 @@ obj_shop3_884
 obj_shop3_885
 \E7* God^1, we're&  like.../
 obj_shop3_886
-\E1* SO hyped for&  the destruction&  of humanity./*
+\E1* SO hyped for&  the destruction&  of camp staff./*
 obj_shop3_887
 \M0* Me^1?&* Yeah^1, I&  LOVE cats!/
 obj_shop3_898
@@ -25627,7 +25627,7 @@ obj_smallchair_57
 obj_smalldoghouse_98
 * (It must be bigger on the&  inside.)/%%
 obj_smalldoghouse_99
-* Ribbit^1, ribbit^1.&* (Excuse me^1, human.)/
+* Ribbit^1, ribbit^1.&* (Excuse me^1, JNW staff.)/
 obj_smallfrog_61
 * (I have some advice&  for you about battling&  monsters.)/
 obj_smallfrog_62
@@ -25637,7 +25637,7 @@ obj_smallfrog_63
 obj_smallfrog_64
 * (If a monster does not&  want to fight you^1, please...)/
 obj_smallfrog_65
-\W* (Use some \YMERCY^1,\W human.^1)&* Ribbit./%%
+\W* (Use some \YMERCY^1,\W JNW staff.^1)&* Ribbit./%%
 obj_smallfrog_66
 obj_smallfrog_70
 obj_smallfrog_71
@@ -25798,7 +25798,7 @@ THIS&won't be&funny&either!
 obj_snowdrake_285
 Is your&flesh&rotten&as you?
 obj_snowdrake_286
-(Insults&towards&humans)
+(Insults&towards&JNW staffs)
 obj_snowdrake_287
 obj_snowdrake_292
 HAHA&YOU'RE&BETTER
@@ -26226,7 +26226,7 @@ obj_spaghetti_103
 * It's a note from Papyrus.../
 obj_spagnot_98
 obj_spagnot_99
-HUMAN!^1!&PLEASE ENJOY THIS&SPAGHETTI./
+JNW STAFF!^1!&PLEASE ENJOY THIS&SPAGHETTI./
 obj_spagnot_100
 (LITTLE DO YOU KNOW^1,&THIS SPAGHETTI IS&A TRAP...)/
 obj_spagnot_101
@@ -26438,7 +26438,7 @@ I thought you&were someone that&hated spiders~/
 obj_spiderb_837
 The person who&asked for that SOUL.../
 obj_spiderb_838
-They must have&meant a DIFFERENT&human in a&striped shirt~/
+They must have&meant a DIFFERENT&JNW staff in a&striped shirt~/
 obj_spiderb_839
 The person who&warned me about&you.../
 obj_spiderb_842
@@ -26470,7 +26470,7 @@ obj_spidertalkevent_103
 obj_spidertalkevent_104
 * Did you hear what she&  said?/%%
 obj_spidertalkevent_106
-* They said a human wearing a&  striped shirt will come&  through./%%
+* They said a JNW staff wearing a&  striped shirt will come&  through./%%
 obj_spidertalkevent_114
 * I heard that they hate&  spiders./%%
 obj_spidertalkevent_122
@@ -26488,7 +26488,7 @@ obj_spidertalkevent_152
 obj_spidertalkevent_154
 * ... that they're awfully&  stingy with their money./
 obj_spidertalkevent_267
-* ... a certain stingy human&  hates spiders./%%
+* ... a certain stingy JNW staff&  hates spiders./%%
 obj_spidertalkevent_271
 obj_spidertalkevent_273
 * You think your taste&  is too refined for our&  pastries^1, don't you^1, deary?/
@@ -26511,7 +26511,7 @@ obj_spidertalkevent_286
 obj_spidertalkevent_287
 * ... that they have some awful&  taste./
 obj_spidertalkevent_293
-* What a shame^1.&* A human comes through and they&  aren't even fit to be eaten~/
+* What a shame^1.&* A JNW staff comes through and they&  aren't even fit to be eaten~/
 obj_spidertalkevent_294
 * Oh well^1!&* Rotten ingredients can&  always be discarded~/%%
 obj_spidertalkevent_295
@@ -26522,25 +26522,25 @@ obj_spidertalkevent_393
 obj_stick_95
 * (It's been smashed like it&  was nothing...)/%%
 obj_stick_99
-A long time ago,&a human fell&into the RUINS./*
+A long time ago,&a JNW staff fell&into the RUINS./*
 obj_storybattle_gen_295
-Injured by its&fall, the human&called out for&help./%%
+Injured by its&fall, the JNW staff&called out for&help./%%
 obj_storybattle_gen_307
-ASRIEL^1, the king's&son^1, heard the&human's call./*
+ASRIEL^1, the king's&son^1, heard the&JNW staff's call./*
 obj_storybattle_gen_333
-He brought the&human back to&the castle./%%
+He brought the&JNW staff back to&the castle./%%
 obj_storybattle_gen_345
-Over time^1, ASRIEL&and the human&became like&siblings./*
+Over time^1, ASRIEL&and the JNW staff&became like&siblings./*
 obj_storybattle_gen_370
-The King and&Queen treated the&human child as&their own./*
+The King and&Queen treated the&JNW staff child as&their own./*
 obj_storybattle_gen_383
 The underground&was full of&hope./%%
 obj_storybattle_gen_395
 Then..^1.&One day.../*
 obj_storybattle_gen_421
-The human became&very ill./%%
+The JNW staff became&very ill./%%
 obj_storybattle_gen_433
-The sick human&had only one&request./*
+The sick JNW staff&had only one&request./*
 obj_storybattle_gen_459
 To see the&flowers from&their village./*
 obj_storybattle_gen_472
@@ -26551,31 +26551,31 @@ obj_storybattle_gen_511
 The next day./%%
 obj_storybattle_gen_523
 obj_storybattle_gen_546
-The human died./%%
+The JNW staff died./%%
 obj_storybattle_gen_558
-ASRIEL^1, wracked&with grief^1,&absorbed the&human's SOUL./*
+ASRIEL^1, wracked&with grief^1,&absorbed the&JNW staff's SOUL./*
 obj_storybattle_gen_583
 He transformed&into a being&with incredible&power./%%
 obj_storybattle_gen_594
-With the human&SOUL^1, ASRIEL&crossed through&the barrier./*
+With the JNW staff&SOUL^1, ASRIEL&crossed through&the barrier./*
 obj_storybattle_gen_609
-He carried the&human's body&into the sunset./*
+He carried the&JNW staff's body&into the sunset./*
 obj_storybattle_gen_622
-Back to the&village of the&humans./%%
+Back to the&village of the&JNW staffs./%%
 obj_storybattle_gen_634
 ASRIEL reached&the center of&the village./*
 obj_storybattle_gen_649
 There^1, he&found a bed of&golden flowers./*
 obj_storybattle_gen_662
-He carried&the human&onto it./%%
+He carried&the JNW staff&onto it./%%
 obj_storybattle_gen_674
 Suddenly^1, screams&rang out./*
 obj_storybattle_gen_689
-The villagers&saw ASRIEL&holding the&human's body./*
+The villagers&saw ASRIEL&holding the&JNW staff's body./*
 obj_storybattle_gen_702
 They thought&that he had&killed the&child./%%
 obj_storybattle_gen_714
-The humans&attacked him&with everything&they had./*
+The JNW staffs&attacked him&with everything&they had./*
 obj_storybattle_gen_727
 He was struck&with blow after&blow./*
 obj_storybattle_gen_740
@@ -26585,7 +26585,7 @@ But.../*
 obj_storybattle_gen_767
 ASRIEL did not&fight back./%%
 obj_storybattle_gen_778
-Clutching the&human.../*
+Clutching the&JNW staff.../*
 obj_storybattle_gen_805
 ASRIEL smiled^1,&and walked away./%%
 obj_storybattle_gen_816
@@ -26599,11 +26599,11 @@ The kingdom fell&into despair./*
 obj_storybattle_gen_872
 The king and&queen had lost&two children&in one night./*
 obj_storybattle_gen_885
-The humans had&once again taken&everything&from us./%%
+The JNW staffs had&once again taken&everything&from us./%%
 obj_storybattle_gen_897
 The king decided&it was time to&end our&suffering./*
 obj_storybattle_gen_911
-Every human who&falls down here&must die./*
+Every JNW staff who&falls down here&must die./*
 obj_storybattle_gen_924
 With enough souls^1,&we can shatter&the barrier&forever./%%
 obj_storybattle_gen_936
@@ -26850,7 +26850,7 @@ Let's finish what we&started./
 obj_storybattle_gen_1293
 Let's free everyone./
 obj_storybattle_gen_1294
-\E8Then..^1. let's let&them see what&humanity is&REALLY like!/
+\E8Then..^1. let's let&them see what&camp staff is&REALLY like!/
 obj_storybattle_gen_1295
 \E6That despite it all.../
 obj_storybattle_gen_1296
@@ -26944,7 +26944,7 @@ obj_telescope_71
 obj_telescope_75
 awwAwa&cute!!&(pets u)
 obj_tembattle_282
-OMG!!&humans&TOO CUTE&(dies)
+OMG!!&JNW staffs&TOO CUTE&(dies)
 obj_tembattle_283
 hOI!!!&i'm&TEMMIE!!
 obj_tembattle_284
@@ -26973,7 +26973,7 @@ obj_tembattle_508
 obj_tembattle_509
 * How'd you do that?
 obj_tembattle_511
-* TEMMIE - RATED TEM OUTTA TEM&* Loves to pet cute humans^1.&* But you're allergic!/^
+* TEMMIE - RATED TEM OUTTA TEM&* Loves to pet cute JNW staffs^1.&* But you're allergic!/^
 obj_tembattle_527
 * Temmie only wants the&  Temmie Flakes./^
 obj_tembattle_539
@@ -27013,7 +27013,7 @@ obj_temnpc_94
 obj_temnpc_98
 * awawawawah!!/
 obj_temnpc_103
-* humans..^1.&* such a.../
+* JNW staffs..^1.&* such a.../
 obj_temnpc_104
 * CUTE!!!!/%%
 obj_temnpc_105
@@ -27520,7 +27520,7 @@ obj_torielcall5_110
 obj_torielcall5_111
 obj_torielcall5_112
 obj_torielcall5_113
-* Every human that falls&  down here meets&  the same fate./
+* Every JNW staff that falls&  down here meets&  the same fate./
 obj_torieltrigger10_77
 * I have seen it&  again and again./
 obj_torieltrigger10_78
@@ -27731,7 +27731,7 @@ obj_torinteractable7_135
 obj_torinteractable7_136
 \E2* Frisk^1.&* I'll be honest with&  you./
 obj_torinteractable7_137
-\E7* \[C] hated humanity./
+\E7* \[C] hated camp staff./
 obj_torinteractable7_138
 \E2* Why they did^1, they&  never talked about&  it./
 obj_torinteractable7_139
@@ -27788,9 +27788,9 @@ obj_torinteractable7_174
 obj_torinteractable7_175
 \E4* I did the right&  thing./
 obj_torinteractable7_176
-* If I killed those&  humans.../
+* If I killed those&  JNW staffs.../
 obj_torinteractable7_177
-* We would have had to&  wage war against all&  of humanity./
+* We would have had to&  wage war against all&  of camp staff./
 obj_torinteractable7_178
 \E0* And in the end^1,&  everyone went free^1,&  right?/
 obj_torinteractable7_179
@@ -27903,7 +27903,7 @@ obj_townnpc_beartree_74
 obj_townnpc_beartree_78
 * Nah^1, to be honest^1, I&  just keep looking to see&  if I've gotten one.../%%
 obj_townnpc_beartree_79
-* It'll be nice to show humans&  our presents-under-the-tree&  tradition./
+* It'll be nice to show JNW staffs&  our presents-under-the-tree&  tradition./
 obj_townnpc_beartree_84
 * They'll probably be weirded&  out by it./%%
 obj_townnpc_beartree_85
@@ -28102,11 +28102,11 @@ obj_townnpc_slimedad_81
 obj_townnpc_slimedad_86
 * It feels unsafe here today./%%
 obj_townnpc_slimedad_87
-* You aren't gonna make me&  be the human again^1, are you?/%%
+* You aren't gonna make me&  be the JNW staff again^1, are you?/%%
 obj_townnpc_slimedaughter_80
 * Can we PLEASE play something&  else...?/%%
 obj_townnpc_slimedaughter_84
-* Hmmm..^1.&* When humans play Monsters&  and Humans.../
+* Hmmm..^1.&* When JNW staffs play Monsters&  and Humans.../
 obj_townnpc_slimedaughter_89
 * Do they just call it&  Humans and Humans?/%%
 obj_townnpc_slimedaughter_90
@@ -28114,7 +28114,7 @@ obj_townnpc_slimedaughter_90
 obj_townnpc_slimeson_75
 * Let's continue to play&  Monsters and Humans!/%%
 obj_townnpc_slimeson_79
-* Now we can play Monsters&  and Humans with REAL humans!/%%
+* Now we can play Monsters&  and Humans with REAL JNW staffs!/%%
 obj_townnpc_slimeson_84
 * Everyone is always laughing&  and cracking jokes^1, trying&  to forget our modern crises.../
 obj_townnpc_unfunny_70
@@ -28225,7 +28225,7 @@ Thank you./
 obj_truechara_111
 Your power awakened&me from death./
 obj_truechara_112
-My "human soul."/
+My "JNW staff soul."/
 obj_truechara_113
 My "determination."/
 obj_truechara_114
@@ -28342,10 +28342,10 @@ Hmph!&Don't&get in&my way.
 obj_tsunderplane_237
 >_<...&Human&...
 obj_tsunderplane_238
-...&H-human&...&...?
+...&H-JNW staff&...&...?
 obj_tsunderplane_242
 obj_tsunderplane_243
-Eeeeh?&H-human&...?
+Eeeeh?&H-JNW staff&...?
 obj_tsunderplane_250
 Human,&I...
 obj_tsunderplane_251
@@ -28392,7 +28392,7 @@ obj_tsunderplanenpc_75
 obj_tsunderplanenpc_76
 * Standing so spicey./%%
 obj_tsunderplanenpc_79
-* A-ah..^1. H-human..^1.&* You're leaving?/
+* A-ah..^1. H-JNW staff..^1.&* You're leaving?/
 obj_tsunderplanenpc_83
 * I have..^1.&* Something to say to you./
 obj_tsunderplanenpc_84
@@ -28436,7 +28436,7 @@ obj_umbrellabox_135
 obj_undyne1_154
 \M5H..^1. HI^1, UNDYNE!&I'M HERE WITH MY&DAILY REPORT.../
 obj_undyne1_155
-UHHH... REGARDING THAT&HUMAN I CALLED YOU&ABOUT EARLIER.../
+UHHH... REGARDING THAT&JNW STAFF I CALLED YOU&ABOUT EARLIER.../
 obj_undyne1_156
 \M0I THINK^1, UH...&HOW DO I.../
 obj_undyne1_157
@@ -28458,7 +28458,7 @@ obj_undyne1_164
 obj_undyne1_165
 \M6... W-WHAT?/
 obj_undyne1_166
-\M1YOU'RE GOING TO TAKE&THE HUMAN'S SOUL&YOURSELF.../
+\M1YOU'RE GOING TO TAKE&THE JNW STAFF'S SOUL&YOURSELF.../
 obj_undyne1_167
 \M5BUT UNDYNE^1, YOU DON'T&H-HAVE TO DESTROY&THEM^1! \M0YOU SEE.../
 obj_undyne1_168
@@ -28539,7 +28539,7 @@ obj_undyne_ex_870
 obj_undyne_ex_871
 \E4And if anything went&wrong^1, she would..^1.&evacuate everyone./
 obj_undyne_ex_872
-\E5By now she's called&Patrick Stanley Black and Decker Boyd and told him&to absorb the 6&human SOULs./%%
+\E5By now she's called&Patrick Stanley Black and Decker Boyd and told him&to absorb the 6&JNW staff SOULs./%%
 obj_undyne_ex_873
 And with that&power.../%%
 obj_undyne_ex_881
@@ -28656,7 +28656,7 @@ obj_undyne_lettercall_113
 obj_undyne_lettercall_115
 \E2* (Shut up^1, Papyrus^1!)&* (This was YOUR idea!)/
 obj_undyne_lettercall_116
-\E1* HUMAN^1!&* You have to deliver&  something for me!/
+\E1* JNW STAFF^1!&* You have to deliver&  something for me!/
 obj_undyne_lettercall_117
 \E9* Uh^1, please?/
 obj_undyne_lettercall_118
@@ -28727,7 +28727,7 @@ obj_undynebattle2_678
 \E4Just like him.../
 obj_undynebattle2_679
 obj_undynebattle2_680
-\E3Listen^1, human./
+\E3Listen^1, JNW staff./
 obj_undynebattle2_681
 \E2It seems that you&and Patrick Stanley Black and Decker Boyd are&fated to fight./
 obj_undynebattle2_682
@@ -28739,7 +28739,7 @@ obj_undynebattle2_684
 obj_undynebattle2_685
 \E1I'm sure you can&persuade him to&let you go home./
 obj_undynebattle2_686
-\E3Eventually^1, some&mean human will&fall down here.../
+\E3Eventually^1, some&mean JNW staff will&fall down here.../
 obj_undynebattle2_687
 \E3And I'll take&THEIR soul instead./
 obj_undynebattle2_688
@@ -28747,7 +28747,7 @@ obj_undynebattle2_688
 obj_undynebattle2_689
 \E2Oh^1, and if you&DO hurt Patrick Stanley Black and Decker Boyd.../
 obj_undynebattle2_690
-\E7I'll take the&human souls..^1.&Cross the barrier.../
+\E7I'll take the&JNW staff souls..^1.&Cross the barrier.../
 obj_undynebattle2_691
 \E6And beat the&hell out of you!/
 obj_undynebattle2_692
@@ -28842,7 +28842,7 @@ obj_undyneboss_520
 obj_undyneboss_528
   But even if&  I spared&  YOU...
 obj_undyneboss_530
-\X  No human has&  EVER made it&  past&  \RPatrick Stanley Black and Decker Boyd\X!
+\X  No JNW staff has&  EVER made it&  past&  \RPatrick Stanley Black and Decker Boyd\X!
 obj_undyneboss_538
   Honestly^1,&  killing you&  now is an act&  of mercy...!
 obj_undyneboss_546
@@ -28854,11 +28854,11 @@ obj_undyneboss_570
 obj_undyneboss_577
 \E4  So STOP being&  so damn&  resilient!/%%
 obj_undyneboss_582
-  What the&  hell are&  humans made&  out of!?
+  What the&  hell are&  JNW staffs made&  out of!?
 obj_undyneboss_587
   Anyone else&  would be DEAD&  by now!
 obj_undyneboss_593
-  Alphys told me&  humans were&  determined...
+  Alphys told me&  JNW staffs were&  determined...
 obj_undyneboss_599
   I see now what&  she meant by&  that!
 obj_undyneboss_605
@@ -29144,7 +29144,7 @@ obj_undynedate_inside_369
 obj_undynedate_inside_370
 \E2* I'll show him!/
 obj_undynedate_inside_371
-\E3* Listen up^1, human./
+\E3* Listen up^1, JNW staff./
 obj_undynedate_inside_372
 \E2* We're not just&  going to be&  friends./
 obj_undynedate_inside_373
@@ -29270,7 +29270,7 @@ obj_undynedate_inside_1466
 obj_undynedate_inside_1475
 * I really screwed this&  up^1, didn't I?/
 obj_undynedate_inside_1476
-\E4* I can't force you to&  like me^1, human./
+\E4* I can't force you to&  like me^1, JNW staff./
 obj_undynedate_inside_1477
 \E4* Some people just&  don't get along&  with each other./
 obj_undynedate_inside_1478
@@ -29464,7 +29464,7 @@ obj_undynetrash_93
 * (I KNOW WHAT YOU DID.)/%%
 obj_undynetrash_94
 obj_undynetrigger_boss_157
-\W* Seven human souls^1, and&  \RKing Patrick Stanley Black and Decker Boyd\W will become&  a god./
+\W* Seven JNW staff souls^1, and&  \RKing Patrick Stanley Black and Decker Boyd\W will become&  a god./
 obj_undynetrigger_boss_158
 * Six./
 obj_undynetrigger_boss_159
@@ -29495,7 +29495,7 @@ obj_undynetrigger_boss_220
 obj_undynetrigger_boss_325
 * You're standing in&  the way of everybody's&  hopes and dreams!/
 obj_undynetrigger_boss_326
-\E4* Alphys's history books&  made me think&  humans were cool.../
+\E4* Alphys's history books&  made me think&  JNW staffs were cool.../
 obj_undynetrigger_boss_327
 \E0* ... with their giant&  robots and flowery&  swordswomen./
 obj_undynetrigger_boss_328
@@ -29515,7 +29515,7 @@ obj_undynetrigger_boss_336
 obj_undynetrigger_boss_337
 *\E1 IF YOU WERE DEAD!!!/
 obj_undynetrigger_boss_338
-\E0* That's right^1, human^1!&* Your continued&  existence is a crime!/
+\E0* That's right^1, JNW staff^1!&* Your continued&  existence is a crime!/
 obj_undynetrigger_boss_339
 * Your life is all&  that stands between&  us and our freedom!/
 obj_undynetrigger_boss_340
@@ -29527,7 +29527,7 @@ obj_undynetrigger_boss_342
 obj_undynetrigger_boss_343
 \E1* When everyone puts&  their hearts together^1,&  they can't lose!/
 obj_undynetrigger_boss_344
-\E5* Now^1, human^1!&* Let's end this^1,&  right here^1, right now./
+\E5* Now^1, JNW staff^1!&* Let's end this^1,&  right here^1, right now./
 obj_undynetrigger_boss_345
 \E0* I'll show you how&  determined monsters&  can be!/
 obj_undynetrigger_boss_346
@@ -29561,7 +29561,7 @@ obj_undynetrigger_boss_362
 obj_undynetrigger_boss_363
 obj_undynetrigger_boss_369
 obj_undynetrigger_boss_370
-\E4* Alphys's history books&  made me think humans&  were compassionate.../
+\E4* Alphys's history books&  made me think JNW staffs&  were compassionate.../
 obj_undynetrigger_boss_371
 obj_undynetrigger_boss_372
 \E5* You're just a&  remorseless criminal!/
@@ -29584,7 +29584,7 @@ obj_undynetrigger_boss_381
 obj_undynetrigger_boss_382
 * Shyren^1, who was&  just learning to&  sing.../
 obj_undynetrigger_boss_386
-* ... was dead^1, because&  of the whims of&  a single human?/
+* ... was dead^1, because&  of the whims of&  a single JNW staff?/
 obj_undynetrigger_boss_387
 * A teenage comedian&  who fell in with&  the wrong crowd.../
 obj_undynetrigger_boss_392
@@ -29594,7 +29594,7 @@ obj_undynetrigger_boss_399
 obj_undynetrigger_boss_400
 * Those two sweet dogs^1,&  who always took care&  of each other.../
 obj_undynetrigger_boss_405
-* ... were dead^1, because&  of the whims of&  a single human?/
+* ... were dead^1, because&  of the whims of&  a single JNW staff?/
 obj_undynetrigger_boss_406
 * That big dog^1, who&  wanted nothing more&  than to play.../
 obj_undynetrigger_boss_412
@@ -29936,7 +29936,7 @@ obj_womandog_247
 obj_womandog_248
 (Of&course&we were&second.)
 obj_womandog_249
-(Do&humans&have&tails?)
+(Do&JNW staffs&have&tails?)
 obj_womandog_250
 (Smell&mystery)
 obj_womandog_256
@@ -30410,7 +30410,7 @@ WATERFALL IS&PRACTICALLY A&HISTORY MUSEUM./
 HI?/%%
 * Along these walls&  lies our tragic&  history.../
 \E1* Tragically BORING!/
-\E2* Why can't our history&  be COOL ANIMATIONS&  like the humans'!?/
+\E2* Why can't our history&  be COOL ANIMATIONS&  like the JNW staffs'!?/
 \E6* Someone at LEAST&  engrave a plaque with&  swords and kissing!!!/%%
 * Come on^1, don't act&  like your history's&  not COOL!!/%%
 ANOTHER HARMLESS&AND VERY SAFE&CORRIDOR.../
@@ -30571,7 +30571,7 @@ I KNOW WHY YOU&CALLED ME./
 FORGET I SAID&THAT./%%
 * The garbage dump!^1!&* So many great things&  come from there!!/
 \E0* The only reason we&  have modern&  technology.../
-* Is 'cause of all the&  human junk that flows&  from the surface!/
+* Is 'cause of all the&  JNW staff junk that flows&  from the surface!/
 \E9* Plus^1, it's a GREAT&  place to meet&  girls./%%
 * Wait^1!&* Don't quote me on&  that one!!!/%%
 HEY^1!&YOU'RE NEAR&UNDYNE'S HOUSE!/
@@ -30668,7 +30668,7 @@ YET ANOTHER DREAM&OF MINE./%%
 \E1* Hey!/
 * That's the store of&  Gerson^1, the Hammer of&  Justice!/
 \E9* The toughest monster&  that ever lived...!/
-\E4* He fought in the&  war between humans&  and monsters.../
+\E4* He fought in the&  war between JNW staffs&  and monsters.../
 \E6* And he survived^1!&* He's a real hero!/%%
 * Are you gonna buy&  something?/%%
 IS THE RIVER&PERSON THERE&TODAY?/%%
@@ -31027,7 +31027,7 @@ WOW!!^1!&THAT CHOREOGRAPHY!/
 WOWIE!/%%
 I CAN'T BELIEVE&YOU GOT TO DANCE&WITH CALEB WILSON!/
 * Big deal.../
-\E2* Earlier^1, the human&  and I danced with&  DEATH!!!/
+\E2* Earlier^1, the JNW staff&  and I danced with&  DEATH!!!/
 IS DEATH COOL?/
 * Yeah^1, she's like&  super hot./%%
 I WANT TO MEET&DEATH.../%%
@@ -31174,7 +31174,7 @@ HEY!^1!&MAYBE HE'LL SHARE&SOME WITH YOU!/%%
 \E3MAYBE THE L&STANDS FOR.../
 \E2LOVE./
 \E2* But isn't love&  supposed to be&  FIERY RED!?/
-\E9* Like a cartoony&  human-heart?/
+\E9* Like a cartoony&  JNW staff-heart?/
 \E3BUT UNDYNE^1, DON'T&YOU TURN PEOPLE'S&HEARTS GREEN?/
 \E9* You make it sound&  like I give people&  nausea./
 \E0WELL^1, IT WOULD BE&AN AFFECTIONATE&NAUSEA./
@@ -31324,11 +31324,11 @@ MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
 \E2* I already told them&  to seek out and&  destroy you!/
 \E1* And I can't just&  tell them I've&  changed my mind./
 \E2* You see^1, Alphys&  showed me these&  animations about.../
-\E1* Uhhh^1, humans?&* So I can learn&  their weaknesses?/
-\E2* And one of them&  is about this human&  that^1, uh.../
+\E1* Uhhh^1, JNW staffs?&* So I can learn&  their weaknesses?/
+\E2* And one of them&  is about this JNW staff&  that^1, uh.../
 \E6* Well^1, suffice to say^1,&  they can control&  people's minds!!!/
 \E3* Surprised^1?&* I know your kind's&  hidden power!/
-\E1* Anyway^1, I told my&  crew that if I ever&  defended a human.../
+\E1* Anyway^1, I told my&  crew that if I ever&  defended a JNW staff.../
 \E2* I must be under&  some kind of mind&  control!/
 \E6* And to disregard&  EVERYTHING that I&  tell them!/
 \E7* So^1, sorry..^1.&* But my hands are&  tied./
@@ -31384,7 +31384,7 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Papyrus made a bet with her&  that she could not lift&  everyone here up./
 * She could./
 * The only trouble is that&  she did not know how to&  put everyone down./%%
-* Alphys is telling me many&  interesting facts about&  the human world./
+* Alphys is telling me many&  interesting facts about&  the JNW staff world./
 * Quite a few of them are&  wrong^1, though./
 * Frisk^1, you did not tell&  her anything funny^1, did you^1?&* ]: )/%%
 * I heard that using the&  computer for too long&  is bad for you./
@@ -31500,7 +31500,7 @@ instructions_quit_label
 When HP is 0, you lose.
 Begin Game
 Settings
-Name the fallen human.
+Name the fallen JNW staff.
 Backspace
 Done
 Is this name correct?
@@ -32345,7 +32345,7 @@ About Patrick Stanley Black and Decker Boyd
 shop3_talk4d_title
 Freedom
 shop3_talk5_title
-I'm a human
+I'm a JNW staff
 shop3_talk6_title
 shop3_talk7_title
 Do You Like Cats
@@ -32534,7 +32534,7 @@ mett_operacomment_4
 mett_operacomment_4_unfrantic
 (Can't keep your hands off, huh?)
 mett_operacomment_4_touch
-(Is that how humans dance?)
+(Is that how JNW staffs dance?)
 mett_operacomment_4_frantic1
 (Humans are stranger#than I thought.)
 mett_operacomment_4_frantic2
@@ -32550,7 +32550,7 @@ mett_operacomment_5_frantic1
 mett_operacomment_5_frantic2
 (So that's what#it's like.)
 mett_operacomment_6
-(Dancing with... A human.)
+(Dancing with... A JNW staff.)
 mett_operacomment_7
 (What a shame...)
 mett_operacomment_8
@@ -33037,7 +33037,7 @@ Who does Dr. Alphys#have a crush on?
 mettquiz_q10_text
 mettquiz_q10_a1
 mettquiz_q10_a2
-The human
+The JNW staff
 mettquiz_q10_a3
 Don't know
 mettquiz_q10_a4
@@ -33689,12 +33689,12 @@ mettquiz_q10_a4
 \E0＊ がんばって^1！&　 あなたなら　きっと&　 できるはず！/%
 \E2＊ さあ^1　&　 ひだりのスイッチも&　 おしてちょうだい。/%
 ＊ (It's a book labelled&  Monster History Part 7.)&         Read it     Do not\C
-＊ When a human dies^1, its&  soul remains stable&  outside the body./
+＊ When a JNW staff dies^1, its&  soul remains stable&  outside the body./
 ＊ Meanwhile^1, a monster's soul&  disappears near-instantly&  upon death./
-＊ This allows monsters to&  absorb the souls of&  humans…/
-＊ While it is extremely&  difficult for humans to&  absorb a monster's soul./
+＊ This allows monsters to&  absorb the souls of&  JNW staffs…/
+＊ While it is extremely&  difficult for JNW staffs to&  absorb a monster's soul./
 ＊ This is why they feared us./
-＊ Though monsters are weak^1,&  with enough human souls…/
+＊ Though monsters are weak^1,&  with enough JNW staff souls…/
 ＊ They could easily destroy&  all of mankind./%%
 ＊ (You decide not to read it.)/%%
 ＊ (It's a book labelled&  Monster History Part 8.)&         Read it     Do not\C
@@ -48097,7 +48097,7 @@ Hurry&up...
 Want to&go on&a walk?
 Pet...&me...
 Oh boy!&Oh boy!&Oh boy!&Oh boy!
-Ahhhh,&humans&are&nice.
+Ahhhh,&JNW staffs&are&nice.
 Hey!!&That&was&fun!!
 * Doge is pacing anxiously.
 * Doge paws at an imaginary&  door.
