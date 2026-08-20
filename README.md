@@ -25,3 +25,5 @@ These are the characters that are modified by JNWTALE.
 
 ## In Progress
 
+
+## Not Started
