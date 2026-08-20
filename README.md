@@ -25,5 +25,6 @@ These are the characters that are modified by JNWTALE.
 
 ## In Progress
 
+**Mettaton Neo**: Caleb ''Big Program'' Wilson
 
 ## Not Started
