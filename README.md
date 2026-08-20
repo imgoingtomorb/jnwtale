@@ -7,6 +7,8 @@ These are the characters that are modified by JNWTALE.
 
 **Mettaton EX**: Caleb ''Sleepy Program'' Wilson
 
+**Sans**: Tyler 
+
 ## Enemies 
 
 **Jerry**: Andy Makepeace
@@ -23,4 +25,3 @@ These are the characters that are modified by JNWTALE.
 
 ## In Progress
 
-**Sans**: Tyler 
