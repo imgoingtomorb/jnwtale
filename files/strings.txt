@@ -32747,7 +32747,7 @@ item_use_64
 * Icecap and Chilldrake&  pose like bad guys.
 * Icecap and Snowdrake&  pose like bad guys.
 * Andy Makepeace clings to you!
-* Icecap appears^1.&* Andy Makepeace came too.
+* Icecap appears^1.&* Andy Makepeace came to.
 * Icecap and Snowdrake&  confront you^1, sighing.&* Andy Makepeace.
 * Icecap and Chilldrake&  confront you^1, sighing.&* Andy Makepeace.
 * Aaron flexes in!
