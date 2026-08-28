@@ -7,6 +7,8 @@ These are the characters that are modified by JNWTALE.
 
 **Mettaton EX**: Caleb ''Sleepy Program'' Wilson
 
+**Mettaton Neo**: Caleb ''Big Program'' Wilson
+
 **Sans**: Tyler 
 
 ## Enemies 
@@ -25,7 +27,6 @@ These are the characters that are modified by JNWTALE.
 
 ## In Progress
 
-**Mettaton Neo**: Caleb ''Big Program'' Wilson
 
 ## Not Started
 
