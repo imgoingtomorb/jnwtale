@@ -52,7 +52,7 @@ These are the characters that are modified by JNWTALE.
 
 **Muffet**: Assorted Rangers
 
-**Mad Dummy**: ???
+**Mad Dummy**: Errich
 
 **Gerson**: Hoss
 
