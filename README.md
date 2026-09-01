@@ -112,4 +112,5 @@ Change Junior Jumble to Webster Passport
 
 # Screenshots
 
-![](screenshots/2026-09-01 grillby's.png)
+![](screenshots/2026-09-01%20grillby's.png)
+
