@@ -96,3 +96,11 @@ These are the characters that are modified by JNWTALE.
 
 **Onionsan**: Zach Nailon
 
+# Misc Todo:
+
+## Credits:
+
+Nice Cream Guy to silver door for special food
+
+## Maps:
+
