@@ -1,4 +1,7 @@
 # JNWTALE
+
+![](splash.png)
+
 These are the characters that are modified by JNWTALE.
 
 ## Bosses
@@ -105,3 +108,8 @@ Nice Cream Guy to silver door for special food
 ## Maps:
 
 Change Junior Jumble to Webster Passport
+
+
+# Screenshots
+
+![](screenshots/2026-09-01 grillby's.png)
