@@ -99,6 +99,10 @@ These are the characters that are modified by JNWTALE.
 
 **Onionsan**: Zach Nailon
 
+**Temmie**: Tony
+
+**Woshua**: Blake Kudzal
+
 # Misc Todo:
 
 ## Credits:
