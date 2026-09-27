@@ -107,7 +107,7 @@ These are the characters that are modified by JNWTALE.
 
 ## Credits:
 
-Nice Cream Guy to silver door for special food
+Explosions
 
 ## Maps:
 
