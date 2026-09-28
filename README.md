@@ -103,6 +103,8 @@ These are the characters that are modified by JNWTALE.
 
 **Woshua**: Blake Kudzal
 
+**Knight Knight**: Thom
+
 # Misc Todo:
 
 ## Credits:
